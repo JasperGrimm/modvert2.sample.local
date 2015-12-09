@@ -1,5 +1,5 @@
 <?php
 return [
 'id' => '1',
-'category' => 'Demo Content 2',
+'category' => 'Demo Content',
 ];
