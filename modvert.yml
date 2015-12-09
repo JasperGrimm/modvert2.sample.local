@@ -13,4 +13,4 @@ stages:
     test:
         remote_url: 'http://test.questoria.ru'
     development:
-        remote_url: 'http://remote.modvert.rem'
+        remote_url: 'http://remote.modvert.rem:8000'
