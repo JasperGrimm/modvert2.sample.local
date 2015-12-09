@@ -1,0 +1,84 @@
+<?php
+/**
+return [
+'id' => '282',
+'type' => 'document',
+'contentType' => 'text/html',
+'pagetitle' => 'Живой квест «Свадьба короля»',
+'longtitle' => '',
+'description' => '',
+'alias' => 'живой-квест-свадьба-короля',
+'link_attributes' => '',
+'published' => '1',
+'parent' => '47',
+'isfolder' => '0',
+'template' => '11',
+'menuindex' => '44',
+'searchable' => '1',
+'cacheable' => '1',
+'deleted' => '0',
+'menutitle' => '',
+'donthit' => '0',
+'haskeywords' => '0',
+'hasmetatags' => '0',
+'privateweb' => '0',
+'privatemgr' => '0',
+'content_dispo' => '0',
+'hidemenu' => '0',
+];
+*/
+?>
+<div id="scenario_tabs" class="tabs-wrap">
+
+<ul class="tabs-buttons">
+<li><a class="bajax" href="#"><span class="ajax">Список персонажей сюжета</span></a></li>
+<li><a class="bajax" href="#"><span class="ajax">Отзывы о данном сюжете</span></a></li>
+<li><a class="bajax" href="#"><span class="ajax">Фотографии</span></a></li>
+</ul>
+<div class="tabs-sheets">
+<div class="tabs-sheet">
+<div class="scenario_group">
+<h3>Королевский двор</h3>
+<br />
+<p><strong><span id="docs-internal-guid-dc523cef-ffd2-bac9-5f16-e712ab4fe416"><span>Кардинал Мазарини</span></span></strong> <br /><span id="docs-internal-guid-dc523cef-ffd2-e228-eb8b-0746da84e199"><span>Советник короля, первый министр Франции.</span></span></p>
+<p><strong><span id="docs-internal-guid-dc523cef-ffd3-0d1a-a0af-c352ef857020"><span>Принц де Конти</span></span></strong> <br /><span id="docs-internal-guid-dc523cef-ffd3-3959-2bdd-253e2700b528"><span>Родственник и приближённый короля Людовика.</span></span></p>
+<p><strong><span id="docs-internal-guid-dc523cef-ffd3-b301-d605-5457f5424304"><span>Маркиз де Лорен</span></span></strong> <br /><span id="docs-internal-guid-dc523cef-ffd3-d270-e1fe-a15e9c4890a5"><span>Придворный.</span></span></p>
+<p><strong><span id="docs-internal-guid-dc523cef-ffd3-b301-d605-5457f5424304"><span>Граф де Клермон</span></span></strong> <br /><span id="docs-internal-guid-dc523cef-ffd3-d270-e1fe-a15e9c4890a5"><span>Придворный.</span></span></p>
+<p><strong><span id="docs-internal-guid-dc523cef-ffd3-b301-d605-5457f5424304"><span>Венсан Кресси</span></span></strong> <br /><span id="docs-internal-guid-dc523cef-ffd3-d270-e1fe-a15e9c4890a5"><span>Придворный.</span></span></p>
+<p><strong><span id="docs-internal-guid-dc523cef-ffd3-b301-d605-5457f5424304"><span>Адриан Фловент</span></span></strong> <br /><span id="docs-internal-guid-dc523cef-ffd3-d270-e1fe-a15e9c4890a5"><span>Придворный.</span></span></p>
+<p><strong><span id="docs-internal-guid-dc523cef-ffd3-b301-d605-5457f5424304"><span>Виктор Шалон</span></span></strong> <br /><span id="docs-internal-guid-dc523cef-ffd3-d270-e1fe-a15e9c4890a5"><span>Придворный.</span></span></p>
+<p><strong><span id="docs-internal-guid-dc523cef-ffd3-b301-d605-5457f5424304"><span>Симон Мирабо</span></span></strong> <br /><span id="docs-internal-guid-dc523cef-ffd3-d270-e1fe-a15e9c4890a5"><span>Придворный.</span></span></p>
+<p><strong><span id="docs-internal-guid-dc523cef-ffd3-b301-d605-5457f5424304"><span>Д’Артаньян</span></span></strong> <br /><span id="docs-internal-guid-dc523cef-ffd3-d270-e1fe-a15e9c4890a5"><span>Лейтенант королевских мушкетёров.</span></span></p>
+<p><strong><span id="docs-internal-guid-dc523cef-ffd3-b301-d605-5457f5424304"><span>Портос</span></span></strong> <br /><span id="docs-internal-guid-dc523cef-ffd3-d270-e1fe-a15e9c4890a5"><span>Королевский мушкетёр.</span></span></p>
+<p><strong><span id="docs-internal-guid-dc523cef-ffd3-b301-d605-5457f5424304"><span>Аделина</span></span></strong> <br /><span id="docs-internal-guid-dc523cef-ffd3-d270-e1fe-a15e9c4890a5"><span>Фрейлина.</span></span></p>
+<p><strong><span id="docs-internal-guid-dc523cef-ffd3-b301-d605-5457f5424304"><span>Иветта</span></span></strong> <br /><span id="docs-internal-guid-dc523cef-ffd3-d270-e1fe-a15e9c4890a5"><span>Фрейлина.</span></span></p>
+<p><strong><span id="docs-internal-guid-dc523cef-ffd3-b301-d605-5457f5424304"><span>Дениза</span></span></strong> <br /><span id="docs-internal-guid-dc523cef-ffd3-d270-e1fe-a15e9c4890a5"><span>Фрейлина.</span></span></p>
+<p><strong><span id="docs-internal-guid-dc523cef-ffd3-b301-d605-5457f5424304"><span>Сюзанна</span></span></strong> <br /><span id="docs-internal-guid-dc523cef-ffd3-d270-e1fe-a15e9c4890a5"><span>Фрейлина.</span></span></p>
+</div>
+<div class="scenario_group">
+<h3>Гости на свадьбе</h3>
+<br />
+<p><strong><span id="docs-internal-guid-dc523cef-ffe5-1345-ba45-fb9ce4f8467b"><span>Барон фон Клаус</span></span></strong> <br /><span id="docs-internal-guid-dc523cef-ffe5-44d9-174d-0ef6bcb81dd5"><span>Сопровождающий Марии-Терезы, невесты короля.</span></span></p>
+<p><strong><span id="docs-internal-guid-dc523cef-ffe5-65fe-0e93-a7d14a45d0c2"><span>Граф де Сен-Жермен</span></span></strong> <br /><span id="docs-internal-guid-dc523cef-ffe5-9b01-0d8b-e6ef36986b36"><span>Знатный дворянин, живёт в отдалённом замке, часто покидает Францию. Говорят, он, якобы, прорицатель и алхимик.</span></span>
+</p>
+<p><strong><span id="docs-internal-guid-dc523cef-ffe5-c4e2-ff83-7fcac56b17f1"><span>Юсуф ибн Али</span></span></strong> <br /><span id="docs-internal-guid-dc523cef-ffe5-f2f5-710b-6bc2b778758d"><span>Восточный гость, посланник султана Алжира.</span></span></p>
+<p><span><span><strong><span id="docs-internal-guid-dc523cef-ffe6-44d9-ddeb-be1d33db833f"><span>Анжелика Пейрак</span></span></strong> <br /><span id="docs-internal-guid-dc523cef-ffe5-f2f5-710b-6bc2b778758d"><span id="docs-internal-guid-dc523cef-ffe6-70af-5897-9746b33c73da"><span>Дама из знатного рода, но злые языки поговаривают, что она ведьма.</span></span></span> <br /></span></span></p>
+<p><span><span><strong><span id="docs-internal-guid-dc523cef-ffe6-44d9-ddeb-be1d33db833f"><span>Бернар Эстре</span></span></strong> <br /><span id="docs-internal-guid-dc523cef-ffe5-f2f5-710b-6bc2b778758d"><span id="docs-internal-guid-dc523cef-ffe6-70af-5897-9746b33c73da"><span>Знатный дворянин, был судьёй в Париже, затем губернатором одной из провинций, в Париж вернулся недавно.</span></span></span> <br /></span></span></p>
+<p><span><span><strong><span id="docs-internal-guid-dc523cef-ffe6-44d9-ddeb-be1d33db833f"><span>Диана Эстре</span></span></strong> <br /><span id="docs-internal-guid-dc523cef-ffe5-f2f5-710b-6bc2b778758d"><span id="docs-internal-guid-dc523cef-ffe6-70af-5897-9746b33c73da"><span>Супруга Бернара Эстре.</span></span></span> <br /></span></span></p>
+<p><span><span><strong><span id="docs-internal-guid-dc523cef-ffe6-44d9-ddeb-be1d33db833f"><span>Камилл Тюренн</span></span></strong> <br /><span id="docs-internal-guid-dc523cef-ffe5-f2f5-710b-6bc2b778758d"><span id="docs-internal-guid-dc523cef-ffe6-70af-5897-9746b33c73da"><span>Знатный и очень богатый дворянин.</span></span></span> <br /></span></span></p>
+<p><span><span><strong><span id="docs-internal-guid-dc523cef-ffe6-44d9-ddeb-be1d33db833f"><span>Жан Дюссак</span></span></strong> <br /><span id="docs-internal-guid-dc523cef-ffe5-f2f5-710b-6bc2b778758d"><span id="docs-internal-guid-dc523cef-ffe6-70af-5897-9746b33c73da"><span>Деловой человек. Не знатен, но чрезвычайно богат.</span></span></span> <br /></span></span></p>
+<p><span><span><strong><span id="docs-internal-guid-dc523cef-ffe6-44d9-ddeb-be1d33db833f"><span>Люсьен Карино</span></span></strong> <br /><span id="docs-internal-guid-dc523cef-ffe5-f2f5-710b-6bc2b778758d"><span id="docs-internal-guid-dc523cef-ffe6-70af-5897-9746b33c73da"><span>Художник. Не знатен, но говорят, что ему светит место придворного художника.</span></span></span> <br /></span></span></p>
+</div>
+</div>
+<div class="tabs-sheet">
+Отзывы о сюжете [*pagetitle*]
+<br />
+<p>Отзывов пока нет, сюжет только вышел. </p>
+</div>
+<div class="tabs-sheet">
+Фотографии сюжета [*pagetitle*]
+<br />
+<p>Фотографий пока нет, сюжет только вышел. </p>
+</div>
+</div>
+</div>

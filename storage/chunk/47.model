@@ -1,0 +1,25 @@
+<?php
+/**
+return [
+'id' => '47',
+'name' => 'SocialTable',
+'description' => '',
+'editor_type' => '0',
+'category' => '11',
+'cache_type' => '0',
+'locked' => '0',
+];
+*/
+?>
+<style type="text/css">
+    #vk_like_iframe {
+        border: 0;
+    }
+</style>
+<script src="/themes/questoria/libs/iframe-resizer/js/iframeResizer.min.js"></script>
+<script>
+    $(document).ready(function(){
+        $('#vk_like_iframe').iFrameResize({log:true, checkOrigin: false});
+    });
+</script>
+<iframe id="vk_like_iframe" src="http://moscow.staging.questoria.ru/social-table-iframe" width="100%" scrolling="no"></iframe>

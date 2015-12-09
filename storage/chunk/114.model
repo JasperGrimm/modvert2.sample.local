@@ -1,0 +1,23 @@
+<?php
+/**
+return [
+'id' => '114',
+'name' => 'LPVideo',
+'description' => 'Chunk',
+'editor_type' => '0',
+'category' => '0',
+'cache_type' => '0',
+'locked' => '0',
+];
+*/
+?>
+<div class="wave-white-biege"></div>
+<div class="section what-is-quests">
+    <div class="wrap">
+        <div class="title">[!trans? &m=`Что такое живые квесты`!]?</div>
+        <div class="video">
+<iframe src="//player.vimeo.com/video/105101404" width="853" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+        </div>
+<p class="tac f2">[!trans?&m=`Никогда не поступайте как Гомер`!] :)</p>
+    </div>
+</div>

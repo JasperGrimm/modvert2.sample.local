@@ -1,0 +1,22 @@
+<?php
+/**
+return [
+'id' => '151',
+'name' => 'ContactBlockCity',
+'description' => 'Chunk',
+'editor_type' => '0',
+'category' => '0',
+'cache_type' => '0',
+'locked' => '0',
+];
+*/
+?>
+<div class="dark round block-2 tac contact_block">
+ <h4>Контакты в [!CityName? &amp;declinatio=6!]</h4>
+<br />
+	<span><img style="margin-right: 5px;" src="/themes/questoria/images/ico_email.gif" alt="" />
+	[!FranchiseeEmail!]</span>
+	<span style="margin-left: 130px;"><img style="margin-right: 5px;" src="/themes/questoria/images/ico_phone.gif" alt="" />
+	[!PhoneNumber!]</span>
+<div class="clear"> </div>
+</div>

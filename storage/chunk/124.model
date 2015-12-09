@@ -1,0 +1,14 @@
+<?php
+/**
+return [
+'id' => '124',
+'name' => 'ThankPageAllPdf',
+'description' => 'Текст со ссылкой на pdf',
+'editor_type' => '0',
+'category' => '11',
+'cache_type' => '0',
+'locked' => '0',
+];
+*/
+?>
+<p>Играете первый раз? <a href="/themes/questoria/pdf/Listovka.pdf" class="pdf-link">Скачайте советы для новичков!</a></p>

@@ -1,0 +1,101 @@
+<?php
+/**
+return [
+'id' => '281',
+'type' => 'document',
+'contentType' => 'text/html',
+'pagetitle' => 'Живой квест «Судьба Галактики»',
+'longtitle' => '',
+'description' => '',
+'alias' => 'живой-квест-судьба-галактики',
+'link_attributes' => '',
+'published' => '1',
+'parent' => '47',
+'isfolder' => '0',
+'template' => '11',
+'menuindex' => '44',
+'searchable' => '1',
+'cacheable' => '1',
+'deleted' => '0',
+'menutitle' => '',
+'donthit' => '0',
+'haskeywords' => '0',
+'hasmetatags' => '0',
+'privateweb' => '0',
+'privatemgr' => '0',
+'content_dispo' => '0',
+'hidemenu' => '0',
+];
+*/
+?>
+<div id="scenario_tabs" class="tabs-wrap">
+
+<ul class="tabs-buttons">
+<li><a class="bajax" href="#"><span class="ajax">Список персонажей сюжета</span></a></li>
+<li><a class="bajax" href="#"><span class="ajax">Отзывы о данном сюжете</span></a></li>
+<li><a class="bajax" href="#"><span class="ajax">Фотографии</span></a></li>
+</ul>
+<div class="tabs-sheets">
+<div class="tabs-sheet">
+<div class="scenario_group">
+<h3>Посольство Альянса</h3>
+<br />
+<p><strong><span id="docs-internal-guid-dc523cef-ffd2-bac9-5f16-e712ab4fe416"><span>Консул Штайн</span></span></strong> <br /><span id="docs-internal-guid-dc523cef-ffd2-e228-eb8b-0746da84e199"><span>Полномочный представитель правительства Альянса. Безукоризненно вежлив и политкорректен. Не забывает добавлять «благодарю» и «пожалуйста» даже в разговоре с орионцами.</span></span></p>
+<p><strong><span id="docs-internal-guid-dc523cef-ffd3-0d1a-a0af-c352ef857020"><span>Александр</span></span></strong> <br /><span id="docs-internal-guid-dc523cef-ffd3-3959-2bdd-253e2700b528"><span>Главнокомандующий Альянса. Молод, красив, энергичен, отлично выглядит в мундире. Кстати, герой галактики.</span></span></p>
+<p><strong><span id="docs-internal-guid-dc523cef-ffd3-b301-d605-5457f5424304"><span>Фурье</span></span></strong> <br /><span id="docs-internal-guid-dc523cef-ffd3-d270-e1fe-a15e9c4890a5"><span>Заместитель консула. Талантливый бюрократ. За обеденный перерыв способен обработать больше документов, чем всё министерство за год.</span></span></p>
+</div>
+<div class="scenario_group">
+<h3>Посольство Ориона</h3>
+<br />
+<p><strong><span id="docs-internal-guid-dc523cef-ffe5-1345-ba45-fb9ce4f8467b"><span>Шан Гу</span></span></strong> <br /><span id="docs-internal-guid-dc523cef-ffe5-44d9-174d-0ef6bcb81dd5"><span>Командор Ориона. Суров и брутален. По слухам, вытатуировал у себя на груди текст орионского кодекса, но желающих проверить обычно не находится.</span></span></p>
+<p><strong><span id="docs-internal-guid-dc523cef-ffe5-65fe-0e93-a7d14a45d0c2"><span>Наир Войт</span></span></strong> <br /><span id="docs-internal-guid-dc523cef-ffe5-9b01-0d8b-e6ef36986b36"><span>Глава клана Войт. Правая (тяжёлая) рука командора. Любит взрывы, перестрелки, драки стенка на стенку и «Лунную сонату» Бетховена</span></span>.
+</p>
+<p><strong><span id="docs-internal-guid-dc523cef-ffe5-c4e2-ff83-7fcac56b17f1"><span>Ори Гу</span></span></strong> <br /><span id="docs-internal-guid-dc523cef-ffe5-f2f5-710b-6bc2b778758d"><span>Племянник командора. Учёный. Прилетел на переговоры познавать тонкости орионской дипломатии.</span></span></p>
+<p><span><span><strong><span id="docs-internal-guid-dc523cef-ffe6-44d9-ddeb-be1d33db833f"><span>Ксайн Дейяд</span></span></strong> <br /><span id="docs-internal-guid-dc523cef-ffe5-f2f5-710b-6bc2b778758d"><span id="docs-internal-guid-dc523cef-ffe6-70af-5897-9746b33c73da"><span>Последний выживший представитель клана Дейяд. На удивление спокоен — для орионца. Может ни с кем не стреляться целый день, а то и два.</span></span></span> <br /></span></span></p>
+</div>
+<div class="scenario_group">
+<h3>Посольство Хонгая</h3>
+<br />
+<p><strong><span id="docs-internal-guid-dc523cef-ffe6-c912-9508-4a11a0a24ed3"><span>Юкико</span></span></strong> <br /><span id="docs-internal-guid-dc523cef-ffe6-f06e-25e5-cc9f1170be74"><span>Принцесса Хонгая, астрофизик. Тонкая натура. Одета и причёсана по последней моде. Предпочитает следить за звёздным небом, а не за политикой.</span></span></p>
+<p><strong><span id="docs-internal-guid-dc523cef-ffe7-1605-9df0-55b6b4c3a765"><span>Дельгаро</span></span></strong> <br /><span id="docs-internal-guid-dc523cef-ffe7-379a-d357-88c79169a676"><span>Телохранитель принцессы Юкико. Мужественно терпит пиджак на плечах и галстук на шее. Сразу видно, профессионал.</span></span></p>
+<p><strong><span id="docs-internal-guid-dc523cef-ffe7-5c79-eef5-c8564fdab11d"><span>Мая</span></span></strong> <br /><span id="docs-internal-guid-dc523cef-ffe7-905a-952b-16a4e8bb827f"><span>Ассистентка принцессы Юкико. Если за день не разбила ни одного сердца, значит в этот день отсыпалась после вчерашнего.</span></span></p>
+</div>
+<div class="scenario_group">
+<h3>Персонал станции</h3>
+<br />
+<p><strong><span id="docs-internal-guid-dc523cef-ffe7-ffe6-2416-b90a31483976"><span>Вернер</span></span></strong> <br /><span id="docs-internal-guid-dc523cef-ffe8-2150-d167-f1b2c7c01743"><span>Начальник станции «Новая Швейцария». Всегда рад гостям — особенно непритязательным, покладистым и платёжеспособным.</span></span></p>
+<p><strong><span id="docs-internal-guid-dc523cef-ffe8-47f8-1661-121989a2e6c8"><span>Синтада</span></span></strong> <br /><span id="docs-internal-guid-dc523cef-ffe8-69ed-e7cf-1b5403f5de02"><span>Хонгаец, офицер запаса. Недавно возглавил службу безопасности «Новой Швейцарии». По любому поводу найдёт подходящую цитату из устава или служебной инструкции.</span></span>
+</p>
+<p><strong><span id="docs-internal-guid-dc523cef-ffe8-8e73-60e8-5754d098c200"><span>Жеглова</span></span></strong> <br /><span id="docs-internal-guid-dc523cef-ffe8-b178-80f5-4ade7e02deff"><span>Заместитель Синтады. Молода, полна трудового энтузиазма. Придерживается принципа «если вы ещё не арестованы, это не ваша заслуга, а наша недоработка».</span></span>
+</p>
+<p><strong><span id="docs-internal-guid-dc523cef-ffe8-e011-03fe-e580bf9e18d6"><span>Моретти</span></span></strong> <br /><span id="docs-internal-guid-dc523cef-ffe9-089c-bd74-04e8c3bfcf32"><span>Главврач Новой Швейцарии. Очень любит людей и другие разумные расы. Любит ампутации, не любит анекдоты про хирургов.</span></span></p>
+</div>
+<div class="scenario_group">
+<h3>Гости станции</h3>
+<br />
+<p><strong><span id="docs-internal-guid-dc523cef-ffe9-5e71-064b-6affb7b54d45"><span>Сандерс</span></span></strong> <br /><span id="docs-internal-guid-dc523cef-ffe9-891d-1286-85078c181a68"><span>Фрилансер-дальнобойщик, возит грузы и пассажиров на своём корабле. Живёт в нём же.</span></span></p>
+<p><strong><span id="docs-internal-guid-dc523cef-ffe9-afa6-9bc5-d3478f5d5cc3"><span>Ханна</span></span></strong> <br /><span id="docs-internal-guid-dc523cef-ffe9-dd7b-7fa8-e3df8806f0a6"><span>Пассажирка Сандерса. Рассеянна, постоянно что-то строчит в телефоне. Шарахается от орионцев.</span></span></p>
+<strong style="color: #222222; font-family: arial; font-size: 13px;"><span id="docs-internal-guid-dc523cef-ffea-1db8-d9d2-bfb62c60205c"><span>Клайтон</span></span></strong><span style="color: #222222; font-family: arial; font-size: 13px;"> </span>
+<p><span id="docs-internal-guid-dc523cef-ffea-460c-427e-20963316bf16"><span>Владелица большой компании, торгующей сложным оборудованием. Коллекционер инопланетных редкостей. Любит летать и зачастую сама возит товар.</span></span>
+</p>
+<p><strong><span id="docs-internal-guid-dc523cef-ffea-6a0d-090a-5e2013343c31"><span>Лихтен</span></span></strong> <br /><span id="docs-internal-guid-dc523cef-ffea-925c-f3ae-10b48ea862c5"><span>Экс-президент Земли-13. Пытается добиться освобождения своей планеты от орионской оккупации и её возвращения в состав Альянса.</span></span>
+</p>
+<p><strong><span id="docs-internal-guid-dc523cef-ffea-bbe1-2ab5-bfabad2939ae"><span>Пуату</span></span></strong> <br /><span id="docs-internal-guid-dc523cef-ffea-f20f-8139-27d54d7f136f"><span>Турист. Вооружён большим фотоаппаратом. Мечтает сфотографироваться на фоне всех достопримечательностей галактики, включая Александра и командора.</span></span>
+</p>
+<p><strong><span id="docs-internal-guid-dc523cef-ffeb-1764-d71f-0c47f6ebb1c4"><span>Фриберг</span></span></strong> <br /><span id="docs-internal-guid-dc523cef-ffeb-3a9c-af6e-b61bcfd1dd08"><span>Туристка. Любительница всех экстремальных видов спорта — от прыжков с парашютом из стратосферы до общения с орионцами.</span></span></p>
+<p><strong><span id="docs-internal-guid-dc523cef-ffeb-8c27-cd10-702e7c002e4a"><span>Джейн Доу</span></span></strong> <br /><span id="docs-internal-guid-dc523cef-ffeb-b33a-c6a2-5f3ae4fd9147"><span>Неизвестная потерпевшая, подобранная спасателями в зоне аномалии.</span></span>
+</p>
+</div>
+</div>
+<div class="tabs-sheet">
+Отзывы о сюжете [*pagetitle*]
+<br />
+<p>Отзывов пока нет, сюжет только вышел. </p>
+</div>
+<div class="tabs-sheet">
+Фотографии сюжета [*pagetitle*]
+<br />
+<p>Фотографий пока нет, сюжет только вышел. </p>
+</div>
+</div>
+</div>

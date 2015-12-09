@@ -1,0 +1,17 @@
+<?php
+/**
+return [
+'id' => '20',
+'name' => 'BottomMenu',
+'description' => '',
+'editor_type' => '0',
+'category' => '9',
+'cache_type' => '0',
+'locked' => '0',
+'properties' => '',
+'moduleguid' => ' ',
+];
+*/
+include 'Application/Helper/BottomMenu.php';
+
+?>

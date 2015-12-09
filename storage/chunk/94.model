@@ -1,0 +1,42 @@
+<?php
+/**
+return [
+'id' => '94',
+'name' => 'MainPageTest4',
+'description' => 'Тестирование слайдера vs видео с окантовкой',
+'editor_type' => '0',
+'category' => '0',
+'cache_type' => '0',
+'locked' => '0',
+];
+*/
+?>
+<div class="column column-1 quests-description">
+<h1>Стань героем квестории</h1>
+<p>Квестория – это история, в которой зрители<br />
+становятся действующими лицами.</p>
+<p>Вам предстоит попробовать себя в новом образе:<br />
+герой детектива, вестерна, мистического триллера.<br />
+У каждого – своя роль и уникальные цели.<br />
+Общайтесь, знакомьтесь, плетите интриги!</p>
+<p>Играли в «Мафию»? Проходили «Выберись-из-комнаты»?<br />
+Попробуйте себя в игре, где историю творят сами игроки!</p>
+<p>Приходите играть к нам, заказывайте домой<br />
+на день рождения или в офис на корпоратив.</p>
+<p class="tac"><a class="big-button" href="[~53~]?utm_source=left"><span>Сыграть!</span></a></p>
+<span class="counter-container">[[Counter]]</span>
+</div>
+<div class="column column-2">
+<div class="hp-video dec">
+ <div class="video">
+<iframe src="//player.vimeo.com/video/105101404" width="470" height="340" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+        </div>
+</div>
+<div class="hp-social-table" style="width: 400px!important;">{{SocialTable}}</div>
+<script type="text/javascript">// <![CDATA[
+VK.Widgets.Like('vk_like', {type: "button", pageUrl: 'http://questoria.ru', pageTitle: 'Приходите играть в живые квесты', pageDescription: 'рекомендует живой квест от «Квестории» http://questoria.ru'});
+// ]]></script>
+<script type="text/javascript">// <![CDATA[
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+// ]]></script>
+</div>

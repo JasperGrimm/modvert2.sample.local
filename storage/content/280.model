@@ -1,0 +1,101 @@
+<?php
+/**
+return [
+'id' => '280',
+'type' => 'document',
+'contentType' => 'text/html',
+'pagetitle' => 'Мини-квест «Дирижабль»',
+'longtitle' => '',
+'description' => '',
+'alias' => 'мини-квест-дирижабль',
+'link_attributes' => '',
+'published' => '1',
+'parent' => '47',
+'isfolder' => '0',
+'template' => '11',
+'menuindex' => '37',
+'searchable' => '1',
+'cacheable' => '1',
+'deleted' => '0',
+'menutitle' => '',
+'donthit' => '0',
+'haskeywords' => '0',
+'hasmetatags' => '0',
+'privateweb' => '0',
+'privatemgr' => '0',
+'content_dispo' => '0',
+'hidemenu' => '0',
+];
+*/
+?>
+<div id="scenario_tabs" class="tabs-wrap">
+    
+<ul class="tabs-buttons">
+<li><a class="bajax" href="#"><span class="ajax">Список персонажей сюжета</span></a></li>
+<li><a class="bajax" href="#"><span class="ajax">Отзывы о данном сюжете</span></a></li>
+<li><a class="bajax" href="#"><span class="ajax">Фотографии</span></a></li>
+</ul>
+<div class="tabs-sheets">
+<div class="tabs-sheet">
+<div class="scenario_group">
+<br />
+<p><strong>Габриэль</strong>, очень известный молодой фокусник. Соперник Амадеуса — эти двое постоянно бросают вызовы друг другу — кто сделает более удивительный фокус.</p>
+<p><strong>Амадеус</strong>, знаменитый фокусник, аристократ. Соперник Габриэля.</p>
+<p><strong>Бёрнс</strong>, наследница миллионера. Развлекается и присматривает, куда вложить денежки.</p>
+<p><strong>Дассен</strong>, врач. На борту дирижабля как корабельный медик.</p>
+<p><strong>Люпен</strong>, частный сыщик-джентльмен. </p>
+<p><strong>Адель</strong>, баронесса, вдова. Тратит богатства на науку. Молода, привлекательна.</p>
+<p><strong>Сатуола</strong>, учёный-физик, профессор.</p>
+<p><strong>Доуэль</strong>, учёный-биолог. Посвятил жизнь доказательству теорий Дарвина о возникновении людей из животных естественным путём.</p>
+<p><strong>Флегг</strong>, исследователь труднодоступных уголков планеты, в основном — Арктики. Аристократ, но скрывает из какой страны, носит псевдоним.</p>
+<p><strong>Клемон</strong>, журналист солидной парижской газеты. Каждый день пишет длинные телеграммы с отчётом о происходящем.</p>
+</div>
+</div>
+<div class="tabs-sheet">
+Отзывы о сюжете [*pagetitle*]
+<p> </p>
+<div class="citate">
+<img class="fl" src="/themes/questoria/images/ico_cite-white.gif" alt="" />
+<p class="justifyfull">Пишу Вам с благодарностью! Мне и всем моим друзьям очень понравилась игра, мы получили большое удовольствие от процесса. И еще весь вечер волей и не волей возвращались к обсуждению событий.
+Это было безумно увлекательно, интригующе и азартно. 
+Так же отдельная благодарность за организацию — все было сделано безупречно. Спасибо большое всему коллективу, процветания Вашей компании — так держать!</p>
+<p class="justifyfull"><span> </span></p>
+<div class="author"><a rel="nofollow" href="https://vk.com/id3903535" target="_blank">Анастасия Сунцова</a>
+</div>
+</div>
+<p> </p>
+<div class="citate">
+<img class="fl" src="/themes/questoria/images/ico_cite-white.gif" alt="" />
+<p class="justifyfull">Были с друзьями, очень понравилось :) всем советуем как оригинальный способ провести вечер</p>
+<p class="justifyfull"><span> </span></p>
+<div class="author"><a rel="nofollow" href="https://vk.com/chebotarevaaaaa" target="_blank">Анастасия Чеботарева</a>
+</div>
+</div>
+<p> </p>
+<div class="citate">
+<img class="fl" src="/themes/questoria/images/ico_cite-white.gif" alt="" />
+<p class="justifyfull">Всем нам раздали роли и дали для каждого свою маленькую историю, которую требовалось пережить и выполнить поставленные цели. Было очень весело и увлекательно проходить все задания. Но мы дружно справились с этим испытанием. :) Большое спасибо вам за такой чудесный квест.))</p>
+<p class="justifyfull"><span> </span></p>
+<div class="author"><a rel="nofollow" href="https://vk.com/id49803469" target="_blank">Макс Сорокин</a>
+</div>
+</div>
+<p> </p>
+<div class="citate">
+<img class="fl" src="/themes/questoria/images/ico_cite-white.gif" alt="" />
+<p class="justifyfull">Буквально пару месяцев назад я только узнала про живые квесты, и вот уже за все это время я посетила их довольно много) Сказать, что мне очень нравится — это ничего не сказать) Невероятная атмосфера, запутанный сюжет. В процессе погружаешься полностью, время пролетает незаметно) Организация также на высоте) Квесты отличный вариант для тех, кто любит общаться, хочет попробовать себя в чем-то новом или просто желает необычно провести время) В общем, советую всем!)</p>
+<p class="justifyfull"><span> </span></p>
+<div class="author"><a rel="nofollow" href="https://vk.com/katya2katya2" target="_blank">Екатерина Щербатых</a>
+</div>
+</div>
+</div>
+<div class="tabs-sheet">
+        Фотографии сюжета [*pagetitle*]
+<br />
+<img title="дирижабль" src="/data/Dirijabl.jpg" alt="живой квест дирижабль" width="334" height="223" />
+<img title="дирижабль" src="/data/DIrijabl_3.jpg" alt="живой квест дирижабль" width="334" height="223" />
+<img title="дирижабль" src="/data/DIrijabl_5.jpg" alt="живой квест дирижабль" width="334" height="223" />
+<img title="дирижабль" src="/data/DIrijabl_4.jpg" alt="живой квест дирижабль" width="334" height="223" />
+<img title="дирижабль" src="/data/DIrijabl_1.jpg" alt="живой квест дирижабль" width="334" height="223" />
+<img title="дирижабль" src="/data/DIrijabl_2.jpg" alt="живой квест дирижабль" width="334" height="223" />  </div>
+</div>
+</div>

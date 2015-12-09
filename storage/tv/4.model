@@ -1,0 +1,16 @@
+<?php
+return [
+'id' => '4',
+'type' => 'text',
+'name' => 'TopSeoString',
+'caption' => 'SEO Строка',
+'description' => 'Строка сверху страницы для SEO',
+'editor_type' => '0',
+'category' => '10',
+'locked' => '0',
+'elements' => '',
+'rank' => '0',
+'display' => '',
+'display_params' => '',
+'default_text' => 'Живые квесты - сюжетные игры в кафе',
+];

@@ -1,0 +1,41 @@
+<?php
+/**
+return [
+'id' => '263',
+'type' => 'document',
+'contentType' => 'text/html',
+'pagetitle' => '404',
+'longtitle' => '',
+'description' => '',
+'alias' => '404',
+'link_attributes' => '',
+'published' => '1',
+'parent' => '0',
+'isfolder' => '0',
+'template' => '15',
+'menuindex' => '46',
+'searchable' => '1',
+'cacheable' => '1',
+'deleted' => '0',
+'menutitle' => '',
+'donthit' => '0',
+'haskeywords' => '0',
+'hasmetatags' => '0',
+'privateweb' => '0',
+'privatemgr' => '0',
+'content_dispo' => '0',
+'hidemenu' => '0',
+];
+*/
+?>
+[[status404]]<h1><strong>Страница не найдена - 404</strong></h1>
+<p>Извините, такой страницы не нашлось. Возможно вам будут полезны следующие страницы:</p>
+<ul>
+<li><a href="http://[*baseHost*]/[~77~]">Что такое живые квесты</a></li>
+<li><a href="http://[*baseHost*]/[~16~]">Расписание живых квестов</a></li>
+<li><a href="http://[*baseHost*]/[~20~]">Квесты на праздники</a></li>
+<li><a href="http://[*baseHost*]/[~30~]">Отзывы</a></li>
+</ul>
+<p> </p>
+<p>Если вы уверены, что данная страница должна существовать, напишите, пожалуйста, нам:</p>
+<p>[!ContactForm!]</p>

@@ -1,0 +1,35 @@
+<?php
+/**
+return [
+'id' => '8',
+'templatename' => 'Основной шаблон',
+'description' => '',
+'editor_type' => '0',
+'category' => '8',
+'icon' => '',
+'template_type' => '0',
+'locked' => '0',
+];
+*/
+?>
+{{HEADER}}
+
+<div class="wrap content">
+        {{Breadcrumbs}}
+	<div class="body-wrap">
+		<div class="body-right">
+
+			[*content*]
+			<div>&nbsp;</div>
+
+		</div>
+	</div>
+
+{{BODY-LEFT}}
+
+	<div class="clear">&nbsp;</div>
+
+</div>
+
+
+{{FOOTER}}

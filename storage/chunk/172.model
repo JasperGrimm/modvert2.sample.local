@@ -1,0 +1,220 @@
+<?php
+/**
+return [
+'id' => '172',
+'name' => 'LandingContent_ua',
+'description' => 'Chunk',
+'editor_type' => '0',
+'category' => '0',
+'cache_type' => '0',
+'locked' => '0',
+];
+*/
+?>
+<p> </p>
+<div class="section shadow htop">
+<div class="wrap">
+<div class="head-left">
+<div class="city">
+<div id="utochnit">
+<div id="utochnit_left">
+
+                        Вы в <span> </span>? <input class="utochnit_button_yes" onclick="utochnit_yes();" type="button" value="Да" />
+                        <input class="utochnit_button_no" onclick="utochnit_no();" type="button" value="Нет" />
+                    </div>
+</div>
+<noscript>
+                    <form action="jump_city.php">
+                </noscript>
+                <select id="head_city" name="city_select">
+                    [!CreateCityOptions? other=1&amp;declinatio=6 !]
+                </select>
+<div class="wvSelect">
+<div class="wvSelect_Dropdown">
+                        [!CreateCityLinks? other=1&amp;declinatio=6 !]
+                    </div>
+<a class="wvSelect_Control" href="#"><span> </span></a>
+                </div>
+<noscript>
+                    <input type="submit" value="Перейти"/>
+                    </form>
+                </noscript>
+            </div>
+<div id="top_next_slide" class="next-slide"><a class="bajax" href="#"><span class="ajax">Наступний слайд</span></a></div>
+</div>
+<div class="head-right">
+<div class="callback"><a class="ajax dialog-control order_call" href="#">Замовити зворотній виклик</a></div>
+<div class="phone">[!PhoneNumber? &amp;phone=1!]</div>
+<div class="email">[!FranchiseeEmail!]</div>
+</div>
+<div class="head-center">
+<div class="logo"><a href="/" target="_blank"><img src="/themes/questoria/images/logo-middle-2_ua.png" alt="Квестория. Живые квесты – сюжетные детективные игры в кафе" /></a></div>
+</div>
+</div>
+</div>
+<div class="section description">
+<div class="wrap">
+<div class="description_wrp">
+<div class="descr-left">
+            </div>
+<div class="descr-right">
+<div class="title">Гра на день народження <br /> у [!CityName? &amp;declinatio=6!]</div>
+<p><span>Замислились, як відсвяткувати день народження?</span><br /> <span>Замовте проведення живого квесту на свято!</span></p>
+<br />
+<p>
+                    <span>Гра може відбуватися вдома або у кафе. Кожен учасник отримає роль в історії, власні цілі і таємниці.</span>
+                </p>
+<br />
+<p>
+                    Розв’язка історії цілком залежить від дій гравців.
+                </p>
+<div class="button"><a class="order big-button" href="#"><span>[!trans?m=`Оставить заявку`!]</span></a></div>
+</div>
+</div>
+</div>
+</div>
+<p>
+{{LPVideo}}
+</p>
+<div class="section numbers">
+<div class="wrap">
+<div class="title">Квесторія у цифрах</div>
+<div class="items">
+<div class="item">
+<div class="image"><img src="/themes/questoria/images/number-01.jpg" alt="" /></div>
+<div class="text">4 роки роботи</div>
+</div>
+<div class="item">
+<div class="image"><img src="/themes/questoria/images/number-02.jpg" alt="" /></div>
+<div class="text">52 міста</div>
+</div>
+<div class="item">
+<div class="image"><img src="/themes/questoria/images/number-03.jpg" alt="" /></div>
+<div class="text">5000 гравців щомісяця</div>
+</div>
+<div class="item">
+<div class="image"><img src="/themes/questoria/images/number-04.jpg" alt="" /></div>
+<div class="text">10 сюжетів</div>
+</div>
+<div class="clear"> </div>
+</div>
+</div>
+</div>
+<div class="section checks">
+<div class="wrap">
+<div class="title">Шість причин замовити живий квест</div>
+<ul class="check-list w100pi">
+<li>Здивуйте гостей новим, незвичайним святом — ваш день народження обов'язково запам'ятають!</li>
+<li>Ви не просто весело і цікаво проведете час — гра відкриває друзів з нового несподіваного боку</li>
+</ul>
+<ul>
+<li>Живий квест — це відмінний спосіб познайомити людей з різних компаній, людей старшого та молодшого віку</li>
+</ul>
+<ul class="check-list w100pi">
+<li>Завдяки індивідуальному підбору ролей ви зможете залучити до гри як тихих, так і активних людей</li>
+</ul>
+<ul>
+<li>Живий квест — це цілком готове свято. Вам не доведеться вигадувати все самотужки</li>
+</ul>
+<ul class="check-list w100pi">
+<li>Ви не обмежені місцем проведення свята: гру можна влаштувати вдома, в кафе або на природі</li>
+</ul>
+<div class="clear"> </div>
+<div class="link">Співпали усі пункти? <a class="ajax dialog-control" href="#">Тоді ми гарантуємо задоволення від гри</a></div>
+</div>
+</div>
+<div class="section game_photos corp-game-photos">
+<div class="wrap">
+<div class="title">Фотографії з ігор</div>
+{{BirthdayGamePhotos}}
+    </div>
+</div>
+<div class="section how-play">
+<div class="wrap">
+<div class="title">Як зіграти у живий квест?</div>
+<img src="/themes/questoria/images/how-play_ua.jpg" alt="" />
+    </div>
+</div>
+<div class="section feedbacks">
+<div class="wrap">
+<div id="feed_slider" class="slider">
+<div class="slides">
+<div class="scroll">
+<div class="items">
+                        [!FeedbackListLanding!]
+                    </div>
+</div>
+</div>
+<div class="controls">
+                <a class="prev" href="#"></a>
+                <a class="next" href="#"></a>
+            </div>
+</div>
+</div>
+</div>
+<div class="section scenarios">
+<div class="wrap">
+<div class="title">[!trans?m=`Выберите сценарий живого квеста`!]</div>
+[!Scenarios? &amp;show_all_links=0 &amp;button_link=#order &amp;button_text=Оставить заявку &amp;show_not_available_scenarios=0 &amp;show_as_gallery=1 &amp;landing_page = true!]
+    </div>
+</div>
+<p>
+[!PLANS_LP? &amp;game_alias=hb !]
+</p>
+<div class="section order-form">
+<div class="wrap">
+<div class="title">[!trans?m=`Оставьте заявку`!]</div>
+<form id="order" action="#" method="post">
+            <input name="type_id" type="hidden" value="3" />
+
+<table class="form" border="0">
+<tbody>
+<tr>
+<td class="label">[!trans?m=`Имя, фамилия`!]<span>*</span></td>
+<td class="field"><input name="name" type="text" /></td>
+</tr>
+<tr>
+<td class="label">E-mail<span>*</span></td>
+<td class="field"><input name="email" type="text" /></td>
+</tr>
+<tr>
+<td class="label">Телефон<span>*</span></td>
+<td class="field"><input name="phone" type="text" /></td>
+</tr>
+<tr>
+<td class="label">[!trans?m=`Пакет услуг`!]<span>*</span></td>
+<td class="field" style="padding-left: 13px;">
+                        <select class="wselect" name="price_id">
+                            [!PlansOptions? &amp;alias=hb!]
+                        </select>
+<script type="text/javascript">// <![CDATA[
+$(function(){ $('[name=price_id]' ).wselect({width: '245', big: true, source: [!PlansOptions? &alias=hb &format=json!]});  })
+// ]]></script>
+</td>
+</tr>
+<tr class="date">
+<td class="label">[!trans?m=`Примерная дата`!]<span>*</span></td>
+<td class="field"><input class="datepicker" name="date" readonly="readonly" type="text" /></td>
+</tr>
+<tr>
+<td class="label">[!trans?m=`Доп. информация`!]</td>
+<td class="field" style="padding-bottom: 12px;"><textarea name="comment"></textarea></td>
+</tr>
+<tr style="display: none;">
+<td> </td>
+<td id="error" style="font: bold 18px arial;"> </td>
+</tr>
+<tr>
+<td> </td>
+<td class="buttons landing-buttons">
+                        <button class="big-button green-button popover-landing ind_top_20">
+                            <span>[!trans?m=`Оставить заявку`!]</span>
+                        </button>
+                    </td>
+</tr>
+</tbody>
+</table>
+</form>
+    </div>
+</div>
+<script src="/themes/questoria/js/landing.js?[[updateCssJsCache? filename=themes/questoria/js/landing.js]]" type="text/javascript"></script>

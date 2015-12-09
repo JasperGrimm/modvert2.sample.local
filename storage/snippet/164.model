@@ -1,0 +1,24 @@
+<?php
+/**
+return [
+'id' => '164',
+'name' => 'CheckAvailability',
+'description' => '',
+'editor_type' => '0',
+'category' => '0',
+'cache_type' => '0',
+'locked' => '0',
+'properties' => '',
+'moduleguid' => ' ',
+];
+*/
+$qst = Wave_Registry::get('Questoria');
+$city_id = $qst->geo->getCityId();
+$franchisee = $qst->user->getActiveFranchisee($city_id);
+//var_dump($franchisee);die();
+if (!$franchisee)
+{
+   $modx->sendRedirect('/расписание-живых-квестов');
+}
+
+?>

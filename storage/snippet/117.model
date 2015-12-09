@@ -1,0 +1,34 @@
+<?php
+/**
+return [
+'id' => '117',
+'name' => 'CreateCountryLinks',
+'description' => '',
+'editor_type' => '0',
+'category' => '0',
+'cache_type' => '0',
+'locked' => '0',
+'properties' => '',
+'moduleguid' => ' ',
+];
+*/
+	    
+$qst = Wave_Registry::get('Questoria');
+$items = $qst->geo->getCountries();
+
+if( $items )
+{
+   echo '<div class="wvSelect_Column">';
+   foreach( $items as $id => $item )
+   {
+           $name = $item->name;
+           if ($id == 1){
+               echo '<a class="wvSelect_Selected" data-value="' . $id . '" data-name="' . $name . '">' . $name . '</a>';
+           }else{
+               echo '<a data-value="' . $id . '" data-name="' . $name . '">' . $name . '</a>';
+           }
+           
+   }
+   echo '</div>';
+}
+?>

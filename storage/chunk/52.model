@@ -1,0 +1,16 @@
+<?php
+/**
+return [
+'id' => '52',
+'name' => 'ScenariosWeOfferEng',
+'description' => '',
+'editor_type' => '0',
+'category' => '0',
+'cache_type' => '0',
+'locked' => '0',
+];
+*/
+?>
+<h2>Какие сюжеты мы предлагаем?</h2>
+
+[!Scenarios? &show_all_links=0 &button_link=#order &button_text=Заказать &show_not_available_scenarios=1 &show_as_gallery=1 &hasEngVersion= !]

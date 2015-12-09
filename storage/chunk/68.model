@@ -1,0 +1,18 @@
+<?php
+/**
+return [
+'id' => '68',
+'name' => 'CardEnglishGame',
+'description' => '',
+'editor_type' => '0',
+'category' => '14',
+'cache_type' => '0',
+'locked' => '0',
+];
+*/
+?>
+<p><a class="card" onmouseover="$(this).find('IMG').attr('src','/assets/images/content/card_english-hover.jpg')" onmouseout="$(this).find('IMG').attr('src','/assets/images/content/card_english.jpg')" href="/[~185~]">
+	<strong class="title">Игра на английском</strong>
+	<img title="Полное погружение в язык" src="/assets/images/content/card_english.jpg" alt="Полное погружение в язык" />
+	<span class="descr">Полное погружение в язык</span>
+</a></p>

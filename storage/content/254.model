@@ -1,0 +1,86 @@
+<?php
+/**
+return [
+'id' => '254',
+'type' => 'document',
+'contentType' => 'text/html',
+'pagetitle' => 'Корпоратив на природе',
+'longtitle' => 'Проведение корпоратива на природе в [!CityName!]',
+'description' => '',
+'alias' => 'корпоратив-на-природе',
+'link_attributes' => '',
+'published' => '1',
+'parent' => '20',
+'isfolder' => '0',
+'template' => '10',
+'menuindex' => '25',
+'searchable' => '1',
+'cacheable' => '1',
+'deleted' => '0',
+'menutitle' => '',
+'donthit' => '0',
+'haskeywords' => '0',
+'hasmetatags' => '0',
+'privateweb' => '0',
+'privatemgr' => '0',
+'content_dispo' => '0',
+'hidemenu' => '1',
+];
+*/
+?>
+<h1 class="justifyfull">Проведение корпоратива на природе в [!CityName? &amp;declinatio=6!]</h1>
+<p class="justifyfull"><img class="ifr" style="float: right; margin-left: 10px;" title="как организовать корпоратив на природе?" src="/assets/images/Pics_for_site/Photo/ycnvAIRztxQ.jpg" alt="корпоратив на природе" width="300" height="200" />Хотите организовать корпоратив на свежем воздухе? <br /> Мы вам поможем!</p>
+<p class="justifyfull"><span>[!GoOrder2!]</span></p>
+<p class="justifyfull"><span>Представьте: солнце пробивается через кроны деревьев, тепло, под ногами — зеленая мягкая трава. И находитесь вы... нет, не в пригородном парке! Находитесь вы на острове в окружении громких пиратов, надменных британских вояк и местных туземцев, который очень подозрительно на вас косятся. Что вас ждет? Поход с друзьями к кратеру вулкана? Поиск сокровищ? Дуэль на прибрежном песке? В квестории на природе все возможно!</span></p>
+<p class="justifyfull"><span style="color: #af0b31; font-family: verdana; font-size: 22px; line-height: 22px;">Что такое квестории?</span></p>
+<p class="justifyfull">Квестории — это игры, которые проходят в реальном мире, а не на экране. Каждый игрок получает роль со своими секретами
+и целями и на несколько часов погружается в атмосферу
+приключения! Развязка зависит только от ваших действий!</p>
+<p class="justifyfull">Квестории помогут быстро познакомить коллектив и
+взглянуть по-новому друг на друга. Игры сочетаются с лёгким фуршетом, могут
+проходить на загородной базе, на пляже, в лесу или городском парке — в любом
+случае это будет море эмоций и захватывающее приключение!</p>
+<h2 class="justifyfull">С нами играют:</h2>
+<p class="justifyfull"><img src="/assets/images/Pics_for_site/Logo corp/pg.jpg" alt="" width="95" height="45" /><img src="/assets/images/Pics_for_site/Logo corp/toyota.jpg" alt="" width="175" height="48" /><img src="/assets/images/Pics_for_site/Logo corp/rosneft.jpg" alt="" width="86" height="58" /><img src="/assets/images/Pics_for_site/Logo corp/unilever.jpg" alt="" width="54" height="60" /><img src="/assets/images/Pics_for_site/Logo corp/ernst.jpg" alt="" width="195" height="49" /><img src="/assets/images/Pics_for_site/Logo corp/i-free.jpg" alt="" width="118" height="48" /></p>
+<p class="justifyfull"><img src="/assets/images/Pics_for_site/Logo corp/vtb.jpg" alt="" width="140" height="47" /><img src="/assets/images/Pics_for_site/Logo corp/globallogic.jpg" alt="" width="148" height="49" /><img src="/assets/images/Pics_for_site/Logo corp/luxoft.jpg" alt="" width="164" height="48" /><img src="/assets/images/Pics_for_site/Logo corp/mail.jpg" alt="" width="134" height="48" /><img src="/assets/images/Pics_for_site/Logo corp/omsk1.jpg" alt="" width="126" height="48" /><img src="/assets/images/Pics_for_site/Logo corp/florist.jpg" alt="" width="122" height="51" /> <img src="/assets/images/Pics_for_site/Logo corp/epam.png" alt="" width="192" height="24" /><img src="/assets/images/Pics_for_site/Logo corp/green forest.gif" alt="" width="84" height="60" /> <img src="/assets/images/Pics_for_site/Logo corp/inkazan.jpg" alt="" width="119" height="48" /><img src="/assets/images/Pics_for_site/Logo corp/nestle_new.png" alt="" width="181" height="49" /></p>
+<p><span style="color: #af0b31; font-family: verdana; font-size: 22px; line-height: 22px;">В чем плюсы такого формата?</span></p>
+<ul>
+<li class="justifyfull">Не требуется никакой подготовки, а участники
+могут быть в любой физической форме. В квестории не нужно бегать и
+прятаться, квест — это детектив, общение и эмоции.</li>
+<li class="justifyfull">Мы отвечаем за проведение игры от и до:
+инструктируем участников, проводим кастинг, контролируем ход игры. 3 часа все
+игроки до единого погрузятся в настоящее приключение. Более того — после
+окончания квестории они еще долго будут обсуждать случившееся!</li>
+<li class="justifyfull">Каждый игрок будет чувствовать себя комфортно —
+мы подбираем роли индивидуально, под характер участников, и поэтому и активные,
+и спокойные члены вашего коллектива будут в игре на своем месте!</li>
+<li class="justifyfull">Квестория — это отличная возможность сплотить
+коллектив, особенно если у сотрудников в жизни не так много общих поводов для
+общения. У них появятся темя для разговоров, общие воспоминания и классные
+впечатления. Ведь для этого вы устраиваете корпоратив на природе, так ведь?</li>
+<li class="justifyfull">Мы привезем для вас атрибутику и аксессуары,
+пригласим профессионального фотографа — сделаем все для того, чтобы коллеги еще
+долгое время с теплом вспоминали живой квест.</li>
+</ul>
+<p> </p>
+<div class="dark round block-2">
+<div class="citate"><img class="fl" src="/themes/questoria/images/ico_cite-white.gif" alt="" />
+<p class="justifyfull"><span style="color: #222222; font-family: arial,sans-serif; font-variant: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; font-size: 14px; line-height: 17px; text-align: justify; background-color: #f6f4ed;">Для разных команд </span><strong style="color: #222222; font-family: arial, sans-serif; font-variant: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; margin: 0px; padding: 0px; outline: none; font-size: 14px; font-style: italic; line-height: 17px; text-align: justify; background-color: #f6f4ed;">«Procter&amp;Gamble»</strong><span style="color: #222222; font-family: arial,sans-serif; font-variant: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; font-size: 14px; line-height: 17px; text-align: justify; background-color: #f6f4ed;"> мы заказывали квестории. Мероприятия прошли успешно! Удобно то, что квест можно организовать прямо в ресторане и перемежать ужином, закусками и другими элементами вечерней программы. Ещё один немаловажный элемент — это атрибуты костюмов, которые можно выдать заранее, и подготовка, нагнетающая обстановку квеста — всё это уже заранее создает интерес и интригу у участников, а значит, влияет на финальный успех. Интересный и необычный вариант тимбилдинга. С удовольствием рекомендую.</span></p>
+<div class="author"><strong>Варвара Лялягина,
+HR менеджер компании «Procter&amp;Gamble»</strong></div>
+</div>
+</div>
+<p>{{ScenariosWeOffer}}</p>
+<p class="justifyfull"><img class="ifr" style="float: right;" title="ковбойская игра на корпоратив" src="/assets/images/Pics_for_site/sweeeet_two.jpg" alt="игра на корпоратив" width="300" height="199" />{{HowGoesLiveQuest}}</p>
+<p>[!PLANS_MAIN? &amp;game_alias=corporate !]</p>
+<p>[!ifFranchaizi_korp? &amp;declinatio=6 &amp;type=corporative &amp;type=private_additional_user &amp;OrderType=[*OrderType*] &amp;ThankPage=[*ThankPage*] !]</p>
+<div class="dark round block-2">
+<div class="citate">
+<img class="fl" src="/themes/questoria/images/ico_cite-white.gif" alt="" />
+<p class="justifyfull"><span>Эмоции нас захлестнули и не отпускают уже 6-ой день. Почти все спорные вопросы мы теперь решаем посредством КНБ)
+Прекрасный способ укрепить команду и провести время с пользой. Погружение в альтернативную реальность прошло на ура! Спасибо! Будем играть ещё! <br />
+PS: Совсем забыла, мы теперь еще друг друга именами персонажей называем — приросли))</span></p>
+<div class="author"><strong>Наталья Попельнюх, координатор проектов «Global Logic — Харьков»</strong></div>
+</div>
+</div>

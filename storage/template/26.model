@@ -1,0 +1,56 @@
+<?php
+/**
+return [
+'id' => '26',
+'templatename' => 'R-Landing-Page',
+'description' => '',
+'editor_type' => '0',
+'category' => '19',
+'icon' => '',
+'template_type' => '0',
+'locked' => '0',
+];
+*/
+?>
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE">
+    <title>[*longtitle*] | Questoria</title>
+    <link rel="stylesheet" href="/themes/questoria/mobile-version/css/mobile.css">
+    <link rel="stylesheet" href="/themes/questoria/mobile-version/css/date-box.css">
+    <link rel="stylesheet" href="/themes/questoria/mobile-version/css/style.css">
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/jquerymobile/1.4.5/jquery.mobile.js"></script>
+    <script src="/themes/questoria/mobile-version/js/1.mobile-date-box.js"></script>
+    <script src="/themes/questoria/mobile-version/js/2.script.no_min.js"></script>
+  </head>
+    <body>
+    <div class="container">
+      <div id="header"></div>
+      <div id="shadow"></div>
+      <div id="content_wrap">
+        [*content*]
+      </div>
+      <div id="scenaries">
+        <div class="block_text_content">
+          <h2>Какие сюжеты мы предлагаем?</h2>
+          <div id="scenaries_wrap"></div>
+        </div>
+      </div>
+
+        <div id="order">
+          <div class="block_text_content" id="order_form_main">
+
+            <p class="bold">Оставьте заявку</p>
+[!ifFranchaizi_mobile? &declinatio=6 &type=private &type=private_additional_user &OrderType=[*OrderType*] &ThankPage=[*ThankPage*] !]
+
+          </div>
+        </div>
+
+    </div>
+  </body>
+</html>

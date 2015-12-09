@@ -1,0 +1,18 @@
+<?php
+/**
+return [
+'id' => '23',
+'name' => 'CardDR',
+'description' => '',
+'editor_type' => '0',
+'category' => '14',
+'cache_type' => '0',
+'locked' => '0',
+];
+*/
+?>
+<p><a class="card" onmouseover="$(this).find('IMG').attr('src','/assets/images/content/2.jpg')" onmouseout="$(this).find('IMG').attr('src','/assets/images/content/1.jpg')" href="[~46~]">
+					<strong class="title">Отметить день рождения</strong>
+					<span class="image"><img title="игра на день рождения" src="/assets/images/content/1.jpg" alt="отметить день рождения" /></span>
+					<span class="descr">Квестория на заказ:<br /> в кафе,  дома, у озера</span>
+</a></p>

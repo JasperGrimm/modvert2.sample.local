@@ -1,0 +1,23 @@
+<?php
+/**
+return [
+'id' => '171',
+'name' => 'ScenarioFilter',
+'description' => '',
+'editor_type' => '0',
+'category' => '0',
+'cache_type' => '0',
+'locked' => '0',
+'properties' => '',
+'moduleguid' => ' ',
+];
+*/
+
+$qst = \Wave_Registry::get('Questoria');
+$selected_tag = (!isset($selected_tag) || !$selected_tag || $selected_tag == '') ? 'all': $selected_tag;
+$qst->set('selected_tag', $selected_tag);
+if (\Application\Services\Facades\App::config('features.scenario_filters')){
+    include 'Application/View/ScenarioFilter.php';
+}
+
+?>

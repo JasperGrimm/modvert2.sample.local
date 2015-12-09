@@ -1,0 +1,62 @@
+<?php
+/**
+return [
+'id' => '54',
+'name' => 'LandingFooter',
+'description' => '',
+'editor_type' => '0',
+'category' => '11',
+'cache_type' => '0',
+'locked' => '0',
+];
+*/
+?>
+[[combine? &k=1 &type=js &path=/themes/questoria/js &files="jquery-ui-1.8.16.custom.min.js,jquery.ui.datepicker-ru.js,jquery.selectBox.min.js,jquery.scrollTo-1.4.2-min.js,flipclock.min.js,jquery.grayscale.js,jquery.form.js,plugins/validation/jquery.form-1.0.0.js,bootstrap.min.js,jquery.fancybox.pack.js,plugins/jsrender.min.js,plugins/wselect.js,plugins/jquery.gallery.slider.js,skinny-slider.js,jasper.priceBlock.js,plugins/jquery.lazyload.min.js,jquery.tooltipster.min.js,functions.js,landing.js"]]
+[[combine? &k=2 &type=js &path=/themes/questoria &files="libs/grimm.slider/nailthumb/jquery.nailthumb.1.1.min.js,libs/grimm.slider/js/libs/angular.min.js,libs/grimm.slider/js/libs/angular-animate.min.js,libs/grimm.slider/js/libs/grimm.slider.js"]]
+<script type="text/javascript">
+$(function() {
+    $("img").lazyload(
+        {
+            effect : "fadeIn",
+            skip_invisible : false,
+            event : "img_loading"
+        }
+    );
+
+    $(window).bind("load", function() {
+        var timeout = setTimeout(function() {
+            $("img").trigger("img_loading")
+        }, 3000);
+    });
+    $('.tooltip').tooltipster({
+        animation: 'fade',
+        delay: 100,
+        theme: 'tooltipster-default',
+        trigger: 'hover',
+        maxWidth: '300',
+        position: 'right',
+        theme: 'tooltipster-default tooltip-theme-1',
+        arrowColor: '#000'
+    });
+});
+</script>
+<!--/ Content /-->
+
+<!-- Google Code for Questoria audience Remarketing List -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1024609747;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "666666";
+var google_conversion_label = "LEoLCJeL5AEQ05vJ6AM";
+var google_conversion_value = 0;
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
+</script>
+
+{{LandingDialog}}
+
+</body>
+</html>

@@ -1,0 +1,19 @@
+<?php
+/**
+return [
+'id' => '13',
+'templatename' => 'blogPost',
+'description' => 'Template',
+'editor_type' => '0',
+'category' => '8',
+'icon' => '',
+'template_type' => '0',
+'locked' => '0',
+];
+*/
+?>
+{{HEADER_BLOG}}
+
+[*content*]
+
+{{FOOTER}}
