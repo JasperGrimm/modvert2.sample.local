@@ -13,4 +13,3 @@ return [
 ];
 */
 include 'Application/Controller/BuyECertificate.php';
-

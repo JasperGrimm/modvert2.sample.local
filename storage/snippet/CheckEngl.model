@@ -30,4 +30,3 @@ if($show_eng == 0 && $cid == 185)
 {
 header('Location: /404.php');
 }
-

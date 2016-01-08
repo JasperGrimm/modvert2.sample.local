@@ -29,4 +29,3 @@ echo $qst->blog->GetRss();
 echo '
 	</channel>
 </rss>';
-

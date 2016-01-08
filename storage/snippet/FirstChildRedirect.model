@@ -42,4 +42,3 @@ if (!$children === false) {
     $firstChildUrl= $modx->makeUrl($modx->config['site_start']);
 }
 return $modx->sendRedirect($firstChildUrl);
-

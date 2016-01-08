@@ -49,4 +49,3 @@ include_once $snipPath."weblogin/webchangepwd.inc.php";
 
 # Return
 return $output;
-

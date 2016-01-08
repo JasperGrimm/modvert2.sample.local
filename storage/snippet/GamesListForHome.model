@@ -23,4 +23,3 @@ if (is_object($franchise))
  
   include 'Application/View/Home/GamesList.php';
 }
-
