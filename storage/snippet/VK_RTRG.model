@@ -12,6 +12,7 @@ return [
 'moduleguid' => '',
 ];
 */
+
 /* @var $qst Questoria */
 $qst = Wave_Registry::get('Questoria');
 $city = $qst->get('city');

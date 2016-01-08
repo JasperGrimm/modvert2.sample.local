@@ -13,4 +13,5 @@ return [
 ];
 */
 
+
 echo '<span data-name="MQ_TOTAL_COST"></span>';

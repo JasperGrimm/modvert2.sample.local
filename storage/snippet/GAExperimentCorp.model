@@ -12,12 +12,13 @@ return [
 'moduleguid' => ' ',
 ];
 */
+
 $id = $modx->documentIdentifier;
 $site_url = $modx->config['site_url'];
 preg_match('/https?:\/\/(moscow)/', $site_url, $m);
 
 if( $id == 21 && count($m) ) {
-?>
+
 
 <!-- Google Analytics Content Experiment code -->
 <script>function utmx_section(){}function utmx(){}(function(){var

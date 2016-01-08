@@ -13,6 +13,7 @@ return [
 ];
 */
 
+
   $city = \Application\Services\Facades\App::get('franchise')->getCityNameLoc();
 ?>
 <h2><?= $title; ?></h2>
@@ -27,7 +28,7 @@ return [
 	</div>
 	<div>
 		<input type="hidden" name="subscribe" value="1" />
-		<span class="field"><input type="text" name="email" value="Ваш e-mail" class="text change-value" style="width:<?= $field_width; ?>" /></span>
+		<span class="field"><input type="text" name="email" value="Ваш e-mail" class="text change-value" style="width:<?= $field_width; " /></span>
 		<span class="button"><a  href="#" class="gray-button"><span>Подписаться на уведомление о возобновлении квестов</span></a></span>
 	</div>
 </form>

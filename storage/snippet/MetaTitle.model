@@ -13,6 +13,7 @@ return [
 ];
 */
 
+
 $city = \Application\Services\Facades\App::get('franchise');
 $city_name_loc = $city->getCityNameLoc();
 

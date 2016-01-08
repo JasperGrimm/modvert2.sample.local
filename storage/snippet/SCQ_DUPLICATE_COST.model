@@ -12,5 +12,6 @@ return [
 'moduleguid' => '',
 ];
 */
+
 	    
 echo '<span data-name="SCQ_DUPLICATE_COST"></span>';

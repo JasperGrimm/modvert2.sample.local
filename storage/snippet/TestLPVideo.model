@@ -13,6 +13,7 @@ return [
 ];
 */
 
+
 //$qst = Wave_Registry::get('Questoria');
 $video = 1;//$qst->get('DI')->get('request')->get('video', 0);
 if( !$video ){}
@@ -33,7 +34,7 @@ else
 <div class="wave-biege-brown"></div>
 <?php
    } else {
-?>
+
 <div class="wave-white-biege"></div>
 <div class="section what-is-quests">
     <div class="wrap">

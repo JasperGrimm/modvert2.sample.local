@@ -13,6 +13,7 @@ return [
 ];
 */
 
+
 $qst = Wave_Registry::get('Questoria');
 $geo_franchise = $qst->geo;
 if (is_object($geo_franchise))

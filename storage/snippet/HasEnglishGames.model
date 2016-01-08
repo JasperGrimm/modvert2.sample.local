@@ -12,11 +12,12 @@ return [
 'moduleguid' => ' ',
 ];
 */
+
 ?><?php
 $qst = Wave_Registry::get('Questoria');
 $city_id = $qst->geo->GetCityId();
 $fran =$qst->user->getActiveFranchisee( $city_id );
 $show_eng = $fran->eng_games;
-if($show_eng == 1){ ?>
+if($show_eng == 1){ 
 <p><span><span>Если вы хотите, чтобы игра прошла в лучших традициях живых квестов : </span><br /><span>– с профессиональным ведущим; </span><br /><span>– с антуражным реквизитом;</span><br /><span>– с гарантией качества, </span><br /><span>пригласите нас провести <a href="[~185~]">английскую игру на заказ</a></span><br /></span></p>
 <?php }

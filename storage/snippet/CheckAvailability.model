@@ -13,6 +13,7 @@ return [
 ];
 */
 
+
 $franchise = \Application\Services\Facades\App::get('franchise');
 
 if (!$franchise || !$franchise->getCompany() || !$franchise->getCompany()->isActive())

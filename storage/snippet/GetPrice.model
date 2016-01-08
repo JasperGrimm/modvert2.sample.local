@@ -12,6 +12,7 @@ return [
 'moduleguid' => ' ',
 ];
 */
+
 $type = isset( $type ) ? $type : 'default';
 $type = $type . '_price';
 

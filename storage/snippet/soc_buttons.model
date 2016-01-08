@@ -12,6 +12,7 @@ return [
 'moduleguid' => ' ',
 ];
 */
+
 ?>
 <div>
 <?php
@@ -19,7 +20,7 @@ if(file_exists($_SERVER['DOCUMENT_ROOT'].'/Application/View/like_buttons.php'))
 {
     include_once $_SERVER['DOCUMENT_ROOT'].'/Application/View/like_buttons.php';
 }
-?>
+
 
 </div>
 <?php
