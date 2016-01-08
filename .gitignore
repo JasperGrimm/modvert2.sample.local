@@ -5,3 +5,5 @@ bin/*
 !bin/.gitignore
 .idea/
 .phpintel/
+manager/
+assets/
