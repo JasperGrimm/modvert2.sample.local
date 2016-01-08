@@ -13,4 +13,19 @@ return [
 'display' => '',
 'display_params' => '',
 'default_text' => 'hb',
+'templates' => [
+10, 18
+],
+'content_values' => [
+'202' => 'corporate',
+'241' => 'corporate',
+'21' => 'corporate',
+'243' => 'corporate',
+'244' => 'child_game',
+'22' => 'child_game',
+'249' => 'corporate',
+'253' => 'corporate',
+'254' => 'corporate',
+'261' => 'child_game',
+],
 ];
