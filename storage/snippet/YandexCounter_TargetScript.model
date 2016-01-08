@@ -13,6 +13,8 @@ return [
 ];
 */
 
+
+
 /*
 **	Environment variables
 */
@@ -44,7 +46,7 @@ if( in_array( $id, $tid ) )
 	$index = $tid[ $id ] + 1;
 }
 
-?>
+
 <script type="text/javascript">
 //<![CDATA[
 

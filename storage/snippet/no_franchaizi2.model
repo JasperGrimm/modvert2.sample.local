@@ -14,10 +14,12 @@ return [
 */
 
 
+
+
   $city = \Application\Services\Facades\App::get('franchise')->getCityNameLoc();
 ?>
 <h2><?= $title; ?></h2>
-<p><b>Живые квесты в <?= $city; ?> временно не проводятся.</b></p>
+<p><b>Живые квесты в <?= $city;  временно не проводятся.</b></p>
 <a href="/квестория/квестория-франшиза">Мы ищем нового партнера</a>. Вы можете:<br/>
 <ul class="no_franchaizi2">
 <li>

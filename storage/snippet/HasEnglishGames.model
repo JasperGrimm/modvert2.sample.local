@@ -13,7 +13,9 @@ return [
 ];
 */
 
-?><?php
+
+
+<?php
 $qst = Wave_Registry::get('Questoria');
 $city_id = $qst->geo->GetCityId();
 $fran =$qst->user->getActiveFranchisee( $city_id );

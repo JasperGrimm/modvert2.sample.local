@@ -13,6 +13,8 @@ return [
 ];
 */
 
+
+
 /* Description:
  *      Aggregates documents to create blogs, article/news
  *      collections, and more,with full support for templating.

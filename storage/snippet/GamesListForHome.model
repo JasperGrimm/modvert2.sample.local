@@ -14,6 +14,8 @@ return [
 */
 
 
+
+
 $qst = Wave_Registry::get('Questoria');
 $franchise = \Application\Services\Facades\App::get('franchise');
 if (is_object($franchise))

@@ -13,6 +13,8 @@ return [
 ];
 */
 
+
+
 $qst = Wave_Registry::get('Questoria');
 $group = $qst->help->GetTestGroup('home_position');
 if( $group == 1 )

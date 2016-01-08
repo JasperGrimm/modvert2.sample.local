@@ -13,6 +13,8 @@ return [
 ];
 */
 
+
+
 	    
 $qst = Wave_Registry::get('Questoria');
 

@@ -13,6 +13,8 @@ return [
 ];
 */
 
+
+
 $type = isset( $type ) ? $type : 'default';
 $type = $type . '_price';
 

@@ -13,6 +13,8 @@ return [
 ];
 */
 
+
+
 $descr = '';
 
 $page_id = $modx->documentIdentifier;
