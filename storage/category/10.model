@@ -1,5 +1,0 @@
-<?php
-return [
-'id' => '10',
-'category' => 'Questoria TVs',
-];

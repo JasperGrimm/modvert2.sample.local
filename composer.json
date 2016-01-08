@@ -8,46 +8,33 @@
         }
     ],
     "require-dev": {
-        "vestnik/modvert2": "dev-master"
+      "vestnik/modvert2": "dev-develop"
     },
+  	"config": {
+  	    "bin-dir": "./bin"
+  	},
+    "minimum-stability": "dev",
     "repositories": [
-	    {
-	      "type": "package",
-	      "package": {
-	        "name": "kzykhys/git",
-	        "version": "3.0",
-	        "source": {
-	          "url": "https://github.com/Djakson/PHPGit.git",
-	          "type": "git",
-	          "reference": "origin/master"
-	        },
-	        "autoload": {
-	          "psr-4": {
-	            "PHPGit\\": "src/PHPGit"
-	          }
-	        }
-	      }
-	    },
-	    {
-	      "type": "package",
-	      "package": {
-	        "name": "noodlehaus/config",
-	        "version": "1.0",
-	        "source": {
-	          "url": "https://github.com/Djakson/config.git",
-	          "type": "git",
-	          "reference": "origin/master"
-	        },
-	        "autoload": {
-	          "psr-4": {
-	            "Noodlehaus\\": "src"
-	          }
-	        }
-	      }
-	    }
-	],
-	"config": {
-	    "bin-dir": "./bin"
-	},
-    "minimum-stability": "dev"
+      {
+        "type": "vcs",
+        "url": "../modvert2"
+      },
+      {
+        "type": "package",
+        "package": {
+          "name": "noodlehaus/config",
+          "version": "1.0",
+          "source": {
+            "url": "https://github.com/Djakson/config.git",
+            "type": "git",
+            "reference": "origin/master"
+          },
+          "autoload": {
+            "psr-4": {
+              "Noodlehaus\\": "src"
+            }
+          }
+        }
+      }
+    ]
 }

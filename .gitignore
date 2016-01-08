@@ -1,2 +1,7 @@
 composer.lock
 vendor/
+modvert.yml
+bin/*
+!bin/.gitignore
+.idea/
+.phpintel/
