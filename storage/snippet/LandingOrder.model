@@ -31,4 +31,3 @@ $info = $qst->user->getActiveFranchisee($qst->geo->getCityId());
 echo $info->private_price .' '. $info->currency;
 }
 
-?>

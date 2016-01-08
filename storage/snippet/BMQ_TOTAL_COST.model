@@ -14,4 +14,3 @@ return [
 */
 	    
 echo '<span data-name="BMQ_TOTAL_COST"></span>';
-?>

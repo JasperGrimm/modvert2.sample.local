@@ -21,4 +21,3 @@ if (is_object($franchise))
   $qst->blog->Execute( $city_id );
 }
 
-?>

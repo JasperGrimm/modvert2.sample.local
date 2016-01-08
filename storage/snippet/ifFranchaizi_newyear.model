@@ -13,4 +13,3 @@ return [
 ];
 */
 include 'Application/Snippets/Dumped/ifFranchaizi_newyear.php';
-?>

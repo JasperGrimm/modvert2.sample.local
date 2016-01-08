@@ -484,4 +484,3 @@ return $output;
 }
 
 return reflect($targetID, $showItems, $groupByYears, $resource, $dateSource, $dateFormat, $ditto, $templates,$id,$start,$yearSortDir,$monthSortDir);
-?>

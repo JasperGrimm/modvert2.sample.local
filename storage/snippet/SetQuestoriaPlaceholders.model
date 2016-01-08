@@ -24,4 +24,3 @@ $modx->setPlaceholder( 'basehost', $qst->get('base_host') );
 $modx->setPlaceholder( 'subdomain', $qst->get('subdomain') );
 
 
-?>

@@ -18,4 +18,3 @@ $city = $qst->get('city');
 if ($city && $city->getRetargetingCode()){
     echo $city->getRetargetingCode();
 }
-?>

@@ -478,4 +478,3 @@ $elapsedTime = $modx->getMicroTime() - $tstart;
 $etime = sprintf("%.4fs",$elapsedTime);
 //$f=fopen('test.txt','a+');fwrite($f,"etime=".$etime."\n\n");
 return $output;
-?>

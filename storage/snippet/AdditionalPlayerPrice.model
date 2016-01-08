@@ -20,4 +20,3 @@ $price = $user->private_additional_user_price 	;
 
 echo $price .' '. $user->currency;
 
-?>

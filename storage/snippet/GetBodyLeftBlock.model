@@ -24,4 +24,3 @@ if( $id && !in_array( $id, $docs ) )
 	echo $modx->parseChunk( 'BODY-LEFT-BLOCK', $chunk, '[!', '!]' );
 }
 
-?>

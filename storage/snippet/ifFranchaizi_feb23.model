@@ -13,4 +13,3 @@ return [
 ];
 */
 include 'Application/Snippets/Dumped/ifFranchaizi_feb23.php';
-?>

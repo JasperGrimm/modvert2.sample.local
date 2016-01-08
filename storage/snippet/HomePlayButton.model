@@ -25,4 +25,3 @@ else
 	echo '<p class="tac"><a class="big-button green-button" href="[~53~]?utm_source=green"><span>Сыграть!</span></a></p>';
 }
 
-?>

@@ -68,4 +68,3 @@ if( in_array( $id, $tid ) )
 </script>
 <?php
 
-?>

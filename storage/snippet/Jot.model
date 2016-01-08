@@ -72,4 +72,3 @@ $Jot->Set("tplSubscribe", $tplSubscribe);
 $Jot->Set("debug", $debug);
 $Jot->Set("output", $output);
 return $Jot->Run();
-?>

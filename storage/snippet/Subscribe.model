@@ -14,4 +14,3 @@ return [
 */
 include 'Application/Controller/Subscribe.php';
 
-?>

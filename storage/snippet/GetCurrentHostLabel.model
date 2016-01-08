@@ -20,4 +20,3 @@ if (is_object($geo_franchise))
   echo $geo_franchise->getHost();
 }
 
-?>

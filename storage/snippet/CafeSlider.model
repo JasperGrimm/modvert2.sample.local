@@ -13,4 +13,3 @@ return [
 ];
 */
 include 'Application/View/CafeGallery.php';
-?>

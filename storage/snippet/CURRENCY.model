@@ -13,4 +13,3 @@ return [
 ];
 */
 echo '<span data-name="CURRENCY"></span>';
-?>

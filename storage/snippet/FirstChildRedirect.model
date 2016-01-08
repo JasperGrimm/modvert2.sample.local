@@ -43,4 +43,3 @@ if (!$children === false) {
 }
 return $modx->sendRedirect($firstChildUrl);
 
-?>

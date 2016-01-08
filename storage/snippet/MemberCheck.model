@@ -146,4 +146,3 @@ if (!isset ($ph)) {
 	$modx->setPlaceholder($ph, $memberCheck->getMemberChunk($groups, $chunk));
 	return '';
 }
-?>

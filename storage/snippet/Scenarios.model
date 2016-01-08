@@ -32,4 +32,3 @@ $show_more_text = isset( $show_more_text ) ? $show_more_text : 1;
 $landing_page = isset( $landing_page) ? $landing_page : 0;
 $show_not_available_scenarios = isset( $show_not_available_scenarios ) ? $show_not_available_scenarios : 1;
 include 'Application/Helper/Scenarios.php';
-?>

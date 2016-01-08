@@ -115,4 +115,3 @@ if ($wf->_config['ph']) {
 } else {
     return $output;
 }
-?>

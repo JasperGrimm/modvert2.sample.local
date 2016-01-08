@@ -17,4 +17,3 @@ return [
  */
 include 'Application/Snippets/Dumped/PhoneNumber.php';
 
-?>

@@ -26,4 +26,3 @@ else if( $count == $countAll )
 	echo '';
 }
 
-?>

@@ -17,4 +17,3 @@ return [
  */
 include_once 'Application/Snippets/Dumped/CityName.php';
 
-?>

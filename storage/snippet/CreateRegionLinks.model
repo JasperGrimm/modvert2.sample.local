@@ -13,4 +13,3 @@ return [
 ];
 */
 include_once 'Application/Snippets/CreateRegionLinks.php';
-?>

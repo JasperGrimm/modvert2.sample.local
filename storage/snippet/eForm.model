@@ -111,4 +111,3 @@ $output = eForm($modx,$params);
 
 # Return
 return $output;
-?>

@@ -14,4 +14,3 @@ return [
 */
 	    
 echo '<span data-name="E_MAX_PF_F"></span>';
-?>

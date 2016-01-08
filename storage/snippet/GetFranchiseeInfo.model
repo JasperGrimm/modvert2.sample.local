@@ -24,4 +24,3 @@ if( $name && isset( $info->$name ) )
     }
     return $info->$name;
 }
-?>
