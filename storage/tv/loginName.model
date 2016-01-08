@@ -1,0 +1,16 @@
+<?php
+return [
+'id' => '2',
+'type' => 'text',
+'name' => 'loginName',
+'caption' => 'loginName',
+'description' => 'Conditional name for the Login menu item',
+'editor_type' => '0',
+'category' => '1',
+'locked' => '0',
+'elements' => '',
+'rank' => '0',
+'display' => '',
+'display_params' => '',
+'default_text' => '@EVAL if ($modx->getLoginUserID()) return \'Logout\'; else return \'Login\';',
+];

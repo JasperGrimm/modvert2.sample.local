@@ -1,0 +1,15 @@
+<?php
+/**
+return [
+'id' => '27',
+'name' => 'CardFriend',
+'description' => '',
+'editor_type' => '0',
+'category' => '14',
+'cache_type' => '0',
+'locked' => '0',
+];
+*/
+?>
+<p><a class="card" onmouseover="$(this).find('IMG').attr('src','/assets/images/content/20.jpg')" onmouseout="$(this).find('IMG').attr('src','/assets/images/content/19.jpg')" href="[~54~]"><strong class="title">Игра с друзьями</strong>
+			<img title="игра для вечеринки" src="/assets/images/content/19.jpg" alt="необычная вечеринка с друзьями" /><span class="descr">Совместное приключение для друзей</span></a></p>

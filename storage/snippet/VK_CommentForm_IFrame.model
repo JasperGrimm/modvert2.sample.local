@@ -1,0 +1,26 @@
+<?php
+/**
+return [
+'id' => '153',
+'name' => 'VK_CommentForm_IFrame',
+'description' => '',
+'editor_type' => '0',
+'category' => '0',
+'cache_type' => '0',
+'locked' => '0',
+'properties' => '',
+'moduleguid' => ' ',
+];
+*/
+/*
+**	Сниппет формы комментариев
+*/
+
+/*
+**	Подключаем шаблон с формой
+*/
+include 'Application/View/CommentForm_VK_IFrame.php';
+
+//
+
+?>

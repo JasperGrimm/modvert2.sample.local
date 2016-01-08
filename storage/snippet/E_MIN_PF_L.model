@@ -1,0 +1,17 @@
+<?php
+/**
+return [
+'id' => '102',
+'name' => 'E_MIN_PF_L',
+'description' => 'Минимальная чистая прибыль с учетом роста',
+'editor_type' => '0',
+'category' => '0',
+'cache_type' => '0',
+'locked' => '0',
+'properties' => '',
+'moduleguid' => '',
+];
+*/
+	    
+echo '<span data-name="E_MIN_PF_L"></span>'; 
+?>

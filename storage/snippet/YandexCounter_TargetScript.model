@@ -1,0 +1,71 @@
+<?php
+/**
+return [
+'id' => '87',
+'name' => 'YandexCounter_TargetScript',
+'description' => '',
+'editor_type' => '0',
+'category' => '0',
+'cache_type' => '0',
+'locked' => '0',
+'properties' => '',
+'moduleguid' => ' ',
+];
+*/
+/*
+**	Environment variables
+*/
+$tid = isset( $tid ) ? $tid : '';
+$target = isset( $target ) ? $target : '';
+
+/*
+**	Current document id
+*/
+$id = $modx->documentIdentifier;
+
+/*
+**	Explode target labels
+*/
+$target = explode( ',', $target );
+
+/*
+**	Explode target ids
+*/
+$tid = explode( ',', $tid );
+
+/*
+**	Check conditions
+*/
+$index = 0;
+if( in_array( $id, $tid ) )
+{
+	$tid = array_flip( $tid );
+	$index = $tid[ $id ] + 1;
+}
+
+?>
+<script type="text/javascript">
+//<![CDATA[
+
+	var yc_count = 50;
+	var yc_target = '<?= $target[ $index ]; ?>';
+
+	function SendYandexTarget()
+	{
+		if( window.yaCounter9878797 ) {
+			console.log('Yandex Counter: Target = '+yc_target);
+			window.yaCounter9878797.reachGoal(yc_target);
+		} else if( yc_count ) {
+			setTimeout(SendYandexTarget,100);
+			yc_count--;
+		} else {
+			console.log('Yandex Counter: yaCounterXXXXXXX object not found!');
+		}
+	}
+	setTimeout(SendYandexTarget,100);
+
+//]]>
+</script>
+<?php
+
+?>

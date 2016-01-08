@@ -1,0 +1,16 @@
+<?php
+return [
+'id' => '19',
+'type' => 'dropdown',
+'name' => 'strict_lang',
+'caption' => 'Для какого языка показывать страницу?',
+'description' => '',
+'editor_type' => '0',
+'category' => '0',
+'locked' => '0',
+'elements' => '@EVAL return [null, \'en\', \'ru\', \'ua\'];',
+'rank' => '0',
+'display' => '',
+'display_params' => '',
+'default_text' => '@EVAL return null;',
+];

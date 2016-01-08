@@ -1,0 +1,16 @@
+<?php
+return [
+'id' => '8',
+'type' => 'dropdown',
+'name' => 'City',
+'caption' => 'Город',
+'description' => '',
+'editor_type' => '0',
+'category' => '10',
+'locked' => '0',
+'elements' => '@SELECT city_name, id FROM qst_franchise ORDER BY city_name',
+'rank' => '0',
+'display' => '',
+'display_params' => '',
+'default_text' => '',
+];

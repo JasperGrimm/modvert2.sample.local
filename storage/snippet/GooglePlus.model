@@ -1,0 +1,22 @@
+<?php
+/**
+return [
+'id' => '125',
+'name' => 'GooglePlus',
+'description' => '',
+'editor_type' => '0',
+'category' => '0',
+'cache_type' => '0',
+'locked' => '0',
+'properties' => '',
+'moduleguid' => ' ',
+];
+*/
+$id = $modx->documentIdentifier;
+if( $id == 1 ) { // Если главная страница
+?>
+<a href="https://plus.google.com/113314962200268959867" rel="publisher"></a>
+<?php
+}
+
+?>

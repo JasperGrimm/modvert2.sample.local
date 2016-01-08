@@ -1,0 +1,18 @@
+<?php
+/**
+return [
+'id' => '48',
+'name' => 'ContactBlockMarketing',
+'description' => '',
+'editor_type' => '0',
+'category' => '11',
+'cache_type' => '0',
+'locked' => '0',
+];
+*/
+?>
+<div class="dark round block-2 tac contact_block">
+	<span>
+        <img style="vertical-align: middle;" src="/themes/questoria/images/ico_email.gif" alt="" />
+	<a href="mailto:marketing@questoria.ru">marketing@questoria.ru</a></span>
+</div>

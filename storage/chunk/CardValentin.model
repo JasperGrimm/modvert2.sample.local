@@ -1,0 +1,16 @@
+<?php
+/**
+return [
+'id' => '30',
+'name' => 'CardValentin',
+'description' => '',
+'editor_type' => '0',
+'category' => '14',
+'cache_type' => '0',
+'locked' => '0',
+];
+*/
+?>
+<p><a class="card" onmouseover="$(this).find('IMG').attr('src','assets/images/Pics_for_site/valentin1.jpg')" onmouseout="$(this).find('IMG').attr('src','assets/images/Pics_for_site/valentin.jpg')" href="[~101~]">
+			<strong class="title">День св. Валентина</strong>
+			<img title="игра на день святого валентина" src="assets/images/Pics_for_site/valentin.jpg" alt="подарок на день святого валентина" width="202" height="211" /><span class="descr">Подарок на День святого Валентина</span></a></p>

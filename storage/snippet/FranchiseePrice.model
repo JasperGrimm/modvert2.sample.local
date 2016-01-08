@@ -1,0 +1,16 @@
+<?php
+/**
+return [
+'id' => '120',
+'name' => 'FranchiseePrice',
+'description' => 'Прайс',
+'editor_type' => '0',
+'category' => '0',
+'cache_type' => '0',
+'locked' => '0',
+'properties' => '',
+'moduleguid' => ' ',
+];
+*/
+
+?>

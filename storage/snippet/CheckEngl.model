@@ -1,0 +1,34 @@
+<?php
+/**
+return [
+'id' => '72',
+'name' => 'CheckEngl',
+'description' => '',
+'editor_type' => '0',
+'category' => '0',
+'cache_type' => '0',
+'locked' => '0',
+'properties' => '',
+'moduleguid' => ' ',
+];
+*/
+/*
+**	Глобальный класс
+*/
+ 
+$qst = Wave_Registry::get('Questoria');
+$city_id = $qst->geo->GetCityId();
+
+
+/**** Показывать ли английские игры ***/
+$fran = $qst->user->getActiveFranchisee( $city_id );
+$show_eng = $fran->eng_games;
+
+
+$cid = $modx->documentIdentifier;
+if($show_eng == 0 && $cid == 185)
+{
+header('Location: /404.php');
+}
+
+?>
