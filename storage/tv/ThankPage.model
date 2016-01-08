@@ -1,0 +1,16 @@
+<?php
+return [
+'id' => '7',
+'type' => 'dropdown',
+'name' => 'ThankPage',
+'caption' => 'ThankPage',
+'description' => '',
+'editor_type' => '0',
+'category' => '10',
+'locked' => '0',
+'elements' => '@SELECT pagetitle, id FROM modx_site_content WHERE type=\'document\' AND published=\'1\' ORDER BY pagetitle',
+'rank' => '0',
+'display' => '',
+'display_params' => '',
+'default_text' => '',
+];

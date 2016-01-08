@@ -1,0 +1,16 @@
+<?php
+return [
+'id' => '13',
+'type' => 'dropdown',
+'name' => 'GameType',
+'caption' => 'Для какого праздника показывать сценарии?',
+'description' => '',
+'editor_type' => '0',
+'category' => '10',
+'locked' => '0',
+'elements' => '@select name, alias from qst_game',
+'rank' => '4',
+'display' => '',
+'display_params' => '',
+'default_text' => 'hb',
+];

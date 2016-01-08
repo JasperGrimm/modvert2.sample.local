@@ -1,0 +1,17 @@
+<?php
+/**
+return [
+'id' => '32',
+'name' => 'CardWomen',
+'description' => '',
+'editor_type' => '0',
+'category' => '14',
+'cache_type' => '0',
+'locked' => '0',
+];
+*/
+?>
+<p><a class="card" onmouseover="$(this).find('IMG').attr('src','/assets/images/content/10.jpg')" onmouseout="$(this).find('IMG').attr('src','/assets/images/content/9.jpg')" href="[~56~]"><strong class="title">8-е марта</strong>
+			<img title="отметить 8 марта" src="/assets/images/content/9.jpg" alt="подарок на 8 марта" />
+			<span class="descr">Венецианские интриги и пиратские приключения</span>
+		</a></p>

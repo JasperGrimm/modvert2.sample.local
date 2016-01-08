@@ -1,0 +1,31 @@
+<?php
+/**
+return [
+'id' => '3',
+'type' => 'reference',
+'contentType' => 'text/html',
+'pagetitle' => 'Главная',
+'longtitle' => '',
+'description' => '',
+'alias' => 'главная',
+'link_attributes' => '',
+'published' => '0',
+'parent' => '2',
+'isfolder' => '0',
+'template' => '0',
+'menuindex' => '1',
+'searchable' => '1',
+'cacheable' => '1',
+'deleted' => '0',
+'menutitle' => '',
+'donthit' => '0',
+'haskeywords' => '0',
+'hasmetatags' => '0',
+'privateweb' => '0',
+'privatemgr' => '0',
+'content_dispo' => '0',
+'hidemenu' => '0',
+];
+*/
+?>
+1

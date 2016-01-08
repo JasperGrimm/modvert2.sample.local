@@ -1,0 +1,18 @@
+<?php
+/**
+return [
+'id' => '22',
+'name' => 'CardOpenGame',
+'description' => '',
+'editor_type' => '0',
+'category' => '14',
+'cache_type' => '0',
+'locked' => '0',
+];
+*/
+?>
+<p><a class="card first" onmouseover="$(this).find('IMG').attr('src','/assets/images/content/img_02.jpg')" onmouseout="$(this).find('IMG').attr('src','/assets/images/content/img_01.jpg')" href="/[~16~]">
+					<strong class="title">Сыграть самому</strong>
+					<span class="image"><img title="игра живой квест" src="/assets/images/content/img_01.jpg" alt="игра в кафе" /></span>
+					<span class="descr">Игры каждую неделю по расписанию</span>
+</a></p>

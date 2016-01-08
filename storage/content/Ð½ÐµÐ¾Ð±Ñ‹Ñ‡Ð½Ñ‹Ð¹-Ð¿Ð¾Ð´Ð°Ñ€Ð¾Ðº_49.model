@@ -1,0 +1,44 @@
+<?php
+/**
+return [
+'id' => '49',
+'type' => 'document',
+'contentType' => 'text/html',
+'pagetitle' => 'Необычный подарок',
+'longtitle' => 'Оригинальный подарок - подарочные сертификаты на живой квест Questoria в [[CityName? &declinatio=1]]',
+'description' => '',
+'alias' => 'необычный-подарок',
+'link_attributes' => '',
+'published' => '1',
+'parent' => '0',
+'isfolder' => '0',
+'template' => '10',
+'menuindex' => '13',
+'searchable' => '1',
+'cacheable' => '1',
+'deleted' => '0',
+'menutitle' => '',
+'donthit' => '0',
+'haskeywords' => '0',
+'hasmetatags' => '0',
+'privateweb' => '0',
+'privatemgr' => '0',
+'content_dispo' => '0',
+'hidemenu' => '0',
+];
+*/
+?>
+<h1>Квестория — оригинальный подарок!</h1>
+<p>Сделайте <strong>необычный подарок</strong> другу или подруге на <strong>день рождения</strong> или <strong>памятную дату</strong> – подарите участие в детективной истории! Роль в квестории – достаточно необычно, не так ли?</p>
+<p>Интриги и сговоры, крутые повороты сюжета, риск, убийца, улики – со всем этим предстоит столкнуться обладателю подарочного сертификата на игру в живой квест. Сразу после отправления заявки к вам на e-mail придёт письмо с информацией о способах получения и оплаты сертификата.</p>
+<div class="clear"> </div>
+<!--p class="justifyfull"><a class="fancy" href="http://questoria.ru/assets/images/Pics_for_site/Photo/-сертификат.jpg" _mce_href="http://questoria.ru/assets/images/Pics_for_site/Photo/-сертификат.jpg"><img class="ifl" title="оригинальный подарок" src="http://questoria.ru/assets/images/Pics_for_site/Photo/-сертификат.jpg" _mce_src="http://questoria.ru/assets/images/Pics_for_site/Photo/-сертификат.jpg" alt="необычный подарок" width="200" height="281" /></a></p>
+<p class="justifyfull">Сделайте <strong>необычный подарок</strong> другу или подруге на <strong>день рождения</strong> или <strong>памятную дату</strong> — подарите участие в детективной истории! Роль в живом квесте — достаточно необычно, не так ли? ;)</p>
+<p class="justifyfull">Интриги и сговоры, крутые повороты сюжета, риск, убийца, улики — со всем этим предстоит столкнуться обладателю подарочного сертификата на игру в живой квест.</p>
+<p class="justifyfull">Стоимость подарочного сертификата в [!CityName? &amp;declinatio=6!]: <strong><span>[!GetPrice? &amp;type=default!]</span></strong></p>
+<p class="justifyfull">Обладатель сертификата может прийти на любой понравившийся квест из расписания, кроме квестов по специальной стоимости (костюмированных или праздничных — например, на Новый год), тем не менее даже на таких играх сертификат может быть принят "в зачёт" по его стоимости. Сертификат действует в течение 6 месяцев после его приобретения.</p>
+<h2 class="justifyfull">Подарите другу участие в приключении!</h2-->
+<p class="justifyfull"><span>[!OrderQuest? &amp;type_id=2 </span><span>&amp;thank_page_id=143 </span><span>!]</span></p>
+<p><img title="оригинальный подарок" src="/data/images/certificates/Sertificat-1.png" alt="необычный подарок" /></p>
+<h3 class="justifyfull">Остались вопросы?</h3>
+<p class="big-font justifyfull">Свяжитесь с нами по телефону в [!CityName? declinatio=6!]: <strong>[!PhoneNumber!]</strong></p>

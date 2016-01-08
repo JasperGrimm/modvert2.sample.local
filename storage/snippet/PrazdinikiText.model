@@ -1,0 +1,28 @@
+<?php
+/**
+return [
+'id' => '73',
+'name' => 'PrazdinikiText',
+'description' => '',
+'editor_type' => '0',
+'category' => '0',
+'cache_type' => '0',
+'locked' => '0',
+'properties' => '',
+'moduleguid' => ' ',
+];
+*/
+if( $count == 1 )
+{
+	//echo '<p>В ' . $city_name_loc . ' пока только один живой квест:</p>';
+}
+else if( $count< $countAll )
+{
+	//echo '<p>Детективы, мистика, приключения — все это вы найдете в наших живых квестах!<br/>Выберите сценарий на свой вкус, из доступных в ' . $city_name_loc . ':</p>';
+}
+else if( $count == $countAll )
+{
+	//echo '<p>Детективы, мистика, приключения — все это вы найдете в наших живых квестах!<br/>Выберите сценарий на свой вкус, из доступных в ' . $city_name_loc . ':</p>';
+}
+
+?>

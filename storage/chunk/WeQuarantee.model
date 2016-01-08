@@ -1,0 +1,14 @@
+<?php
+/**
+return [
+'id' => '200',
+'name' => 'WeQuarantee',
+'description' => 'Ссылка "мы это гарантируем" на вспл. окно',
+'editor_type' => '0',
+'category' => '0',
+'cache_type' => '0',
+'locked' => '0',
+];
+*/
+?>
+<div class="link tac" id="guarantee">Скучно не будет, <a href="#guarantee" class="ajax dialog-control" data-target="#dialog_guarantee">мы это гарантируем!</a></div>

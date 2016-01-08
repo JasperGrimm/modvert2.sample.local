@@ -1,0 +1,119 @@
+<?php
+/**
+return [
+'id' => '126',
+'name' => 'FeedbackListLanding',
+'description' => 'список коментариев для LP (горизонтальный слайдер)',
+'editor_type' => '0',
+'category' => '11',
+'cache_type' => '0',
+'locked' => '0',
+'properties' => '',
+'moduleguid' => ' ',
+];
+*/
+/**
+    * 
+    */
+    class Wave_Iterator
+    {
+        
+        private $items = array();
+
+        public function __construct($items)
+        {
+            $this->items = $items;
+        }
+
+        public function fetch_assoc()
+        {
+            static $index = -1;
+            $index += 1;
+            if ($index >= count($this->items)) return false;
+            return $this->items[$index];
+        }
+
+        public function count()
+        {
+            return count($this->items);
+        }
+    }
+$child_game = isset($child_game) && intval($child_game);
+$open_game = isset($open_game) && intval($open_game);
+$qst = Wave_Registry::get('Questoria');
+$city_id = $qst->geo->getCityId();
+if ($child_game){
+      $items = array(
+        (object)array(
+            'image_url' => 'https://pp.vk.me/c619624/v619624598/1e613/cNuQqMDymLc.jpg',
+            'text' => 'Квест просто потрясающий! Мы играли целым классом, эмоции зашкаливали. Квест полон интриги и тайн. Особенно все испугались дракона на 2 ярусе подземелья. Все было просто шикарно! Нам всем очень понравилось! Я этот вечер запомню надолго!',
+            'user_name' => 'Таня Салищева',
+            'link' => '',
+            'image_title' => 'Таня Салищева - отзыв о детской игре',
+            'image_alt' => 'Таня Салищева - отзыв о детской игре' 
+            ),
+        (object)array(
+            'image_url' => 'https://pp.vk.me/c424531/v424531546/2282/eSoheYeBdMM.jpg',
+            'text' => 'Спасибо огромное за игру. Мне очень понравилось. Так захватывающе и увлекательно! Мы все настолько вошли в роль и увлеклись игрой, что потом еще долго называли друг друга именами персонажей квеста. Всем очень понравилось!',
+            'user_name' => 'Алина Плешкова',
+            'link' => '',
+            'image_title' => 'Алина Плешкова - отзыв о детской игре',
+            'image_alt' => 'Алина Плешкова - отзыв о детской игре' 
+            ),
+        (object)array(
+            'image_url' => 'https://pp.vk.me/c608217/v608217207/7481/kyZTAxz73wU.jpg',
+            'text' => 'Отмечали день рождения сына, 11 лет. Гости — дети того же возраста — играли в квест "Школа магии". Все остались в полном восторге! Спасибо большое ведущим за позитив и профессионализм. Обязательно будем играть ещё!',
+            'user_name' => 'Янина Фролкова',
+            'link' => '',
+            'image_title' => 'Янина Фролкова - отзыв о детской игре',
+            'image_alt' => 'Янина Фролкова - отзыв о детской игре' 
+            ),
+        (object)array(
+            'image_url' => 'https://pp.vk.me/c406226/v406226393/9f6d/z7-Ee756LCQ.jpg',
+            'text' => 'Вот мой самый позитивный отзыв — на фотографии дочки! Играли уже в четыре квеста, все с разным успехом и результатом, но всегда — с отменными эмоциями!! Чувствую, переиграем во все сценарии, а потом с нетерпением будем ждать новых идей!',
+            'user_name' => 'Фрося Васильева',
+            'link' => '',
+            'image_title' => 'Фрося Васильева - отзыв о детской игре',
+            'image_alt' => 'Фрося Васильева - отзыв о детской игре' 
+            ),
+        (object)array(
+            'image_url' => 'https://pp.vk.me/c623221/v623221544/17a2/H82VXjvtOFk.jpg',
+            'text' => 'Живой квест — замечательный и очень увлекательный досуг для всей семьи: как раз вчера с нами играли мама, папа и их дочурка, которая благодаря своему детскому энтузиазму пыталась раскрыть убийцу активнее всех ',
+            'user_name' => 'Дарья Кубич',
+            'link' => '',
+            'image_title' => 'Дарья Кубич - отзыв о детской игре',
+            'image_alt' => 'Дарья Кубич - отзыв о детской игре' 
+            ),
+        (object)array(
+            'image_url' => 'https://pp.vk.me/c10650/u1554667/-6/x_928ef7b0.jpg',
+            'text' => 'Спасибо ведущей Кате за проведенный квест на детский день рождения. Было весело и детям очень понравилось.',
+            'user_name' => 'Елена Крол',
+            'link' => '',
+            'image_title' => 'Елена Крол - отзыв о детской игре',
+            'image_alt' => 'Елена Крол - отзыв о детской игре' 
+            ),
+    );
+
+    $res = new Wave_Iterator($items);
+
+}
+elseif($open_game)
+{
+    $res = $qst->db->query("SELECT image_url, text, user_name, link, image_title, image_alt FROM #_feedback_sidebar WHERE published = 1 AND id NOT IN(158,159) AND (city_id = 0 OR city_id = 1) ORDER BY ordering");
+}
+else
+{
+    $res = $qst->db->query("SELECT image_url, text, user_name, link, image_title, image_alt FROM #_feedback_sidebar WHERE published = 1 AND id NOT IN(158,159) AND (city_id = 0 OR city_id = $city_id) ORDER BY ordering");
+}
+while( $item = $res->fetch_assoc() )
+{
+    $item = (object) $item;
+    echo $qst->modx->parseChunk('FeedbackLanding', array('image_url'=>$item->image_url, 'text'=>$item->text, 'user_name'=>$item->user_name, 'link'=>$item->link, 'image_title'=>$item->image_title, 'image_alt'=>$item->image_alt));
+}
+echo '<script>
+        $(document).ready(function(){
+                $(".landing-feed-thumb > .nailthumb-container").nailthumb({width:160, height:160, title:"", titleClass:"hidden", fitDirection: "center top"});
+        });
+</script>';
+
+?>

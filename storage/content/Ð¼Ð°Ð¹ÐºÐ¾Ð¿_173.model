@@ -1,0 +1,31 @@
+<?php
+/**
+return [
+'id' => '173',
+'type' => 'document',
+'contentType' => 'text/html',
+'pagetitle' => 'Для Майкопа',
+'longtitle' => 'Спасибо за заяку',
+'description' => '',
+'alias' => 'майкоп',
+'link_attributes' => '',
+'published' => '1',
+'parent' => '83',
+'isfolder' => '0',
+'template' => '12',
+'menuindex' => '30',
+'searchable' => '1',
+'cacheable' => '1',
+'deleted' => '0',
+'menutitle' => '',
+'donthit' => '0',
+'haskeywords' => '0',
+'hasmetatags' => '0',
+'privateweb' => '0',
+'privatemgr' => '0',
+'content_dispo' => '0',
+'hidemenu' => '0',
+];
+*/
+?>
+<p>{{ThankPageForAllCities}} {{ThankPageForAllCitiesEnd}}</p>

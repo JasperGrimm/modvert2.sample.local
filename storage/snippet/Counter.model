@@ -1,0 +1,17 @@
+<?php
+/**
+return [
+'id' => '77',
+'name' => 'Counter',
+'description' => 'Счетчик сыгравших на главной',
+'editor_type' => '0',
+'category' => '0',
+'cache_type' => '0',
+'locked' => '0',
+'properties' => '',
+'moduleguid' => ' ',
+];
+*/
+include 'Application/View/Counter.php';
+
+?>

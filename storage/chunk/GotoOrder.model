@@ -1,0 +1,14 @@
+<?php
+/**
+return [
+'id' => '40',
+'name' => 'GotoOrder',
+'description' => '',
+'editor_type' => '0',
+'category' => '6',
+'cache_type' => '0',
+'locked' => '0',
+];
+*/
+?>
+<nobr><a href="#order">Сразу перейти к цене и&nbsp;форме заказа</a></nobr>

@@ -1,0 +1,249 @@
+<?php
+/**
+return [
+'id' => '96',
+'name' => 'Birthday_LandingPage_Content',
+'description' => 'LP на День Рождения',
+'editor_type' => '0',
+'category' => '11',
+'cache_type' => '0',
+'locked' => '0',
+];
+*/
+?>
+<div class="section shadow htop">
+    <div class="wrap">
+        <div class="head-left">
+            <div class="city">
+                <div id="utochnit">
+                    <div id="utochnit_left">
+                        <div id="utochnit_right"></div>
+                        Вы в <span></span>? <input class="utochnit_button_yes" onClick="utochnit_yes();" type="button"
+                                                   value="Да"/> &nbsp;
+                        <input class="utochnit_button_no" onClick="utochnit_no();" type="button" value="Нет"/>&nbsp;
+                    </div>
+                </div>
+                <noscript>
+                    <form action="jump_city.php">
+                </noscript>
+                <select id="head_city" name="city_select">
+                    [!CreateCityOptions? other=1&declinatio=6 !]
+                </select>
+
+                <div class="wvSelect">
+                    <div class="wvSelect_Dropdown">
+                        [!CreateCityLinks? other=1&declinatio=6 !]
+                    </div>
+                    <a href="#" class="wvSelect_Control"><span></span></a>
+                </div>
+                <noscript>
+                    <input type="submit" value="Перейти"/>
+                    </form>
+                </noscript>
+            </div>
+            <div id="top_next_slide" class="next-slide"><a class="bajax" href="#"><span
+                        class="ajax">Следующий слайд</span></a></div>
+        </div>
+        <div class="head-right">
+            <div class="callback"><a href="#" class="ajax dialog-control order_call" data-target="#dialog_callback">Заказать обратный звонок</a></div>
+            <div class="phone">[!PhoneNumber? &amp;phone=1!]</div>
+            <div class="email">[!FranchiseeEmail!]</a></div>
+        </div>
+        <div class="head-center">
+            <div class="logo"><img src="/themes/questoria/images/logo-middle.png"
+                                   alt="Квестория. Стань героем истории."/></div>
+        </div>
+    </div>
+</div>
+
+<div class="section description">
+    <div class="wrap">
+        <div class="description_wrp">
+            <div class="descr-left">
+
+            </div>
+            <div class="descr-right">
+                <div class="title">Игра на день рождения <br/> в [!CityName? &amp;declinatio=6!]</div>
+                <p>Задумались, как отметить день рождения?<br/> Закажите проведениe квестории на праздник!</p> <br/>
+
+                <p>
+                    Игра может проходить дома или в кафе. Каждый участник
+                    получит роль в истории, собственные цели и секреты.
+                </p>
+                <br/>
+
+                <p>
+                    Развязка истории целиком зависит от действий игроков.
+                    Оставьте заявку на квесторию прямо сейчас!
+                </p>
+
+                <div class="button"><a href="#" class="order big-button"><span>Оставить заявку</span></a></div>
+            </div>
+
+        </div>
+        <div class="clear">&nbsp;</div>
+    </div>
+</div>
+
+<div class="section numbers">
+    <div class="wrap">
+        <div class="title">Квестория в цифрах</div>
+        <div class="items">
+            <div class="item">
+                <div class="image"><img src="/themes/questoria/images/number-01.jpg" alt=""/></div>
+                <div class="text">4 года работы</div>
+            </div>
+            <div class="item">
+                <div class="image"><img src="/themes/questoria/images/number-02.jpg" alt=""/></div>
+                <div class="text">52 города</div>
+            </div>
+            <div class="item">
+                <div class="image"><img src="/themes/questoria/images/number-03.jpg" alt=""/></div>
+                <div class="text">5000 игроков в месяц</div>
+            </div>
+            <div class="item">
+                <div class="image"><img src="/themes/questoria/images/number-04.jpg" alt=""/></div>
+                <div class="text">10 сюжетов</div>
+            </div>
+            <div class="clear">&nbsp;</div>
+        </div>
+    </div>
+    <div class="wave-biege"></div>
+</div>
+
+<div class="section checks">
+    <div class="wrap">
+        <div class="title">Квестория идеально подойдёт вам, если…</div>
+        <ul class="check-list">
+            <li>вы предпочитаете неординарный досуг</li>
+            <li>вы любите умные и весёлые игры</li>
+            <li>вам нужна готовая идея праздника</li>
+        </ul>
+        <ul class="check-list">
+            <li>вы любите открывать новое в своих друзьях</li>
+            <li>вы хотите непринуждённо перезнакомить гостей</li>
+            <li>вам нужны впечатления и обсуждения на весь вечер</li>
+        </ul>
+        <div class="clear">&nbsp;</div>
+        <div class="link">Совпали все пункты? <a href="#" class="ajax dialog-control" data-target="#dialog_guarantee">Тогда
+                мы гарантируем удовольствие от игры</a></div>
+    </div>
+</div>
+
+<div class="section how-play">
+    <div class="wrap">
+        <div class="title">Как сыграть в квесторию?</div>
+        <img src="/themes/questoria/images/how-play.jpg" alt=""/>
+    </div>
+    <div class="wave-white"></div>
+</div>
+
+<div class="section feedbacks">
+    <div class="wrap">
+        <div id="feed_slider" class="slider">
+            <div class="slides">
+                <div class="scroll">
+                    <div class="items">
+                        [[FeedbackListLanding]]
+                    </div>
+                </div>
+            </div>
+            <div class="controls">
+                <a href="#" class="prev"></a>
+                <a href="#" class="next"></a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="section scenarios">
+    <div class="wrap">
+        <div class="title">Выберите сценарий квестории</div>
+        [!Scenarios? &show_all_links=0 &button_link=#order &button_text=Заказать &show_not_available_scenarios=0
+        &show_as_gallery=1 &landing_page = true!]
+    </div>
+</div>
+
+<div class="section section_payment how-match">
+    <div class="wrap">
+        <div class="title">Сколько стоит квестория на день рождения?</div>
+        <p class="subtitle">
+            Организация игры на день рождения в Москве стоит
+            <span class="price icon-price-note">[!GetFranchiseeInfo? &name=corporative_price!]</span> <span class="currency">[!GetFranchiseeInfo? &name=currency!]</span> В эту сумму входит:
+        </p>
+        <ul class="check-list">
+            <li>Услуги профессионального ведущего</li>
+            <li>Красочный реквизит, воссоздающий атмосферу сюжета</li>
+            <li>Проведение квестории на 12 человек включительно </li>
+        </ul>
+        <ul class="check-list">
+            <li>Качественные печатные раздаточные материалы</li>
+            <li>Выезд ведущего на место в пределах города</li>
+            <li class="brown_arr">
+                Вас больше или живёте за городом?
+                <a href="#" class="ajax dialog-control" data-target="#dialog_special_offer_birthday">
+                    Ознакомьтесь с условиями!
+                </a>
+            </li>
+        </ul>
+        <div class="clear">&nbsp;</div>
+    </div>
+</div>
+
+<div class="section order-form">
+    <div class="wrap">
+        <div class="title">Оставьте заявку</div>
+        <div class="message"></div>
+        <form action="#" method="post" id="order">
+            <input type="hidden" name="type_id" value="3">
+            <table class="form" border="0">
+                <tr>
+                    <td class="label">Имя, фамилия<span>*</span></td>
+                    <td class="field"><input name="name" type="text"/>
+</td>
+                </tr>
+                <tr>
+                    <td class="label">E-mail<span>*</span></td>
+                    <td class="field"><input name="email" type="text"/></td>
+                </tr>
+                <tr>
+                    <td class="label">Телефон<span>*</span></td>
+                    <td class="field"><input name="phone" type="text"/></td>
+                </tr>
+                <tr class="date">
+                    <td class="label">Примерная дата</td>
+                    <td class="field"><input name="date" type="text" class="datepicker" readonly="readonly"/></td>
+                </tr>
+                <tr>
+                    <td class="label">Доп. информация</td>
+                    <td style="padding-bottom: 12px" class="field"><textarea name="comment"></textarea></td>
+                </tr>
+                <!--<tr>-->
+                <!--<td></td>-->
+                <!--<td style="padding-bottom: 10px" class="price">[!LandingOrder? closedPrice=true!]</td>-->
+                <!--</tr>-->
+                <!--<tr>-->
+                <!--<td></td>-->
+                <!--<td style="font: 18px arial; text-align: center" align="center">-->
+                <!--(Цена указана за 12 игроков включительно. <br/>За каждого человека свыше +-->
+                <!--[!AdditionalPlayerPrice!])-->
+                <!--</td>-->
+                <!--</tr>-->
+                <tr style="display: none">
+                    <td></td>
+                    <td style="font: bold 18px arial" id="error"></td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td class="buttons landing-buttons">
+                        <button data-placement="right"  type="submit" class="popover-landing big-button green-button">
+                            <span>Оставить заявку</span>
+                        </button>
+                    </td>
+                </tr>
+            </table>
+        </form>
+    </div>
+</div>
+<script type="text/javascript"
+        src="/themes/questoria/js/landing.js?[[updateCssJsCache? filename=themes/questoria/js/landing.js]]"></script>

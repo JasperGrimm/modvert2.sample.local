@@ -1,0 +1,29 @@
+<?php
+/**
+return [
+'id' => '74',
+'name' => 'ScenariosText',
+'description' => '',
+'editor_type' => '0',
+'category' => '0',
+'cache_type' => '0',
+'locked' => '0',
+'properties' => '',
+'moduleguid' => ' ',
+];
+*/
+//$city_name_loc -- дательный падеж города
+if( $count == 1 )
+{
+	echo '';
+}
+else if( $count< $countAll )
+{
+	echo '';
+}
+else if( $count == $countAll )
+{
+	echo '';
+}
+
+?>

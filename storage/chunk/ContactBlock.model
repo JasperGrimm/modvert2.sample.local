@@ -1,0 +1,25 @@
+<?php
+/**
+return [
+'id' => '6',
+'name' => 'ContactBlock',
+'description' => '',
+'editor_type' => '0',
+'category' => '11',
+'cache_type' => '0',
+'locked' => '0',
+];
+*/
+?>
+<div class="dark round block-2 tac contact_block">
+ <h4>Головной офис компании</h4>
+  <br />
+	<span>
+        <img src="/themes/questoria/images/ico_email.gif" alt="" style="margin-right:5px" />
+	<a href="mailto:info@questoria.ru">info@questoria.ru</a>, <a href="http://vk.com/akorsun" target="_blank" rel="nofollow">vk.com/akorsun</a>
+        </span>
+	<span style="margin-left:130px"><img src="/themes/questoria/images/ico_phone.gif" alt="" style="margin-right:5px" />
+	+7 921 750 94 98 (Евгения)
+        </span>
+	<div class="clear">&nbsp;</div>
+</div>

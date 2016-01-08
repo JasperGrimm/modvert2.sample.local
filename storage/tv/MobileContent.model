@@ -1,0 +1,16 @@
+<?php
+return [
+'id' => '17',
+'type' => 'dropdown',
+'name' => 'MobileContent',
+'caption' => 'Мобильная версия контента',
+'description' => '',
+'editor_type' => '0',
+'category' => '0',
+'locked' => '0',
+'elements' => '@SELECT pagetitle, id FROM modx_site_content WHERE type=\'document\' AND published=\'1\' UNION ALL SELECT \'---\', \'0\' ORDER BY id',
+'rank' => '0',
+'display' => '',
+'display_params' => '',
+'default_text' => '0',
+];

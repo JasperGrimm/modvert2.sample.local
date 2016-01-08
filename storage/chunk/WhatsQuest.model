@@ -1,0 +1,15 @@
+<?php
+/**
+return [
+'id' => '12',
+'name' => 'WhatsQuest',
+'description' => 'Здесь только заголовок. См. WhatsQuestDesc',
+'editor_type' => '0',
+'category' => '13',
+'cache_type' => '0',
+'locked' => '0',
+];
+*/
+?>
+<h2>Что такое квестории?</h2>
+{{WhatsQuestDesc}}
