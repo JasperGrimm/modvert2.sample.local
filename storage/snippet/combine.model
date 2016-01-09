@@ -12,9 +12,4 @@ return [
 'moduleguid' => '',
 ];
 */
-
-
-
-
-
 require 'Application/Snippets/Combine.php';

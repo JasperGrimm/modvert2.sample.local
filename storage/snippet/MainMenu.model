@@ -13,9 +13,4 @@ return [
 ];
 */
 
-
-
-
-
-
 include_once 'Application/Snippets/Dumped/MainMenu.php';

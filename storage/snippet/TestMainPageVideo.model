@@ -12,11 +12,6 @@ return [
 'moduleguid' => '',
 ];
 */
-
-
-
-
-
 $qst = Wave_Registry::get('Questoria');
 $video = $qst->get('DI')->get('request')->get('video', 0);
 if( !$video )

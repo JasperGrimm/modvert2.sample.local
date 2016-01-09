@@ -12,11 +12,6 @@ return [
 'moduleguid' => ' ',
 ];
 */
-
-
-
-
-
 $qst = Wave_Registry::get('Questoria');
 $field_width = isset( $width ) ? $width : '200px';
 include 'Application/View/SubscribeWidget.php';

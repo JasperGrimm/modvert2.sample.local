@@ -13,9 +13,4 @@ return [
 ];
 */
 
-
-
-
-
-
 echo '<span data-name="MQ_COST_WITH_DISCOUNT"></span>';

@@ -13,9 +13,4 @@ return [
 ];
 */
 
-
-
-
-
-
 include 'Application/Controller/PriceList.php';

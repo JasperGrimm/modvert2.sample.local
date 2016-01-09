@@ -12,11 +12,6 @@ return [
 'moduleguid' => ' ',
 ];
 */
-
-
-
-
-
 /*
 **	Environment variables
 */
@@ -48,12 +43,12 @@ if( in_array( $id, $tid ) )
 	$index = $tid[ $id ] + 1;
 }
 
-
+?>
 <script type="text/javascript">
 //<![CDATA[
 
 	var yc_count = 50;
-	var yc_target = '<?= $target[ $index ]; ';
+	var yc_target = '<?= $target[ $index ]; ?>';
 
 	function SendYandexTarget()
 	{

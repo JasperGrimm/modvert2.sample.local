@@ -13,9 +13,4 @@ return [
 ];
 */
 
-
-
-
-
-
 include 'Application/Snippets/Dumped/ifFranchaizi_mobile.php';

@@ -12,11 +12,6 @@ return [
 'moduleguid' => '',
 ];
 */
-
-
-
-
-
 /*
  * @name FirstChildRedirect
  * @author Jason Coward <jason@opengeek.com>

@@ -12,9 +12,4 @@ return [
 'moduleguid' => '',
 ];
 */
-
-
-
-
-
 echo '<span data-name="CURRENCY"></span>';

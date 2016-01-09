@@ -12,16 +12,11 @@ return [
 'moduleguid' => ' ',
 ];
 */
-
-
-
-
-
 if($_SERVER['HTTP_HOST'] == 'moscow.questoria.ru' && 
 ($_SERVER['REDIRECT_URL'] == '/квест-на-праздник/заказать-игру-на-день-рождения'
  || $_SERVER['REDIRECT_URL'] == '/организация-игр-на-праздник/игра-на-день-рождения'))
 {
-
+?>
 <script> 
 _udn = "questoria.ru"; 
 </script>

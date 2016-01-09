@@ -12,9 +12,4 @@ return [
 'moduleguid' => ' ',
 ];
 */
-
-
-
-
-
 echo "<nobr><a href=\"$_SERVER[REDIRECT_URL]#order\">Цены и контакты</a></nobr>";

@@ -12,9 +12,4 @@ return [
 'moduleguid' => '',
 ];
 */
-
-
-
-
-
 echo '<span data-name="BMQ_DUPLICATE_COST"></span>';

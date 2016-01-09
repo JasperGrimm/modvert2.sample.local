@@ -12,9 +12,4 @@ return [
 'moduleguid' => ' ',
 ];
 */
-
-
-
-
-
 include 'Application/Snippets/Dumped/CreateCityLinks.php';

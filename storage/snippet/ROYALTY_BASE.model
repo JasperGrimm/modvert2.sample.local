@@ -12,10 +12,5 @@ return [
 'moduleguid' => '',
 ];
 */
-
-
-
-
-
 	    
 echo '<span data-name="ROYALTY_BASE"></span>';

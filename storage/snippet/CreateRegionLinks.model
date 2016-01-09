@@ -12,9 +12,4 @@ return [
 'moduleguid' => '',
 ];
 */
-
-
-
-
-
 include_once 'Application/Snippets/CreateRegionLinks.php';
