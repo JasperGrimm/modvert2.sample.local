@@ -15,5 +15,7 @@ return [
 
 
 
+
+
 	    
 echo '<span data-name="SQ_COST_WITH_DISCOUNT"></span>';

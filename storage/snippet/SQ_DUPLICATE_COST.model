@@ -15,5 +15,7 @@ return [
 
 
 
+
+
 	    
 echo '<span data-name="SQ_DUPLICATE_COST"></span>';

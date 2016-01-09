@@ -16,6 +16,8 @@ return [
 
 
 
+
+
 $lang = 'ru';
 $requestUri = null;
 if (isset($_SERVER['REQUEST_URI']))

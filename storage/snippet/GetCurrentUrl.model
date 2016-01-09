@@ -15,4 +15,6 @@ return [
 
 
 
+
+
 return str_replace( 'домой', '', $modx->makeUrl($modx->documentIdentifier, '', '', 'full') );

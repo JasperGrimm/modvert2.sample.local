@@ -16,6 +16,8 @@ return [
 
 
 
+
+
 //$qst = Wave_Registry::get('Questoria');
 $video = 1;//$qst->get('DI')->get('request')->get('video', 0);
 if( !$video ){}

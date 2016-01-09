@@ -16,4 +16,6 @@ return [
 
 
 
+
+
 echo '<span data-name="SQ_TOTAL_COST"></span>';
