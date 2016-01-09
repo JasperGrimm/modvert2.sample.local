@@ -12,6 +12,7 @@ return [
 'moduleguid' => ' ',
 ];
 */
+
 $name = isset( $name ) ? $name : '';
 preg_match('/price$/', $name, $m);
 $qst = Wave_Registry::get('Questoria');

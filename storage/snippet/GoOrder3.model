@@ -12,4 +12,5 @@ return [
 'moduleguid' => ' ',
 ];
 */
+
 echo "<nobr class='blue_button2'><a href=\"$_SERVER[REDIRECT_URL]#order\"><span>Цены и контакты</span></a></nobr>";
