@@ -1,0 +1,165 @@
+<?php
+/**
+return [
+'id' => '44',
+'type' => 'document',
+'contentType' => 'text/html',
+'pagetitle' => 'Пресса о живых квестах',
+'longtitle' => 'Статьи об игре',
+'description' => '',
+'alias' => 'статьи-об-игре',
+'link_attributes' => '',
+'published' => '0',
+'parent' => '18',
+'isfolder' => '0',
+'template' => '8',
+'menuindex' => '6',
+'searchable' => '1',
+'cacheable' => '1',
+'deleted' => '1',
+'menutitle' => '',
+'donthit' => '0',
+'haskeywords' => '0',
+'hasmetatags' => '0',
+'privateweb' => '0',
+'privatemgr' => '0',
+'content_dispo' => '0',
+'hidemenu' => '0',
+];
+*/
+?>
+<h1 class="justifyfull">Живые квесты в СМИ</h1>
+<h2 class="justifyfull">Статьи о "Квестории" в газетах</h2>
+<p class="justifyfull"><a rel="nofollow" href="http://kp.ru/daily/24543.4/721501/" target="_blank">Комсомольская правда: В Москве опять - май 45-го</a></p>
+<p class="justifyfull"><a rel="nofollow" href="http://questoria.ru/materials/kvest.pdf" target="_blank">Журнал "СТО" No.2(29): Она написала убийство... или Как разбудить в себе Мисс Марпл? (pdf, 640Kb)</a></p>
+<p class="justifyfull"><a rel="nofollow" href="http://www.dp.ru/a/2010/06/03/Ubijstvo_po_scenariju" target="_blank">Деловой Петербург: Убийство по сценарию</a></p>
+<p class="justifyfull"><a rel="nofollow" href="http://www.fontanka.ru/2010/07/21/052/" target="_blank">Фонтанка.Ру: Ролевые игры для взрослых</a></p>
+<p class="justifyfull"><a rel="nofollow" href="http://www.segodnya.ua/news/14212406.html" target="_blank">Газета "Сегодня": В Киеве появился новый квест</a></p>
+<p class="justifyfull"><a href="http://www.segodnya.ua/news/14243926.html rel=" target="_blank">Газета "Сегодня": Днепропетровская молодежь с головой ушла в живые квесты</a></p>
+<p class="justifyfull"><a rel="nofollow" href="http://www.ampravda.ru/2011/07/27/031110.html" target="_blank">Амурская Правда: Пиратские страсти за чашкой кофе</a></p>
+<hr />
+<p class="justifyfull"> </p>
+<h2 class="justifyfull">Телевидение и радио</h2>
+<p class="justifyfull"> </p>
+<div class="fl justifyfull" style="width: 340px;">
+<div class="video">
+		
+			
+<object width="340" height="240" data="http://www.youtube.com/v/5NQnHvhUTVE?version=3&amp;hl=ru_RU" type="application/x-shockwave-flash">
+<param name="data" value="http://www.youtube.com/v/5NQnHvhUTVE?version=3&amp;hl=ru_RU" />
+<param name="allowFullScreen" value="true" />
+<param name="allowscriptaccess" value="always" />
+<param name="src" value="http://www.youtube.com/v/5NQnHvhUTVE?version=3&amp;hl=ru_RU" />
+<param name="allowfullscreen" value="true" />
+</object>
+</div>
+<p class="tac f2">Репортаж Первого канала о живых квестах</p>
+</div>
+<div class="fr justifyfull" style="width: 340px;">
+<div class="video">
+		
+			
+<object width="340" height="240" data="http://www.youtube.com/v/l35Ni1PfnTY?version=3" type="application/x-shockwave-flash">
+<param name="data" value="http://www.youtube.com/v/l35Ni1PfnTY?version=3" />
+<param name="src" value="http://www.youtube.com/v/l35Ni1PfnTY?version=3" />
+<param name="allowfullscreen" value="true" />
+</object>
+</div>
+<p class="tac f2">Репортаж Infox.ru об игре «Где-то на Диком Западе»</p>
+</div>
+<div class="clear justifyfull"> </div>
+<p class="justifyfull">
+<br /><br /><br /></p>
+<div class="fl justifyfull" style="width: 340px;">
+<div class="video">
+		
+			
+<object width="340" height="240" data="http://www.youtube.com/v/1k3kTWRs1js?fs=1&amp;hl=ru_RU" type="application/x-shockwave-flash">
+<param name="data" value="http://www.youtube.com/v/1k3kTWRs1js?fs=1&amp;hl=ru_RU" />
+<param name="allowFullScreen" value="true" />
+<param name="allowscriptaccess" value="always" />
+<param name="src" value="http://www.youtube.com/v/1k3kTWRs1js?fs=1&amp;hl=ru_RU" />
+<param name="allowfullscreen" value="true" />
+</object>
+</div>
+<p class="tac f2">Сюжет о «Квестории» НТВ+</p>
+</div>
+<div class="fr justifyfull" style="width: 340px;">
+<div class="video">
+		
+			
+<object width="340" height="240" data="http://www.youtube.com/v/35cEKTKBeKg?version=3" type="application/x-shockwave-flash">
+<param name="data" value="http://www.youtube.com/v/35cEKTKBeKg?version=3" />
+<param name="allowFullScreen" value="true" />
+<param name="allowScriptAccess" value="always" />
+<param name="src" value="http://www.youtube.com/v/35cEKTKBeKg?version=3" />
+<param name="allowfullscreen" value="true" />
+</object>
+</div>
+<p class="tac f2">«Вести», Новосибирск</p>
+</div>
+<div class="clear justifyfull"> </div>
+<p class="justifyfull">
+<br /><br /><br /></p>
+<div class="fl justifyfull" style="width: 340px;">
+<div class="video">
+		
+			
+<object width="340" height="240" data="http://www.youtube.com/v/nQp7swTMUJE?fs=1&amp;hl=ru_RU" type="application/x-shockwave-flash">
+<param name="data" value="http://www.youtube.com/v/nQp7swTMUJE?fs=1&amp;hl=ru_RU" />
+<param name="allowFullScreen" value="true" />
+<param name="allowscriptaccess" value="always" />
+<param name="src" value="http://www.youtube.com/v/nQp7swTMUJE?fs=1&amp;hl=ru_RU" />
+<param name="allowfullscreen" value="true" />
+</object>
+</div>
+<p class="tac f2">Живые квесты на кабельном телеканале «Дом»</p>
+</div>
+<div class="fr justifyfull" style="width: 340px;">
+<div class="video">
+		
+			
+<object width="340" height="240" data="http://www.youtube.com/v/a_4gNZ_IG0g?fs=1&amp;hl=ru_RU&amp;rel=0" type="application/x-shockwave-flash">
+<param name="data" value="http://www.youtube.com/v/a_4gNZ_IG0g?fs=1&amp;hl=ru_RU&amp;rel=0" />
+<param name="allowFullScreen" value="true" />
+<param name="allowscriptaccess" value="always" />
+<param name="src" value="http://www.youtube.com/v/a_4gNZ_IG0g?fs=1&amp;hl=ru_RU&amp;rel=0" />
+<param name="allowfullscreen" value="true" />
+</object>
+</div>
+<p class="tac f2">«Новости» Хабаровск. Живой квест «Завещание Флинта»</p>
+</div>
+<div class="clear justifyfull"> </div>
+<p class="justifyfull">
+<br /><br /><br /></p>
+<div class="fl justifyfull" style="width: 340px;">
+<div class="video">
+		
+			
+<object width="340" height="240" data="http://www.youtube.com/v/Wm7QLC1dxYE?fs=1&amp;hl=ru_RU" type="application/x-shockwave-flash">
+<param name="data" value="http://www.youtube.com/v/Wm7QLC1dxYE?fs=1&amp;hl=ru_RU" />
+<param name="allowFullScreen" value="true" />
+<param name="allowscriptaccess" value="always" />
+<param name="src" value="http://www.youtube.com/v/Wm7QLC1dxYE?fs=1&amp;hl=ru_RU" />
+<param name="allowfullscreen" value="true" />
+</object>
+</div>
+<p class="tac f2">Сюжет о «Квестории» для телеканала «РБК-Петербург»</p>
+<p class="tac f2"> </p>
+</div>
+<div class="clear justifyfull"> </div>
+<hr />
+<p class="justifyfull"> </p>
+<h3 class="justifyfull">Живые квесты на «Радио 13» - интервью</h3>
+<p class="justifyfull">
+<br />
+<object id="divplaylist" width="335" height="28" data="http://www.divshare.com/flash/playlist?myId=11188562-552" type="application/x-shockwave-flash">
+<param name="data" value="http://www.divshare.com/flash/playlist?myId=11188562-552" />
+<param name="src" value="http://www.divshare.com/flash/playlist?myId=11188562-552" />
+<param name="name" value="divplaylist" />
+</object>
+</p>
+<p class="justifyfull"> </p>
+<p class="justifyfull">
+<br />
+Если вы хотите написать статью или снять сюжет о квестах, пожалуйста, <a href="контакты">свяжитесь</a> с нами.</p>

@@ -1,0 +1,94 @@
+<?php
+/**
+return [
+'id' => '53',
+'type' => 'document',
+'contentType' => 'text/html',
+'pagetitle' => 'Сыграть',
+'longtitle' => 'Выберите вариант игры',
+'description' => '',
+'alias' => 'сыграть-в-живой-квест',
+'link_attributes' => '',
+'published' => '1',
+'parent' => '0',
+'isfolder' => '0',
+'template' => '5',
+'menuindex' => '17',
+'searchable' => '1',
+'cacheable' => '1',
+'deleted' => '0',
+'menutitle' => '',
+'donthit' => '0',
+'haskeywords' => '0',
+'hasmetatags' => '0',
+'privateweb' => '0',
+'privatemgr' => '0',
+'content_dispo' => '0',
+'hidemenu' => '0',
+];
+*/
+?>
+<div class="wrap content">
+<h1>Выберите квесторию</h1>
+<div class="big-font">
+<p>Хотите посетить игру в кафе? Пригласить квесты к себе на день рождения? Заказать корпоратив? Отметить Хэллоуин?</p>
+</div>
+<div class="columns-4">
+<div class="column column-1">
+					{{CardOpenGame}}
+		</div>
+<div class="column column-2">
+{{CardDR}}
+		</div>
+<div class="column column-3">
+{{CardCorporative}}
+		</div>
+<div class="column column-4">
+
+{{CardChild}}
+		</div>
+<!--div class="clear">&nbsp;</div-->
+	</div>
+<p> </p>
+<div class="dark round block-2">
+<div class="citate">
+			<img class="fl" src="/themes/questoria/images/ico_cite-white.gif" alt="" />
+<p>Взрыв мозга и вынос его по кусочкам! Сказать, что было азартно и адски весело – значит не сказать ничего!</p>
+<div class="author">Константин Ермолаев</div>
+</div>
+</div>
+<p> </p>
+<div class="columns-4">
+<div class="column column-1">
+{{CardFriend}}
+		</div>
+<div class="column column-2">
+{{CardHalloween}}
+		</div>
+<div class="column column-3">
+{{CardWomen}}
+		</div>
+<div class="column column-4">
+{{CardSertPlay}}
+		</div>
+<!--div class="clear">&nbsp;</div-->
+	</div>
+<p> </p>
+<h2>Другие варианты игры:</h2>
+<div class="dark round frame block-2">
+<table class="games-thumbs-4 big-font" border="0">
+<tbody>
+<tr>
+<td class="column column-1-1"><img src="/themes/questoria/images/content/ico_01.jpg" alt="" /></td>
+<td class="column column-1-2"><a href="[~57~]">На Новый год</a></td>
+<td class="column column-2-1"><img src="/themes/questoria/images/content/ico_02.jpg" alt="" /></td>
+<td class="column column-2-2"><a href="[~58~]">На 23 февраля</a></td>
+<td class="column column-3-1"><img src="/themes/questoria/images/content/ico_03.jpg" alt="" /></td>
+<td class="column column-3-2"><a href="[~102~]">На выпускной</a></td>
+<td class="column column-4-1"><img src="/themes/questoria/images/content/ico_04.jpg" alt="" /></td>
+<td class="column column-4-2"><a href="[~60~]">На свадьбу</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
