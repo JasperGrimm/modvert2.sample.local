@@ -13,7 +13,8 @@ return [
 ];
 */
 
-  $city = \Application\Services\Facades\App::get('franchise')->getCityNameLoc();
+$city = \Application\Services\Facades\App::get('franchise')->getCityNameLoc();
+?>
 
 <h2><?= $title; </h2>
 <p><b>Живые квесты в <?= $city;  временно не проводятся.</b></p>
