@@ -1,16 +1,14 @@
 <?php
 /**
 return [
-'id' => '162',
-'name' => 'START',
+'id' => '219',
+'name' => 'TEST_REMOTE',
 'description' => '',
 'editor_type' => '0',
 'category' => '0',
 'cache_type' => '0',
 'locked' => '0',
-'properties' => '',
-'moduleguid' => '',
 ];
 */
-
-echo '<span data-name="START"></span>';
+?>
+sds
