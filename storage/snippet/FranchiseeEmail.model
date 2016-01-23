@@ -1,0 +1,22 @@
+<?php
+/**
+return [
+'id' => '42',
+'name' => 'FranchiseeEmail',
+'description' => 'выдает контактный e-mail текущего выбранного франчайзи',
+'editor_type' => '0',
+'category' => '0',
+'cache_type' => '0',
+'locked' => '0',
+'properties' => '',
+'moduleguid' => ' ',
+];
+*/
+
+$franchise = \Application\Services\Facades\App::get('franchise');
+if ($franchise) {
+    $email = $franchise->getEmail();
+} else {
+	$email = '';
+}
+echo '<a href=mailto:' . $email . '>' . $email . '</a>';

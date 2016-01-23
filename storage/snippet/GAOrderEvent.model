@@ -1,0 +1,16 @@
+<?php
+/**
+return [
+'id' => '157',
+'name' => 'GAOrderEvent',
+'description' => 'Цель "Сделал заказ"',
+'editor_type' => '0',
+'category' => '0',
+'cache_type' => '0',
+'locked' => '0',
+'properties' => '',
+'moduleguid' => '',
+];
+*/
+
+include 'Application/Snippets/GAOrderEvent.php';

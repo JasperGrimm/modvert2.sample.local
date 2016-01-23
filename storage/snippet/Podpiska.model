@@ -1,0 +1,16 @@
+<?php
+/**
+return [
+'id' => '49',
+'name' => 'Подписка',
+'description' => '',
+'editor_type' => '0',
+'category' => '15',
+'cache_type' => '0',
+'locked' => '0',
+'properties' => '',
+'moduleguid' => ' ',
+];
+*/
+
+_gaq.push(['_trackEvent', 'Orders', 'Subscribtion', 'Subscribtion'])

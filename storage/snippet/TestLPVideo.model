@@ -1,0 +1,50 @@
+<?php
+/**
+return [
+'id' => '133',
+'name' => 'TestLPVideo',
+'description' => 'сниппет для тестирования видео на LP',
+'editor_type' => '0',
+'category' => '0',
+'cache_type' => '0',
+'locked' => '0',
+'properties' => '',
+'moduleguid' => ' ',
+];
+*/
+
+//$qst = Wave_Registry::get('Questoria');
+$video = 1;//$qst->get('DI')->get('request')->get('video', 0);
+if( !$video ){}
+else
+{
+   if (1 == $video) {
+
+<div class="wave-white-biege"></div>
+<div class="section what-is-quests">
+    <div class="wrap">
+        <div class="title">Что такое квестории?</div>
+        <div class="video">
+<iframe src="//player.vimeo.com/video/105101404" width="853" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+        </div>
+<p class="tac f2">Никогда не поступайте как Гомер :)</p>
+    </div>
+</div>
+<div class="wave-biege-brown"></div>
+<?php
+   } else {
+
+<div class="wave-white-biege"></div>
+<div class="section what-is-quests">
+    <div class="wrap">
+        <div class="title">Что такое живые квесты?</div>
+        <div class="video">
+<iframe src="//player.vimeo.com/video/105096797" width="853" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+        </div>
+    </div>
+</div>
+<div class="wave-biege-brown"></div>
+<?php
+   }
+}

@@ -1,0 +1,19 @@
+<?php
+/**
+return [
+'id' => '63',
+'name' => 'GoOrder2',
+'description' => '',
+'editor_type' => '0',
+'category' => '0',
+'cache_type' => '0',
+'locked' => '0',
+'properties' => '',
+'moduleguid' => ' ',
+];
+*/
+
+<p id="button_analit" class="fr red_button_new"><a href="#plans" class="red-button"><span>Цены и контакты</span></a></p>
+<?php
+
+<?php

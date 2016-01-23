@@ -1,0 +1,21 @@
+<?php
+/**
+return [
+'id' => '81',
+'name' => 'GetCurrentHostLabel',
+'description' => '',
+'editor_type' => '0',
+'category' => '9',
+'cache_type' => '0',
+'locked' => '0',
+'properties' => '',
+'moduleguid' => ' ',
+];
+*/
+
+$qst = Wave_Registry::get('Questoria');
+$geo_franchise = $qst->geo;
+if (is_object($geo_franchise))
+{
+  echo $geo_franchise->getHost();
+}

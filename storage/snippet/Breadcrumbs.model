@@ -1,0 +1,16 @@
+<?php
+/**
+return [
+'id' => '12',
+'name' => 'Breadcrumbs',
+'description' => '<strong>1.0.3</strong> Configurable breadcrumb page-trail navigation',
+'editor_type' => '0',
+'category' => '5',
+'cache_type' => '0',
+'locked' => '0',
+'properties' => '',
+'moduleguid' => ' ',
+];
+*/
+
+include 'Application/Snippets/Dumped/Breadcrumbs.php';

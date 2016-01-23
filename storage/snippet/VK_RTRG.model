@@ -1,0 +1,21 @@
+<?php
+/**
+return [
+'id' => '151',
+'name' => 'VK_RTRG',
+'description' => 'VK ретаргетинг код (только для МОСКВЫ!)',
+'editor_type' => '0',
+'category' => '0',
+'cache_type' => '0',
+'locked' => '0',
+'properties' => '',
+'moduleguid' => '',
+];
+*/
+
+/* @var $qst Questoria */
+$qst = Wave_Registry::get('Questoria');
+$city = $qst->get('city');
+if ($city && $city->getRetargetingCode()){
+    echo $city->getRetargetingCode();
+}

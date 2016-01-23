@@ -1,0 +1,16 @@
+<?php
+/**
+return [
+'id' => '84',
+'name' => 'GetCurrentUrl',
+'description' => '',
+'editor_type' => '0',
+'category' => '9',
+'cache_type' => '0',
+'locked' => '0',
+'properties' => '',
+'moduleguid' => ' ',
+];
+*/
+
+return str_replace( 'домой', '', $modx->makeUrl($modx->documentIdentifier, '', '', 'full') );

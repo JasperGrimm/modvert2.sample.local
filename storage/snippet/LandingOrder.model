@@ -1,0 +1,33 @@
+<?php
+/**
+return [
+'id' => '78',
+'name' => 'LandingOrder',
+'description' => '',
+'editor_type' => '0',
+'category' => '0',
+'cache_type' => '0',
+'locked' => '0',
+'properties' => '',
+'moduleguid' => ' ',
+];
+*/
+
+/****
+Принимает данные формы заказа игры закрытой страницы
+@params $closed_price  - (true, false) - возвращает цену закрытой игры
+***/
+if(isset($_SERVER['HTTP_X_REQUESTED_WITH']) 
+&& !empty($_SERVER['HTTP_X_REQUESTED_WITH']) 
+&& strtolower($_SERVER['HTTP_X_REQUESTED_WITH']) == 'xmlhttprequest')
+{
+$type_id =16;
+include 'Application/Controller/OrderQuestAjax.php';
+exit();
+}
+else if($closedPrice)
+{
+$qst = Wave_Registry::get('Questoria');
+$info = $qst->user->getActiveFranchisee($qst->geo->getCityId());
+echo $info->private_price .' '. $info->currency;
+}

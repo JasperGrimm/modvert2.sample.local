@@ -1,0 +1,31 @@
+<?php
+return [
+'id' => '13',
+'type' => 'dropdown',
+'name' => 'GameType',
+'caption' => 'Для какого праздника показывать сценарии?',
+'description' => '',
+'editor_type' => '0',
+'category' => '10',
+'locked' => '0',
+'elements' => '@select name, alias from qst_game',
+'rank' => '4',
+'display' => '',
+'display_params' => '',
+'default_text' => 'hb',
+'templates' => [
+10, 18
+],
+'content_values' => [
+'202' => 'corporate',
+'241' => 'corporate',
+'21' => 'corporate',
+'243' => 'corporate',
+'244' => 'child_game',
+'22' => 'child_game',
+'249' => 'corporate',
+'253' => 'corporate',
+'254' => 'corporate',
+'261' => 'child_game',
+],
+];

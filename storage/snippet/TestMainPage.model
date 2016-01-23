@@ -1,0 +1,26 @@
+<?php
+/**
+return [
+'id' => '85',
+'name' => 'TestMainPage',
+'description' => '',
+'editor_type' => '0',
+'category' => '0',
+'cache_type' => '0',
+'locked' => '0',
+'properties' => '',
+'moduleguid' => ' ',
+];
+*/
+
+$qst = Wave_Registry::get('Questoria');
+$group = $qst->help->GetTestGroup('home_position');
+if( $group == 1 )
+{ 
+echo "{{MainPageTest1}}";
+ 
+}
+else
+{ 
+echo "{{MainPageTest2}}";
+}

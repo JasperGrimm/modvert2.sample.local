@@ -1,0 +1,16 @@
+<?php
+/**
+return [
+'id' => '129',
+'name' => 'GamePrice',
+'description' => 'Цена праздника  [[GamePrice? &plan=econom &game=hb &mode=additional_player &hide_currency=true ]]',
+'editor_type' => '0',
+'category' => '0',
+'cache_type' => '0',
+'locked' => '0',
+'properties' => '',
+'moduleguid' => '',
+];
+*/
+
+include 'Application/Snippets/GamePrice.php';

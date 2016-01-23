@@ -1,0 +1,17 @@
+<?php
+/**
+return [
+'id' => '109',
+'name' => 'SQ_DUPLICATE_COST',
+'description' => 'Стоимость дубликата (Стандартный квест)',
+'editor_type' => '0',
+'category' => '0',
+'cache_type' => '0',
+'locked' => '0',
+'properties' => '',
+'moduleguid' => '',
+];
+*/
+
+	    
+echo '<span data-name="SQ_DUPLICATE_COST"></span>';

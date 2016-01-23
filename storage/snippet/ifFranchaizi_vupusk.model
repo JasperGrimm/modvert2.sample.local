@@ -1,0 +1,16 @@
+<?php
+/**
+return [
+'id' => '59',
+'name' => 'ifFranchaizi_vupusk',
+'description' => '',
+'editor_type' => '0',
+'category' => '9',
+'cache_type' => '0',
+'locked' => '0',
+'properties' => '',
+'moduleguid' => ' ',
+];
+*/
+
+include 'Application/Snippets/Dumped/ifFranchaizi_vupusk.php';

@@ -1,0 +1,28 @@
+<?php
+/**
+return [
+'id' => '41',
+'name' => 'ContactBlockFranchisee',
+'description' => '',
+'editor_type' => '0',
+'category' => '11',
+'cache_type' => '0',
+'locked' => '0',
+];
+*/
+?>
+<div class="dark round block-2 tac contact_block">
+	<span style="display:inline-block;">
+        <img style="margin-right: 5px;" src="/themes/questoria/images/ico_email.gif" alt="" />
+	<a href=mailto:fran@questoria.ru>fran@questoria.ru</a>
+</span>
+<div style="margin-left: 60px; display:inline-block;">
+<img style="margin-right: 5px;" src="/themes/questoria/images/ico_vk.png" alt="" />
+<a rel="nofollow" href="http://vk.com/adariana" target="_blank">vk.com/adariana</a>
+        </div>
+	<div style="margin-left: 60px; display:inline-block;">
+<img style="margin-right: 5px;" src="/themes/questoria/images/ico_phone.gif" alt="" />
+	+7 921 750 94 98 (Евгения)
+        </div>
+<div class="clear"> </div>
+</div>

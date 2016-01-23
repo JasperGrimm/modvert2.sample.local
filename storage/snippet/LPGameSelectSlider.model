@@ -1,0 +1,16 @@
+<?php
+/**
+return [
+'id' => '137',
+'name' => 'LPGameSelectSlider',
+'description' => 'schedule slider',
+'editor_type' => '0',
+'category' => '0',
+'cache_type' => '0',
+'locked' => '0',
+'properties' => '',
+'moduleguid' => '',
+];
+*/
+
+include 'Application/Helper/LPGameSelectSlider.php';

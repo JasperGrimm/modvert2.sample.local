@@ -1,0 +1,25 @@
+<?php
+/**
+return [
+'id' => '19',
+'name' => 'GamesListForHome',
+'description' => '',
+'editor_type' => '0',
+'category' => '9',
+'cache_type' => '0',
+'locked' => '0',
+'properties' => '',
+'moduleguid' => ' ',
+];
+*/
+
+$qst = Wave_Registry::get('Questoria');
+$franchise = \Application\Services\Facades\App::get('franchise');
+if (is_object($franchise))
+{
+  $games = array_map(function($game){
+      return new \Application\ViewHolders\GameViewHolder($game);
+  }, $franchise->getSchedule()); 
+ 
+  include 'Application/View/Home/GamesList.php';
+}
