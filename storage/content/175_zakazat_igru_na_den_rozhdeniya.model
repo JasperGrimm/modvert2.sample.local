@@ -57,4 +57,5 @@ return [
 <a name="order">
 </a></p>
 <p>
-[!ifFranchaizi_birthday? &amp;declinatio=6 &amp;
+[!ifFranchaizi_birthday? &amp;declinatio=6 &amp;type=private &amp;type=private_additional_user &amp;OrderType=[*OrderType*] &amp;ThankPage=[*ThankPage*] !]</p>
+<p> </p>
