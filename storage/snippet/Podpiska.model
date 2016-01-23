@@ -12,5 +12,4 @@ return [
 'moduleguid' => ' ',
 ];
 */
-
 _gaq.push(['_trackEvent', 'Orders', 'Subscribtion', 'Subscribtion'])

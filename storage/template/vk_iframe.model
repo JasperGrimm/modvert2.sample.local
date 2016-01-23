@@ -18,8 +18,8 @@ return [
 <head>
 <script type="text/javascript" src="/themes/questoria/js/jquery-1.7.1.min.js?ewff"></script>
 <script src="/themes/questoria/libs/iframe-resizer/js/iframeResizer.contentWindow.min.js"></script>
-<script type="text/javascript" src="//vk.com/js/api/openapi.js?56" charset="UTF-8" ></script>
-<script type="text/javascript" src="//vk.com/js/api/share.js?11" charset="UTF-8"></script>
+<script type="text/javascript" src="http://vk.me/js/api/openapi.js?56" charset="UTF-8" ></script>
+<script type="text/javascript" src="http://vk.me/js/api/share.js?11" charset="UTF-8"></script>
 <script type="text/javascript">
         VK.init({apiId: 2697952, onlyWidgets: true});
 </script>

@@ -15,7 +15,7 @@ return [
 {{HEADER}}
 
 <div class="wrap content">
-
+        {{Breadcrumbs}}
 	<!--p class="fr big-font" style="line-height:35px"><a href="/[~76~]">Хотите открыть квесты в вашем городе?</a></p>
 	<h1>
 		<b>Расписание квесторий в [!CityName? &declinatio=6!]</b>
@@ -30,6 +30,8 @@ return [
 
 			[!GetSchedule!]
 
+                        [!Scenarios? &show_all_links=0 &button_link=#order &button_text=Оставить заявку &show_not_available_scenarios=0 &show_as_gallery=1 &isBid=1!]
+                        <p style="margin-bottom:30px;"></p>
 			[!Schedule_Discount!]
 
 <script type="text/javascript">
