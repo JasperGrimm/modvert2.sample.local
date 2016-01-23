@@ -22,23 +22,6 @@
       {
         "type": "package",
         "package": {
-          "name": "kzykhys/git",
-          "version": "3.0",
-          "source": {
-            "url": "https://github.com/Djakson/PHPGit.git",
-            "type": "git",
-            "reference": "origin/master"
-          },
-          "autoload": {
-            "psr-4": {
-              "PHPGit\\": "src/PHPGit"
-            }
-          }
-        }
-      },
-      {
-        "type": "package",
-        "package": {
           "name": "noodlehaus/config",
           "version": "1.0",
           "source": {
