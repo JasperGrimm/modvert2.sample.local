@@ -1,5 +1,0 @@
-<?php
-return [
-'id' => '12',
-'category' => 'Questoria Plugins',
-];
