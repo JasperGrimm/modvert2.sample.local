@@ -1,0 +1,32 @@
+<?php
+/**
+return [
+'id' => '1065',
+'type' => 'document',
+'contentType' => 'text/html',
+'pagetitle' => 'Отзывы',
+'longtitle' => 'Отзывы о живых квестах в [[CityName? &declinatio=1]]',
+'description' => '',
+'alias' => 'reviews',
+'link_attributes' => '',
+'published' => '1',
+'parent' => '264',
+'isfolder' => '0',
+'template' => '8',
+'menuindex' => '18',
+'searchable' => '1',
+'cacheable' => '1',
+'deleted' => '0',
+'menutitle' => '',
+'donthit' => '0',
+'haskeywords' => '0',
+'hasmetatags' => '0',
+'privateweb' => '0',
+'privatemgr' => '0',
+'content_dispo' => '0',
+'hidemenu' => '0',
+];
+*/
+?>
+<h1>Отзывы с квесторий</h1>
+<div id="add_vk_vote">[!VK_CommentForm!]</div>

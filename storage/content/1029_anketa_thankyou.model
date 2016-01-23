@@ -1,0 +1,35 @@
+<?php
+/**
+return [
+'id' => '1029',
+'type' => 'document',
+'contentType' => 'text/html',
+'pagetitle' => 'Спасибо за заполнение анкеты!',
+'longtitle' => '',
+'description' => '',
+'alias' => 'anketa-thankyou',
+'link_attributes' => '',
+'published' => '1',
+'parent' => '1025',
+'isfolder' => '0',
+'template' => '31',
+'menuindex' => '5',
+'searchable' => '1',
+'cacheable' => '1',
+'deleted' => '0',
+'menutitle' => '',
+'donthit' => '1',
+'haskeywords' => '0',
+'hasmetatags' => '0',
+'privateweb' => '0',
+'privatemgr' => '0',
+'content_dispo' => '0',
+'hidemenu' => '1',
+];
+*/
+?>
+<div class="wrap content">
+    <h1>Спасибо за заполнение анкеты!</h1>
+    <p>Информация сохранена.</p>
+    <p>Ожидайте поздравлений! :)</p>
+</div>

@@ -71,9 +71,6 @@ return [
 <p>Развязка истории целиком зависит от действий игроков.<br>
 Оставьте заявку на квесторию прямо сейчас!</p>
 
-
-
-
                 <div class="button"><a href="#" class="order big-button"><span>Оставить заявку</span></a></div>
             </div>
 
@@ -149,12 +146,6 @@ return [
     </div>
 </div>
 
-
-
-
-
-
-
 <div class="section order-form">
     <div class="wrap">
         <div class="title">Оставьте заявку</div>
@@ -212,6 +203,8 @@ return [
                         <button data-placement="right" type="submit" class="big-button green-button popover-landing ind_top_20" [[GAOrderEvent]]>
                             <span>Оставить заявку</span>
                         </button>
+<br /><br />
+<a href="#" class="ajax dialog-control confidential-politic" data-target="#dialog_confidential_politic">Политика конфиденциальности</a>
                     </td>
                 </tr>
             </table>

@@ -1,0 +1,95 @@
+<?php
+/**
+return [
+'id' => '1',
+'type' => 'document',
+'contentType' => 'text/html',
+'pagetitle' => 'Квестория: живые квесты в [[CityName? &declinatio=1]]',
+'longtitle' => 'Живые квесты в [[CityName? &declinatio=1]] — организация праздников, салонных игр, сюжетных детективных ролевых игр - Questoria',
+'description' => '',
+'alias' => 'домой',
+'link_attributes' => '',
+'published' => '1',
+'parent' => '0',
+'isfolder' => '0',
+'template' => '5',
+'menuindex' => '0',
+'searchable' => '1',
+'cacheable' => '1',
+'deleted' => '0',
+'menutitle' => '',
+'donthit' => '0',
+'haskeywords' => '0',
+'hasmetatags' => '0',
+'privateweb' => '0',
+'privatemgr' => '0',
+'content_dispo' => '0',
+'hidemenu' => '0',
+];
+*/
+?>
+<div id="home-page">
+<!-- Home Top -->
+<div class="wrap content" style="padding-bottom: 5px;">
+<div class="columns-2">{{MainPageTest4}}
+<div class="clear"> </div>
+<div class="banner-main">
+    <div class="banner-main-img"></div>
+    <div class="banner-main-text">Хотите получить скидку на участие в квестории?</div>
+    <div class="banner-main-button">
+        <a class="green-button-alt dialog-control" href="/" data-target="#dialog_banner">Получить скидку</a>
+    </div>
+</div>
+</div>
+</div>
+</div>
+<!--/ Home Top /-->
+<!-- Home Cards -->
+<div class="dark content">
+<div class="wrap">
+<div class="cards columns-4">
+<div class="column column-1">
+				{{CardOpenGame}}
+			</div>
+<div class="column column-2">
+				{{CardDR}}
+			</div>
+<div class="column column-3">
+				{{CardCorporative}}
+			</div>
+<div class="column column-4">
+				{{CardChild}}
+			</div>
+<div class="clear"> </div>
+</div>
+</div>
+</div>
+<script type="text/javascript">// <![CDATA[
+/*
+	var dw = $(document).width() / 2;
+	var dh = 1000 / 2;
+	$('#home-page DIV.cards').css('height','326px');
+	$('#home-page A.card').css('position','absolute').each(function(i,e){
+		var x = -300;//Math.random() * 1000 + dw;
+		var y = Math.random() * 1000 + dh;
+		//x = Math.round( Math.random() ) ? x+dw : -x;
+		y = Math.round( Math.random() ) ? y+dh : -y;
+		//$(e).css('top',y+'px').css('left',x+'px');
+		$(e).css('left',x+'px');
+	});
+*/
+// ]]></script>
+<!--/ Home Cards /-->
+<!-- Home Bottom -->
+<div class="wrap content">
+{{CardSert}}
+<div style="float: left; margin-left: 1%; width: 47%;">
+	[!BlogPosts? &amp;count=3 &amp;link=1 &amp;more=1!]
+</div>
+<div style="float: left; margin-left: 3%; width: 23%;">
+	[!GamesListWidget!]
+</div>
+<div class="clear"> </div>
+</div>
+<!--/ Home Bottom /-->
+[!SendsayLeadMagnet!]

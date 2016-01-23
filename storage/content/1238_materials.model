@@ -1,0 +1,34 @@
+<?php
+/**
+return [
+'id' => '1238',
+'type' => 'document',
+'contentType' => 'text/html',
+'pagetitle' => 'Материалы к мини-квестам',
+'longtitle' => '',
+'description' => '',
+'alias' => 'materials',
+'link_attributes' => '',
+'published' => '1',
+'parent' => '264',
+'isfolder' => '0',
+'template' => '8',
+'menuindex' => '31',
+'searchable' => '1',
+'cacheable' => '1',
+'deleted' => '0',
+'menutitle' => '',
+'donthit' => '0',
+'haskeywords' => '0',
+'hasmetatags' => '0',
+'privateweb' => '0',
+'privatemgr' => '0',
+'content_dispo' => '0',
+'hidemenu' => '0',
+];
+*/
+?>
+<h1>Мини-квесты: материалы</h1>
+<h2>Спиритический сеанс</h2>
+<p>
+<a href="/media/KorsunK-Mental_Disorder.mp3">Музыка</a></p>

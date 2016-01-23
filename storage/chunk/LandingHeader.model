@@ -20,6 +20,7 @@ return [
     [!GoogleExperimentCode!]
     [!GAExperimentHBVideo!]
     <title>[!MetaTitle!] | [(site_name)]</title>
+    [!NoFollowMeta!]
     <meta http-equiv = "cache-control" content = "max-age=0">
     <meta http-equiv = "cache-control" content = "no-cache">
     <meta http-equiv = "expires" content = "0">
@@ -81,7 +82,6 @@ return [
     <script src="/themes/questoria/libs/grimm.slider/js/libs/grimm.slider.js"></script>
     -->
 
-
     <script type="text/javascript" src="/themes/questoria/js/jquery-1.7.2.min.js?[[updateCssJsCache? filename=themes/questoria/js/jquery-1.7.2.min.js]]"></script>
     <!-- Other Scripts -->
     <script type="text/javascript" src="http://userapi.com/js/api/openapi.js?56" charset="UTF-8" ></script>
@@ -96,9 +96,7 @@ return [
     </script>
     <script src="http://api-maps.yandex.ru/2.1/?lang=ru_RU" type="text/javascript"></script>
 
-
 {{GoogleUniversalAnalyticsCode}}
-
 
 </head>
 <body>

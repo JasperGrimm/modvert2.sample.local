@@ -157,8 +157,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div id="head" class="wrap" itemscope itemtype="http://schema.org/Place">
     <div class="hide">
         <span itemprop="name">Questoria</span>
-        <span itemprop="url">http://[*baseHost*]</span>
-                <span itemprop="address">http://[*baseHost*]</span>
+        <span itemprop="url">[!sameHost!]</span>
+                <span itemprop="address">[!sameHost!]</span>
     </div>
 
     [!if? &is=`[*lang*]:not:en` &then=`@TPL:SOCIAL_LINKS_TOP_STRIP` &else=``!]
@@ -176,10 +176,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         </div>
         <span itemprop="telephone">[!PhoneNumber? &phone=1!]</span>
         <br/>
-        <a href="/[!if? &is=`[*lang*]:is:en` &then=`[~306~]` &else=`[~28~]`!]" class="readmore-1">[!trans? &m=HEADER_LINK_CONTACTS!]</a>
+        <a href="/[!if? &is=`[*lang*]:is:en` &then=`[~320~]` &else=`[~28~]`!]" class="readmore-1">[!trans? &m=HEADER_LINK_CONTACTS!]</a>
     </div>
     <div class="logo">
-        <a href="http://[*baseHost*]/"><img src="[!trans? &m=LOGO_URL!]" alt="[!trans? &m=LOGO_ALT!]" itemprop="logo" /></a>
+        <a href="[!sameHost!]"><img src="[!trans? &m=LOGO_URL!]" alt="[!trans? &m=LOGO_ALT!]" itemprop="logo" /></a>
     </div>
     <div class="city">
         <div id="utochnit">

@@ -1,7 +1,7 @@
 <?php
 /**
 return [
-'id' => '128',
+'id' => '186',
 'name' => 'LandingContent_ChildrenFiesta',
 'description' => 'LP для детских утренников',
 'editor_type' => '0',
@@ -71,9 +71,6 @@ return [
 Развязка истории целиком зависит от действий игроков.</p>    <br>
 <p>Минимальный возраст участника — пять лет. Игра может<br>
 проходить в детском саду, в кафе или на свежем воздухе.</p>
-
-
-
 
                 <div class="button"><a href="#" class="order big-button"><span>Оставить заявку</span></a></div>
             </div>
@@ -151,12 +148,6 @@ return [
         </div>
     </div>
 </div>
-
-
-
-
-
-
 
 <div class="section order-form">
     <div class="wrap">

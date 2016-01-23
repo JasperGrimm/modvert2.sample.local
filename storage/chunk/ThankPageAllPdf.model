@@ -1,7 +1,7 @@
 <?php
 /**
 return [
-'id' => '124',
+'id' => '184',
 'name' => 'ThankPageAllPdf',
 'description' => 'Текст со ссылкой на pdf',
 'editor_type' => '0',

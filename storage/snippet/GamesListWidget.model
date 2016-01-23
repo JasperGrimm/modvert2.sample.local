@@ -12,14 +12,12 @@ return [
 'moduleguid' => ' ',
 ];
 */
-
 $qst = Wave_Registry::get('Questoria');
+
 $franchise = \Application\Services\Facades\App::get('franchise');
-if (is_object($franchise))
-{
-    $games = array_map(function($game){
-        return new \Application\ViewHolders\GameViewHolder($game);
-    }, $franchise->getSchedule());
-    
-    include 'Application/View/GamesListWidget.php';
-}
+
+$games = array_map(function($game){
+    return new \Application\ViewHolders\GameViewHolder($game);
+}, $franchise->getSchedule());
+
+include 'Application/View/GamesListWidget.php';

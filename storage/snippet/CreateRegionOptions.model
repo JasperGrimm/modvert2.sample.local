@@ -9,8 +9,8 @@ return [
 'cache_type' => '0',
 'locked' => '0',
 'properties' => '',
-'moduleguid' => '',
+'moduleguid' => ' ',
 ];
 */
 
-include_once 'Application/Snippets/CreateRegionOptions.php';
+include 'Application/Snippets/CreateRegionOptions.php';

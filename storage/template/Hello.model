@@ -1,0 +1,16 @@
+<?php
+/**
+return [
+'id' => '27',
+'templatename' => 'Hello',
+'description' => '',
+'editor_type' => '0',
+'category' => '0',
+'icon' => '',
+'template_type' => '0',
+'locked' => '0',
+];
+*/
+?>
+[[YAMS? &get=`selectform`]]
+[*content*]

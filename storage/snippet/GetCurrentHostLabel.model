@@ -12,10 +12,5 @@ return [
 'moduleguid' => ' ',
 ];
 */
-
 $qst = Wave_Registry::get('Questoria');
-$geo_franchise = $qst->geo;
-if (is_object($geo_franchise))
-{
-  echo $geo_franchise->getHost();
-}
+echo $qst->geo->getHost();

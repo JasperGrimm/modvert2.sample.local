@@ -31,5 +31,6 @@ $button_text = isset( $button_text ) ? $button_text : 'Сыграть';
 $show_all_links = isset( $show_all_links ) ? $show_all_links : 0;
 $show_more_text = isset( $show_more_text ) ? $show_more_text : 1;
 $landing_page = isset( $landing_page) ? $landing_page : 0;
+$isBid = isset( $isBid ) ? $isBid : 0;
 $show_not_available_scenarios = isset( $show_not_available_scenarios ) ? $show_not_available_scenarios : 1;
 include 'Application/Helper/Scenarios.php';

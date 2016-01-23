@@ -1,7 +1,7 @@
 <?php
 /**
 return [
-'id' => '102',
+'id' => '137',
 'name' => 'LandingContent_OpenGame',
 'description' => 'LP для открытых игр',
 'editor_type' => '0',
@@ -196,9 +196,9 @@ return [
                     <td class="label">Квестория<span>*</span></td>
                     <td class="field" style="padding-left:13px">
                         <select name="quest" style="height: 42px;border: 0;line-height: 42px;font-size: 16px;width: 100%;background-color: #ffffff">
-                            [!CreateQuestsOptions? &format="date,time,name"!]
+                            [!CreateQuestsOptions? &format=`date,time,name`!]
                         </select>
-
+                        <script>$(function(){ $('[name=quest]' ).wselect({width: '445', big: true, source: [!CreateQuestsOptions? &format=`json`!]});  })</script>
                     </td>
                     <td class="info">
                             <div class="price-responsive left" data-value="" data-currency=''></div>

@@ -12,12 +12,12 @@ return [
 'moduleguid' => '',
 ];
 */
-
 $id = $modx->documentIdentifier;
 $site_url = $modx->config['site_url'];
 preg_match('/https?:\/\/(moscow)/', $site_url, $m);
 
 if( $id == 192 && count($m) && !$_GET['video'] ) {
+?>
 
 <!-- Google Analytics Content Experiment code -->
 <script>function utmx_section(){}function utmx(){}(function(){var
