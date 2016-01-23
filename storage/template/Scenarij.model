@@ -15,7 +15,7 @@ return [
 {{HEADER}}
 
 <div class="wrap content">
-
+        {{Breadcrumbs}}
 	<div class="body-wrap">
 		<div class="body-right">
 
