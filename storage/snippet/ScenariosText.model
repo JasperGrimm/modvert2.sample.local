@@ -12,7 +12,6 @@ return [
 'moduleguid' => ' ',
 ];
 */
-
 //$city_name_loc -- дательный падеж города
 if( $count == 1 )
 {

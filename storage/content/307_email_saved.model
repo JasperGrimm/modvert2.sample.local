@@ -1,0 +1,34 @@
+<?php
+/**
+return [
+'id' => '307',
+'type' => 'document',
+'contentType' => 'text/html',
+'pagetitle' => 'Новые настройки рассылок от Квестории сохранены!',
+'longtitle' => '',
+'description' => '',
+'alias' => 'email-saved',
+'link_attributes' => '',
+'published' => '1',
+'parent' => '296',
+'isfolder' => '0',
+'template' => '5',
+'menuindex' => '5',
+'searchable' => '1',
+'cacheable' => '1',
+'deleted' => '0',
+'menutitle' => '',
+'donthit' => '0',
+'haskeywords' => '0',
+'hasmetatags' => '0',
+'privateweb' => '0',
+'privatemgr' => '0',
+'content_dispo' => '0',
+'hidemenu' => '1',
+];
+*/
+?>
+<div class="wrap content">
+<h1>[*pagetitle*]</h1>
+[[GamesListWidget]]
+</div>

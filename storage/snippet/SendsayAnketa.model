@@ -1,0 +1,16 @@
+<?php
+/**
+return [
+'id' => '173',
+'name' => 'SendsayAnketa',
+'description' => '',
+'editor_type' => '0',
+'category' => '0',
+'cache_type' => '0',
+'locked' => '0',
+'properties' => '',
+'moduleguid' => ' ',
+];
+*/
+
+include 'Application/Snippets/SendsayAnketa.php';

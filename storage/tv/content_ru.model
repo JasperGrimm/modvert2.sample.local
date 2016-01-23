@@ -1,0 +1,25 @@
+<?php
+return [
+'id' => '29',
+'type' => 'richtext',
+'name' => 'content_ru',
+'caption' => '',
+'description' => 'content (ru)',
+'editor_type' => '0',
+'category' => '0',
+'locked' => '0',
+'elements' => '',
+'rank' => '0',
+'display' => '',
+'display_params' => '',
+'default_text' => '',
+'templates' => [
+27
+],
+'content_values' => [
+'219' => '<p>[!VK_CommentForm_IFrame!]</p>',
+'220' => '{{IFrameSocialTable}}',
+'221' => '[!VKLikeScenario!]',
+'270' => 'Привет мир',
+],
+];

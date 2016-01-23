@@ -12,10 +12,11 @@ return [
 'moduleguid' => ' ',
 ];
 */
-
-$franchise = \Application\Services\Facades\App::get('franchise');
-
-if (!$franchise || !$franchise->getCompany() || !$franchise->getCompany()->isActive())
+$qst = Wave_Registry::get('Questoria');
+$city_id = $qst->geo->getCityId();
+$franchisee = $qst->user->getActiveFranchisee($city_id);
+//var_dump($franchisee);die();
+if (!$franchisee)
 {
    $modx->sendRedirect('/расписание-живых-квестов');
 }

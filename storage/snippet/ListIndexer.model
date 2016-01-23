@@ -12,7 +12,6 @@ return [
 'moduleguid' => '',
 ];
 */
-
 // added in 1.0.1: hidePrivate (hide items from unauthorized users)
 //
 // Derived from ListIndex 0.6j by jaredc@honeydewdesign.com

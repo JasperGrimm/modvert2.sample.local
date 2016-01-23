@@ -203,6 +203,8 @@ return [
                         <button data-placement="right" type="submit" class="big-button green-button popover-landing ind_top_20" [[GAOrderEvent]]>
                             <span>Оставить заявку</span>
                         </button>
+<br /><br />
+<a href="#" class="ajax dialog-control confidential-politic" data-target="#dialog_confidential_politic">Политика конфиденциальности</a>
                     </td>
                 </tr>
             </table>

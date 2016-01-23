@@ -1,0 +1,97 @@
+<?php
+/**
+return [
+'id' => '1094',
+'type' => 'document',
+'contentType' => 'text/html',
+'pagetitle' => 'Живой квест «Снежная королева» (детская игра)',
+'longtitle' => '',
+'description' => '',
+'alias' => 'snow-queen-game-for-kids',
+'link_attributes' => '',
+'published' => '1',
+'parent' => '1070',
+'isfolder' => '0',
+'template' => '11',
+'menuindex' => '30',
+'searchable' => '1',
+'cacheable' => '1',
+'deleted' => '0',
+'menutitle' => '',
+'donthit' => '0',
+'haskeywords' => '0',
+'hasmetatags' => '0',
+'privateweb' => '0',
+'privatemgr' => '0',
+'content_dispo' => '0',
+'hidemenu' => '0',
+];
+*/
+?>
+<div id="scenario_tabs" class="tabs-wrap">
+
+<ul class="tabs-buttons">
+<li><a class="bajax" href="#"><span class="ajax">Список персонажей сюжета</span></a></li>
+<li><a class="bajax" href="#"><span class="ajax">Отзывы о данном сюжете</span></a></li>
+<li><a class="bajax" href="#"><span class="ajax">Фотографии</span></a></li>
+</ul>
+<div class="tabs-sheets">
+<div class="tabs-sheet">
+<div class="scenario_group">
+<h3>Жители двух Королевств</h3>
+<br />
+<p>В <strong>Северном Королевстве</strong> живут могучие <em>Тролли</em>. Они живут в горах, в их Пещере много сокровищ.</p>
+<p> <img src="http://questoria.ru/data/images/scenarios/snow-queen/image09.jpg" alt="" width="350" height="487" /></p>
+<p>В тех местах, где холод самый сильный, живут <em>Колдуны</em>. Они умеют заколдовывать вещи, обращая их в куски льда!</p>
+<p><img src="http://questoria.ru/data/images/scenarios/snow-queen/image03.jpg" alt="" width="350" height="487" /></p>
+<p>Умелые <em>Строители</em> собирают лёд и делают из него горки и дворцы.</p>
+<p><img src="http://questoria.ru/data/images/scenarios/snow-queen/image00.jpg" alt="" width="350" height="487" /></p>
+<p><em>Разбойники</em> прячутся в дремучем лесу. Они тоже - волшебники и умеют делать мягкий снег, из которого так хорошо лепить снежки!</p>
+<p><img src="http://questoria.ru/data/images/scenarios/snow-queen/image02.jpg" alt="" width="350" height="487" /></p>
+<p>Иногда в Северное Королевство приходят <em>гости</em> - их присылает сама Снежная Королева. Гости больны - ничего не помнят, их нужно лечить. Но они тоже владеют волшебством.</p>
+<p><img src="http://questoria.ru/data/images/scenarios/snow-queen/image06.jpg" alt="" width="350" height="487" /></p>
+<p>В <strong>Южном Королевстве</strong> за цветами ухаживают <em>Садовники</em>. В каждом цветке таится волшебство весны и лета!</p>
+<p><img src="http://questoria.ru/data/images/scenarios/snow-queen/image07.jpg" alt="" width="350" height="487" /></p>
+<p><em>Пасечники</em> ухаживают за пчелами, которые делают душистый и целебный мёд. Мёд - и полезный, и очень вкусный!</p>
+<p><img src="http://questoria.ru/data/images/scenarios/snow-queen/image04.jpg" alt="" width="350" height="487" /></p>
+<p><em>Мастера-стеклодувы</em> умеют из обычного песка делать удивительные вещи. 
+Разноцветные окна, фонари, флаконы - в них волшебство цвета и света!</p>
+<p><img src="http://questoria.ru/data/images/scenarios/snow-queen/steklo.jpg" alt="" width="350" height="495" /></p>
+<p><em>Угольщики</em> - очень важная профессия. Ведь именно волшебные угли помогают жителям Южного Королевства во время зимы и метелей!</p>
+<p><img src="http://questoria.ru/data/images/scenarios/snow-queen/dom.jpg" alt="" width="350" height="495" /></p>
+<p><em>Лекари</em> помогут, если кто-то простудился. В сказочном королевстве все лекарства - волшебные, и вкусные! А еще Лекари умеют возвращать тепло замерзшим вещам.</p>
+<p><img src="http://questoria.ru/data/images/scenarios/snow-queen/image05.jpg" alt="" width="350" height="487" /></p>
+</div>
+</div>
+<div class="tabs-sheet">
+            Отзывы о сюжете [*pagetitle*]
+<p>Пока нет отзывов, сценарий только вышел. </p>
+<div class="citate">
+</div>
+</div>
+<div class="tabs-sheet">
+       Фотографии сюжета [*pagetitle*]
+<br />
+<img src="http://questoria.ru/data/snow_1.jpg" alt="" width="340" height="227" />
+<img src="http://questoria.ru/data/snow_2.jpg" alt="" width="340" height="227" />
+<img src="http://questoria.ru/data/snow_3.jpg" alt="" width="340" height="227" />
+<img src="http://questoria.ru/data/snow_4.jpg" alt="" width="340" height="227" />
+<img src="http://questoria.ru/data/snow_5.jpg" alt="" width="340" height="227" />
+<img src="http://questoria.ru/data/snow_6.jpg" alt="" width="340" height="227" />
+<img src="http://questoria.ru/data/snow_7.jpg" alt="" width="340" height="226" />
+<img src="http://questoria.ru/data/snow_8.jpg" alt="" width="340" height="226" />
+<img src="http://questoria.ru/data/snow_9.jpg" alt="" width="340" height="226" />
+<img src="http://questoria.ru/data/snow_10.jpg" alt="" width="340" height="226" />
+<img src="http://questoria.ru/data/snow_11.jpg" alt="" width="340" height="226" />
+<img src="http://questoria.ru/data/snow_12.jpg" alt="" width="340" height="226" />
+<img src="http://questoria.ru/data/snow_13.jpg" alt="" width="340" height="226" />
+<img src="http://questoria.ru/data/snow_14.jpg" alt="" width="340" height="226" />
+<img src="http://questoria.ru/data/snow_15.jpg" alt="" width="340" height="226" />
+<img src="http://questoria.ru/data/snow_16.jpg" alt="" width="340" height="226" />
+<img src="http://questoria.ru/data/snow_17.jpg" alt="" width="340" height="226" />
+<img src="http://questoria.ru/data/snow_18.jpg" alt="" width="340" height="226" />
+<img src="http://questoria.ru/data/snow_19.jpg" alt="" width="340" height="226" />
+<img src="http://questoria.ru/data/snow_20.jpg" alt="" width="340" height="226" />
+</div>
+</div>
+</div>

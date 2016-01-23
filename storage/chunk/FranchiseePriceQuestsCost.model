@@ -14,10 +14,10 @@ return [
  <table class="table" border="0">
     <tbody>
         <tr class="title">
-            <td colspan="2">Мини-квестория</td>
+            <td colspan="2">S (мини-квестории)</td>
         </tr>
         <tr>
-            <td>Стоимость с начальной скидкой</td>
+            <td>Стоимость с начальной скидкой <sup>*</sup></td>
             <td>[[MQ_COST_WITH_DISCOUNT]] [[CURRENCY]]</td>
         </tr>
         <tr>
@@ -29,10 +29,10 @@ return [
             <td>[[MQ_DUPLICATE_COST]] [[CURRENCY]]</td>
         </tr>
         <tr class="title">
-            <td colspan="2">Стандарт. квестория</td>
+            <td colspan="2">M (обычные квестории)</td>
         </tr>
         <tr>
-            <td>Стоимость с начальной скидкой</td>
+            <td>Стоимость с начальной скидкой <sup>*</sup></td>
             <td>[[SQ_COST_WITH_DISCOUNT]] [[CURRENCY]]</td>
         </tr>
         <tr>
@@ -44,7 +44,7 @@ return [
             <td>[[SQ_DUPLICATE_COST]] [[CURRENCY]]</td>
         </tr>
         <tr class="title">
-            <td colspan="2">"Город Сталкеров" <sup>*</sup></td>
+            <td colspan="2">L (Герои Асфальта, Город сталкеров) <sup>**</sup></td>
         </tr>
         <tr>
             <td>Полная стоимость</td>
@@ -55,7 +55,7 @@ return [
             <td>[[SCQ_DUPLICATE_COST]] [[CURRENCY]]</td>
         </tr>
         <tr class="title">
-            <td colspan="2">"Ставки сделаны" <sup>**</sup></td>
+            <td colspan="2">XL (Ставки сделаны, Шпионские страсти) <sup>**</sup></td>
         </tr>
         <tr>
             <td>Полная стоимость</td>
@@ -72,5 +72,5 @@ return [
     <sup>*</sup>  Начальная скидка распространяется на приобретение первых 4-х игр, при этом 1 или 2 вы уже приобрели, купив франшизу.
 </p>
 <p>
-    <sup>**</sup> Начальная скидка не распространяется на квестории "Ставки сделаны" и "Город Сталкеров".
+    <sup>**</sup> Начальная скидка не распространяется на L и XL квестории.
 </p>

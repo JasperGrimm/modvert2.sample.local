@@ -1,0 +1,30 @@
+<?php
+/**
+return [
+'id' => '267',
+'type' => 'document',
+'contentType' => 'text/html',
+'pagetitle' => 'Квесты на праздники',
+'longtitle' => '',
+'description' => '',
+'alias' => 'games-for-events',
+'link_attributes' => '',
+'published' => '1',
+'parent' => '266',
+'isfolder' => '1',
+'template' => '0',
+'menuindex' => '0',
+'searchable' => '1',
+'cacheable' => '0',
+'deleted' => '0',
+'menutitle' => '',
+'donthit' => '0',
+'haskeywords' => '0',
+'hasmetatags' => '0',
+'privateweb' => '0',
+'privatemgr' => '0',
+'content_dispo' => '0',
+'hidemenu' => '1',
+];
+*/
+?>

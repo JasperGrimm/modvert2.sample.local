@@ -1,0 +1,98 @@
+<?php
+/**
+return [
+'id' => '22',
+'type' => 'document',
+'contentType' => 'text/html',
+'pagetitle' => 'Детская игра',
+'longtitle' => 'Игры на день рождения ребенка в [!CityName!]. Сюжетные игры для проведения детского праздника.',
+'description' => '',
+'alias' => 'child-birthday',
+'link_attributes' => '',
+'published' => '1',
+'parent' => '20',
+'isfolder' => '0',
+'template' => '10',
+'menuindex' => '3',
+'searchable' => '1',
+'cacheable' => '1',
+'deleted' => '0',
+'menutitle' => '',
+'donthit' => '0',
+'haskeywords' => '0',
+'hasmetatags' => '0',
+'privateweb' => '0',
+'privatemgr' => '0',
+'content_dispo' => '0',
+'hidemenu' => '0',
+];
+*/
+?>
+<h1 class="justifyleft">Как отметить День рождения ребенка в [!CityName? &amp;declinatio=6!]?</h1>
+<div class="section description s-page">
+<div class="wrap">
+<div class="description_wrp children_game">
+<div class="descr-left">
+</div>
+<div class="descr-right">
+<div class="title red">Задумались, как отметить <br />день рождения ребенка?</div>
+<p>Закажите на детский праздник сюжетную игру — квесторию! Участвовать в игре могут не только<br /> дети, но и их родители.</p>
+<p>Минимальный возраст участника — шесть лет.<br />
+Игра может проходить дома, в кафе<br />или на свежем воздухе.</p>
+<div class="button"><a class="order big-button" href="#"><span>Оставить заявку</span></a></div>
+</div>
+</div>
+</div>
+</div>
+<div>{{WhatsQuest}}</div>
+<div class="video">
+<iframe src="//player.vimeo.com/video/122245924" width="730" height="410" frameborder="0"></iframe>
+</div>
+<p> </p>
+<div class="dark round block-2">
+<div class="citate">
+<img src="/themes/questoria/images/ico_cite-white.gif" class="fl" />
+<p class="justifyfull">Благодаря Квестории мы великолепно отпраздновали 11-летие нашего ребенка! Заказали «Завещание Флинта».
+На празднике были 10 детей от 10 до 12 лет. Игру проводили дома.<br /><br />К нам приехала замечательная ведущая по имени Аня, привезла с собой всё необходимое для игры.<br /><br />
+Изначально я сомневалась, справятся ли дети с поставленной задачей? Смогут ли вжиться в предложенные образы и выполнить цели своих героев? Но Анна сумела в увлекательной и незанудной форме донести до детей суть игры и вовремя направлять игроков в нужное русло.<br /><br />
+Праздник понравился всем, а когда гости разошлись, именинница, победно взмахнув рукой сказала: «Yes! У меня был самый крутой день рождения. Ни у кого ещё такого не было! Спасибо, мама!»<br /><br />
+И я хочу в свою очередь сказать: «Спасибо, Квестория!»
+</p>
+<div class="author">Татьяна Минасенко</div>
+</div>
+</div>
+<p> </p>
+<div class="justifyleft">{{ScenariosWeOffer}}</div>
+<div class="section checks">
+<div class="wrap">
+<h2>Пять причин заказать квесторию для вашего ребенка</h2>
+<ul class="check-list w100pi">
+<li class="justifyfull">Удивите детей новым, необычным праздником, который они <strong>точно запомнят надолго и будут с энтузиазмом обсуждать!</strong></li>
+<li class="justifyfull">Дети не просто весело и интересно проведут время, <strong>игра поможет развить им навыки общения</strong> и принятия решений</li>
+<li class="justifyfull">Вы не ограничены местом организации праздника: <strong>игру можно устроить дома, в кафе<br>или на природе</strong></li>
+<li class="justifyfull">Квестория — это <strong>готовая программа праздника</strong>. Вам не придётся придумывать ничего самим</li>
+<li class="justifyfull">Вы <strong>можете оставить детей под присмотром ведущего</strong> или сыграть вместе с ними — взрослым игра тоже понравится!</li>
+</ul>
+<div class="clear"> </div>
+{{WeQuaranteeChild}}
+</div>
+</div>
+<div class="justifyleft"><strong><img height="300" width="300" alt="организовать детский день рождения" src="/assets/images/Pics_for_site/deti_new1.jpg" title="день рождения для детей" class="ifl" /></strong></div>
+<h2>Как проходят квестории?</h2>
+<p class="justifyfull">Каждый игрок получает маленький буклет с описанием своего персонажа — например, капитана пиратского корабля, известного детектива или прекрасной индианки — и становится одним из героев сюжета. </p>
+<p class="justifyfull">У каждого персонажа есть свои цели: один хочет найти клад капитана Флинта, другой — раскрыть тайну волшебного лекарства индейцев, а третий — помешать всему этому случиться. Суть игры — выполнить как можно больше целей.</p>
+<p class="justifyfull">В ходе игры участники как собираются вместе, обсуждая различные версии произошедшего, так и в стороне от посторонних ушей обмениваются догадками<br />со своими союзниками.</p>
+<p> </p>
+<h2>Фотографии с квесторий</h2>
+<p>[[PhotoSlider? &amp;alias=child_bd]]</p>
+<p>[!PLANS_MAIN? &amp;game_alias=child_game !]</p>
+<p>
+[!ifFranchaizi_deti? &amp;declinatio=6 &amp;type=corporative &amp;type=private_additional_user &amp;OrderType=[*OrderType*] &amp;ThankPage=[*ThankPage*] !]
+</p>
+<p>
+<strong>
+</strong></p>
+<p> </p>
+<p> </p>
+<p> </p>
+{{QuaranteeDialogChild}}

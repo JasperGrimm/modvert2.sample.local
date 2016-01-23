@@ -1,0 +1,31 @@
+<?php
+/**
+return [
+'id' => '1232',
+'type' => 'document',
+'contentType' => 'text/html',
+'pagetitle' => 'Для Тулы',
+'longtitle' => 'Спасибо за заявку',
+'description' => '',
+'alias' => 'тула',
+'link_attributes' => '',
+'published' => '1',
+'parent' => '1146',
+'isfolder' => '0',
+'template' => '12',
+'menuindex' => '41',
+'searchable' => '1',
+'cacheable' => '1',
+'deleted' => '0',
+'menutitle' => '',
+'donthit' => '0',
+'haskeywords' => '0',
+'hasmetatags' => '0',
+'privateweb' => '0',
+'privatemgr' => '0',
+'content_dispo' => '0',
+'hidemenu' => '0',
+];
+*/
+?>
+<p>{{ThankPageForAllCities}} {{ThankPageForAllCitiesEnd}}</p>

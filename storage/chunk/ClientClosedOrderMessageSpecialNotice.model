@@ -1,7 +1,7 @@
 <?php
 /**
 return [
-'id' => '105',
+'id' => '143',
 'name' => 'ClientClosedOrderMessageSpecialNotice',
 'description' => 'Уведомление в письме для периода 15 дек - 15 янв. для корпоративов',
 'editor_type' => '0',

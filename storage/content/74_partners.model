@@ -1,0 +1,84 @@
+<?php
+/**
+return [
+'id' => '74',
+'type' => 'document',
+'contentType' => 'text/html',
+'pagetitle' => 'Наши партнеры',
+'longtitle' => 'Партнеры квестории',
+'description' => '',
+'alias' => 'partners',
+'link_attributes' => '',
+'published' => '1',
+'parent' => '95',
+'isfolder' => '0',
+'template' => '8',
+'menuindex' => '4',
+'searchable' => '1',
+'cacheable' => '1',
+'deleted' => '0',
+'menutitle' => '',
+'donthit' => '0',
+'haskeywords' => '0',
+'hasmetatags' => '0',
+'privateweb' => '0',
+'privatemgr' => '0',
+'content_dispo' => '0',
+'hidemenu' => '0',
+];
+*/
+?>
+<h1 class="justifyfull">Наши партнеры</h1>
+<p class="justifyfull">
+<strong><a target="_blank" href="http://zovem.ru" rel="nofollow">"Бюро неформатных событий "Зовём.ру"</a></strong><br />Сайт, на котором можно узнать о самых разных событиях, мероприятиях, встречах и выставках не освещаемых крупными досуговыми ресурсами. Почти все эти мероприятия являются необычными и выходят за рамки привычных форматов.<br /><br /><strong><a target="_blank" href="http://spb.smile-smile.ru/service/kvestory/" rel="nofollow">Магазин впечатлений в подарок Smile</a></strong><br />В состав одного из пакетов входят наши <a target="_blank" href="http://spb.smile-smile.ru/service/kvestory/" rel="nofollow">живые квесты в подарок</a>.<br /><br />
+<strong><a target="_blank" href="http://planprogulki.ru/" rel="nofollow">План прогулки</a></strong><br />
+<a target="_blank" href="http://planprogulki.ru/" rel="nofollow"><img height="38" width="200" src="/assets/images/Pics_for_site/planprogulki.png" /></a><br />Достаточно ответить на 4 незатейливых вопроса, и Вы получите неформатный продуманный отдых грядущего события. Воспользовавшись продуманным отдыхом, Вы сможете: поразить девушку своей оригинальностью, прослыть среди друзей знатным организатором дивного отдыха, а главное получить новые впечатления, позитивные переживания и увлекательно провести время.<br /><br />
+<strong><a target="_blank" href="http://peterburg2.ru" rel="nofollow">Peterburg2.ru - Афиша развлечений в Санкт-Петербурге</a></strong><br /><br /><a target="_blank" href="http://peterburg2.ru" rel="nofollow"><img height="53" width="200" src="/assets/images/Pics_for_site/peterburg2-logo.png" /></a><br /><br />
+<strong><a target="_blank" href="http://mafia.kharkov.ua/" rel="nofollow">Клуб «Мафия Харьков»</a></strong><br />
+Клуб «Мафия Харьков». Мы проведем захватывающую игру, которая позволит Вам окунуться в мир интриг и разоблачений!<br /><br />
+<a target="_blank" href="http://mafia.kharkov.ua/" rel="nofollow"><img height="56" width="130" src="/assets/images/partners/mafia_kharkov.jpg" /></a><br /><br /><br />
+<strong><a target="_blank" href="http://www.game-t.ru/node/2" rel="nofollow">Клуб настольных игр "Трой"</a></strong><br /><a target="_blank" href="http://www.game-t.ru/node/2" rel="nofollow"><img width="200" src="/assets/images/Pics_for_site/Troy.gif" /></a><br /><br /><strong><a target="_blank" href="http://kudapoiti.info/" rel="nofollow">"Куда пойти"</a></strong><br />Идеи отдыха. Куда пойти отдохнуть?<br /><br />
+<strong><a target="_blank" href="http://vkontakte.ru/kostumer" rel="nofollow">Костюмерная "Фру-Фру"</a></strong><br />
+Прокат костюмов, продажа карнавальной продукции.<br />
+Для игроков "Квестории" скидка от 5 до 10%!<br /><a target="_blank" href="http://vkontakte.ru/kostumer" rel="nofollow"><img height="171" width="117" src="/assets/images/Pics_for_site/cowboys-logo.jpg" /></a>
+</p>
+<p class="justifyfull"><strong><a target="_blank" href="http://www.cafe-kafedra.ru/" rel="nofollow">Кафе "Кафедра" в Казани</a></strong><br />Уютное кафе в центре города. Европейская, Итальянская, Японская кухни.<br />
+Кальян. Караоке. Банкеты от 500 руб. (843)292-51-54.<br />
+<a target="_blank" href="http://www.cafe-kafedra.ru/" rel="nofollow"><img height="69" width="200" src="/assets/images/Pics_for_site/cafe_cafedra_logo.gif" /></a><br />
+<br />
+<a target="_blank" href="http://therealgame.ru/" rel="nofollow"><strong>TheRealGame</strong></a><br />
+Проект TheRealGame - это организация и проведение регулярных активных городских игр нескольких форматов в Санкт-Петербурге с 2008 года. Наиболее популярные форматы: ночные экстремальные игры, дневные культурно-исторические соревнования по городскому ориентированию, Охота на лис, Аномальная зона. У каждой игры свои правила и свои особенности, но все их объединяет одно – возможность увлекательного и нестандартного отдыха со старыми друзьями, возможность найти новых друзей, узнать новое, проверить себя на прочность, подключив к игре свои умственные, физические и творческие способности.
+<br /><br /><a target="_blank" href="http://therealgame.ru/" rel="nofollow"><img src="/assets/images/Pics_for_site/trg.jpg" /></a><br /><br />
+<a target="_blank" href="http://bambolo.ru" rel="nofollow"><strong>Bambolo</strong></a><br />
+Европейские карнавальные костюмы и аксессуары. Доставка в 250 города России.
+<br /><br /><a target="_blank" href="http://bambolo.ru" rel="nofollow"><img height="45" width="200" src="/assets/images/partners/logo.png" /></a><br /><br />
+<a target="_blank" href="http://rugrad.eu/" rel="nofollow"><strong>Rugrad.eu</strong></a><br />
+Афиша информационного портала Rugrad.eu. Все культурные события Калининграда и ближнего зарубежья.<br /><br /><a target="_blank" href="http://rugrad.eu/" rel="nofollow"><img height="77" width="200" src="/assets/images/partners/rdgrad.png" /></a><br /><br />
+<a target="_blank" href="http://vk.com/perekrestokmirov" rel="nofollow"><strong>Антикафе "Перекресток миров"</strong></a><br />
+Территория свободного
+общения, одно из самых уютных мест в Москве, где можно совершенно
+БЕСПЛАТНО попить чаю со сладостями, поиграть в аэрохоккей, дартс или
+xbox, посмотреть кино или душевно попеть в караоке, заплатив при этом
+только за время пребывания -  от 1,5 рублей за минуту.<br /><br /><a target="_blank" href="http://vk.com/perekrestokmirov" rel="nofollow"><img height="201" width="200" src="/assets/images/partners/perekrestok.jpg" /></a><br /><br />
+<a target="_blank" href="http://kharkov.en.cx/" rel="nofollow"><strong>Encounter</strong></a><br />
+Интеллектуально-экстремальные игры Encounter. Городские приключения в Харькове.<br /><br /><a target="_blank" href="http://kharkov.en.cx/" rel="nofollow"><img height="175" width="200" src="/assets/images/Pics_for_site/en.jpg" /></a><br /><br />
+<a target="_blank" href="http://innov.ru/" rel="nofollow"><strong>INNOV.RU</strong></a><br />Свежие новости Нижнего Новгорода каждый день, новости банков и современных технологий, отборные культурные события и бесплатные консультации, исчерпывающая информация о городе, где каждый найдет что-то для себя.<br /><br /><a target="_blank" href="http://innov.ru/" rel="nofollow"><img height="59" width="200" src="/assets/images/Pics_for_site/Innov.jpeg" /></a><br /><br />
+<a target="_blank" href="http://gachami.ru/" rel="nofollow"><strong>Чайная Гавань</strong></a><br />Чайный клуб и магазин настоящего китайского чая в г. Тюмени! Отличное место для игр и общения!<br /><br /><a target="_blank" href="http://gachami.ru/" rel="nofollow"><img height="71" width="200" src="/assets/images/Pics_for_site/chamati.jpg" /></a><br /><br />
+<a target="_blank" href="http://www.primus.com.ru/" rel="nofollow"><strong>Ресторан <span>«</span>Примус<span>»</span></strong></a><br />Приглашаем всех, кто ценит хорошую еду, дружеское общение и непринужденную атмосферу. В «Примусе» всегда уютно, вкусно, весело, потому что здесь каждый день - пятница!<br /><br /><a target="_blank" href="http://www.primus.com.ru/" rel="nofollow"><img height="233" width="200" src="/assets/images/Pics_for_site/keitering.png" /></a><br /><br />
+<a target="_blank" href="http://vk.com/mtgnsk" rel="nofollow"><strong>Умные игры</strong></a><br />Клуб настольных игр Новосибирска. Присоединяйтесь к нам, если вы любите настольные игры так же, как и мы!<br /><br /><a target="_blank" href="http://vk.com/mtgnsk" rel="nofollow"><img height="200" width="200" src="/assets/images/Pics_for_site/umigr.png" /></a><br /><br />
+<br />«<a target="_blank" href="http://r-aristotel-book.simbis.ru/" rel="nofollow"><strong>Плиний Старший</strong></a>»<br />Большой книжный магазин в самом центре Новосибирска.<br /><br /><a target="_blank" href="http://r-aristotel-book.simbis.ru/" rel="nofollow"><img height="200" width="91" src="/assets/images/Pics_for_site/pliniy.jpg" /></a><br /><br />
+<br /><strong>Семейное кафе «Пиноккио»</strong><br />У нас можно отпраздновать день рождения ребенка и просто приятно посидеть веселой компанией. Есть специально оборудованная детская игровая зона: Лабиринт, батут, горки, сухой бассейн и подвижные игры с педагогом. Пока вы отдыхаете, мы заботимся о ваших детях.<br /><br /><img height="115" width="200" src="/assets/images/Pics_for_site/(1).jpg" /><br /><br />
+<br />«<a target="_blank" href="http://makosh-handiwork.com/" rel="nofollow"><strong>Торговый дом «Макошь</strong></a><strong><a target="_blank" href="http://makosh-handiwork.com/" rel="nofollow"><strong> </strong></a></strong>»<br />Сообщество талантливых Мастеров рукоделия. Мы любим то, что делаем и с радостью делимся с Вами.<br /><br /><a target="_blank" href="http://makosh-handiwork.com/" rel="nofollow"><img height="169" width="200" src="/assets/images/partners/makosh.jpg" /></a><br /><br />
+<br />«<a target="_blank" href="http://tritec-education.ru/" rel="nofollow"><strong>УЦ «Трайтек»</strong></a><strong> </strong>»<br />Учебный центр - широкий спектр курсов повышения квалификации, максимально соответствующих требованиям времени (IT-технологии, тренинги, иностранные языки). Бесплатные консультации по подбору учебных курсов/ тренингов под Вашу задачу. <br /><br /><a target="_blank" href="http://tritec-education.ru/" rel="nofollow"><img width="200" alt="трайтек" src="/data/tritec.png" title="трайтек" /></a><br /><br />
+<a target="_blank" href="http://foc-poc.ru/" rel="nofollow"><strong>Праздничное агентство «Фокус-Покус»</strong></a><strong> </strong>»<br />Праздничное агентство в <a target="_blank" href="http://happy31.ru/" rel="nofollow">Белгороде</a> и <a target="_blank" href="http://happy46.ru/" rel="nofollow">Курске</a> «Фокус-Покус» вот уже много лет работает в сфере организации праздников любого масштаба, будь это детские праздники, юбилеи, корпоративные мероприятия, выставки и презентации. Помимо этого предоставляется большой спектр услуг: детское научное шоу, шоу мыльных пузырей, шоколадный фонтан, живая музыка, детская анимация, аквагрим для детей, фото и видео съемка, оформление воздушными шарами и многое другое.<br /><br /><a target="_blank" href="http://foc-poc.ru/" rel="nofollow"><img height="57" width="200" alt="фокус-покус" src="/data/-.png" title="фокус-покус" /></a><br /><br />
+<a target="_blank" href="https://vk.com/univerland" rel="nofollow"><strong>Поселок «Университетский»</strong></a><br />Участки под строительство в Новосибирске.<br /><a target="_blank" href="https://vk.com/univerland" rel="nofollow"><img height="132" width="200" alt="Поселок Университетский" src="/data/poselok.jpg" title="Поселок Университетский" /></a><br />
+<br />
+</p>
+<h2 class="justifyfull">Вы можете разместить рекламу на нашем сайте</h2>
+<p>Условия по рекламе можно посмотреть <a target="_blank" href="/квестория/рекламодателям">здесь</a>.</p>
+<h2 class="justifyfull">Открыть квесты в вашем городе?</h2>
+<p class="justifyfull">
+Мы рады приглашениям проводить квесты в других
+кафе и клубах, а также предложениям совместной организации квестов в
+других городах. Если вы хотите проводить квесты в своём городе, то прочтите наше <a href="%D0%BA%D0%B2%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F/%D0%BA%D0%B2%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F-%D1%84%D1%80%D0%B0%D0%BD%D1%88%D0%B8%D0%B7%D0%B0">предложение по франшизе</a> и <a href="%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D1%8B">свяжитесь</a> с нами.</p>
+<p> </p>

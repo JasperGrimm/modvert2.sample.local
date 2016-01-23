@@ -1,0 +1,37 @@
+<?php
+/**
+return [
+'id' => '1027',
+'type' => 'document',
+'contentType' => 'text/html',
+'pagetitle' => 'Sendsay email success',
+'longtitle' => '',
+'description' => '',
+'alias' => 'email-success',
+'link_attributes' => '',
+'published' => '1',
+'parent' => '1025',
+'isfolder' => '0',
+'template' => '31',
+'menuindex' => '3',
+'searchable' => '0',
+'cacheable' => '1',
+'deleted' => '0',
+'menutitle' => '',
+'donthit' => '0',
+'haskeywords' => '0',
+'hasmetatags' => '0',
+'privateweb' => '0',
+'privatemgr' => '0',
+'content_dispo' => '0',
+'hidemenu' => '1',
+];
+*/
+?>
+<div class="wrap content">
+    <h1>Подписка подтверждена</h1>
+    <p>Готово!</p>
+    [!SendsayEmailSuccess!]
+    <p>Ваш купон на скидку уже ждет вас в вашем почтовом ящике.<br/>До встречи на игре!</p>
+    [[GamesListWidget]]
+</div>

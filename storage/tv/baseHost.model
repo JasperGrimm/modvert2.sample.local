@@ -3,7 +3,7 @@ return [
 'id' => '15',
 'type' => 'text',
 'name' => 'baseHost',
-'caption' => 'baseHost',
+'caption' => 'Не трогать! ',
 'description' => '',
 'editor_type' => '0',
 'category' => '10',
