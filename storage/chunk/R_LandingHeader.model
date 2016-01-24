@@ -52,6 +52,7 @@ return [
 <script type="text/javascript" src="/themes/src/libs/bootstrap.min.js"></script>
 </mobile>
 
+
     <!-- Other Scripts -->
     <script type="text/javascript" src="http://userapi.com/js/api/openapi.js?56" charset="UTF-8" ></script>
     <script type="text/javascript" src="http://userapi.com/js/api/share.js?11" charset="UTF-8"></script>
@@ -65,7 +66,9 @@ return [
     </script>
     <!-- doesn't work on mobile <script src="http://api-maps.yandex.ru/2.1/?lang=ru_RU" type="text/javascript"></script>--> 
 
+
 {{GoogleUniversalAnalyticsCode}}
+
 
 </head>
 <body>

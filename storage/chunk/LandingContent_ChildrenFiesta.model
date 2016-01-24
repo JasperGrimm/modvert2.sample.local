@@ -72,6 +72,9 @@ return [
 <p>Минимальный возраст участника — пять лет. Игра может<br>
 проходить в детском саду, в кафе или на свежем воздухе.</p>
 
+
+
+
                 <div class="button"><a href="#" class="order big-button"><span>Оставить заявку</span></a></div>
             </div>
 
@@ -148,6 +151,12 @@ return [
         </div>
     </div>
 </div>
+
+
+
+
+
+
 
 <div class="section order-form">
     <div class="wrap">

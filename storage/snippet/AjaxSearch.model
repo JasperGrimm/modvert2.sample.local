@@ -403,6 +403,7 @@ $cfg['mbstring'] = isset($mbstring) ? $mbstring : (isset($__mbstring) ? $__mbstr
 //        Default: 200
 $cfg['asLog'] = isset($asLog) ? $asLog : (isset($__asLog) ? $__asLog : $dcfg['asLog']);
 
+
 //------------------------------------------------------------------------------
 // Configuration - Simple Ajax mode
 //------------------------------------------------------------------------------

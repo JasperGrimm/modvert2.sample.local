@@ -206,6 +206,7 @@ return [
    //                           pagination (which wouldn't be css-able
    //                           by virtue of its <a> tag)
 
+
 // **********************************************************************
 // END CONFIG SETTINGS
 // THE REST SHOULD TAKE CARE OF ITSELF
@@ -233,6 +234,7 @@ $shortDesc = (isset($LIn_sDesc))? $LIn_sDesc : $shortDesc ;
 $fullDesc = (isset($LIn_fDesc))? $LIn_fDesc : $fullDesc ;
 $sortDir = (isset($LIn_dir))? $LIn_dir : $sortDir ;
 if ($sortDir == '') $sortDir = ($sortBy == 'date')? 'DESC' : 'ASC' ;
+
 
 // Make useful variable shortcut for the content table
 //$tbl = $modx->dbConfig['dbase'] . "." . $modx->dbConfig['table_prefix'] . "site_content";
@@ -428,6 +430,7 @@ if ( ($mode == 'full') && ($recentLimit > $fullQty) && ($fullQty) ){
   $pagination = '<div class="LIn_pagination">'."\n".$pagination."\n</div>\n";
   
 }
+
 
 // ---------------------------------------------------
 // Create title if wanted

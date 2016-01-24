@@ -43,4 +43,5 @@ if(td_text.length > 13) {td_currency.html('<br>' + td_currency.text()); $this.cs
 
 </div>
 
+
 {{FOOTER}}

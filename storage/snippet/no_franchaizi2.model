@@ -33,6 +33,7 @@ return [
 </form>
 </div>
 
+
 </li>
 <li>
 заказать <a id="open_city_list" href="javascript:void(0);" onclick="show_city_list();">живые квесты из другого города</a>

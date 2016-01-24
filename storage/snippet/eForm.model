@@ -27,6 +27,7 @@ return [
 $snipFolder = isset($snipFolder)?$snipFolder:'eform';
 $snipPath = $modx->config["base_path"].'assets/snippets/'.$snipFolder.'/';
 
+
 # check if inside manager
 if ($modx->isBackend()) {
 return ''; # don't go any further when inside manager

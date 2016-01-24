@@ -36,6 +36,7 @@ if ($m = $modx->insideManager()) {
 	return ''; # don't go any further when inside manager
 }
 
+
 # Snippet customize settings
 $tpl		= isset($tpl)? $tpl:"";
 

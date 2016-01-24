@@ -66,6 +66,7 @@ return [
         <script type="text/javascript" src="/themes/questoria/js/plugins/validation/jquery.form-1.0.0.js"></script>
         <script type="text/javascript" src="/themes/questoria/js/bootstrap.min.js"></script>
 
+
     <script type="text/javascript" src="/themes/questoria/js/jquery.fancybox.pack.js?[[updateCssJsCache? filename=themes/questoria/js/jquery.fancybox.pack.js]]"></script>
 
     <script type="text/javascript" src="/themes/questoria/js/jquery.tooltipster.min.js"></script>
@@ -128,6 +129,8 @@ return [
         });
     </script>
 
+
+
 {{GoogleUniversalAnalyticsCode}}
 [!GooglePlus!]
  </head>
@@ -178,6 +181,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <div class="logo"><a href="[!sameHost!]"><img src="/themes/questoria/images/logo-7.png" alt="Квестория. Стань героем истории" itemprop="logo" /></a></div>
     <div class="city">
 
+
  <div id="utochnit">
 
                             <div id="utochnit_left">
@@ -187,7 +191,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
                            </div>
 
+
                 </div>
+
+
+
+
+
 
         <div style="float:left;margin-right:7px;height:36px;line-height:36px; wight:100px;">&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
         <noscript>
