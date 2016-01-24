@@ -4,7 +4,7 @@ return [
 'type' => 'textarea',
 'name' => 'introtext_en',
 'caption' => 'introtext_en',
-'description' => 'introtext (en)',
+'description' => 'introtext (en) _',
 'editor_type' => '0',
 'category' => '0',
 'locked' => '0',
