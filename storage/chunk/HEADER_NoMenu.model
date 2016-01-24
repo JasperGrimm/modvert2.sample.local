@@ -55,6 +55,7 @@ return [
         <!--[[combine? &k=1 &type=css &path=/themes/questoria/css &files='style.css,print.css,select-box.css,fancybox/jquery.fancybox.css,pepper-grinder/jquery-ui-1.8.16.custom.css,flipclock.css,landing.css,currency-icons.css,bootstrap/css/font-awesome.min.css,tooltipster.css']]
         [[combine? &k=2 &type=css &path=/themes/questoria &files='libs/grimm.slider/css/gslider.css,libs/grimm.slider/nailthumb/jquery.nailthumb.1.1.min.css']]-->
 
+
     <script type="text/javascript" src="/themes/questoria/js/jquery-1.7.1.min.js?ewff"></script>
     <script type="text/javascript" src="/themes/questoria/js/jquery-ui-1.8.16.custom.min.js"></script>
     <script type="text/javascript" src="/themes/questoria/js/jquery.ui.datepicker-ru.js"></script>
