@@ -12,6 +12,7 @@ return [
 'moduleguid' => ' ',
 ];
 */
+
 /*
 **	Получаем объект квестории
 */
@@ -22,6 +23,3 @@ $qst = Wave_Registry::get('Questoria');
 */
 $modx->setPlaceholder( 'basehost', $qst->get('base_host') );
 $modx->setPlaceholder( 'subdomain', $qst->get('subdomain') );
-
-
-?>

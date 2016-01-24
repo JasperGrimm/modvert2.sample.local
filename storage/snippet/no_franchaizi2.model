@@ -13,10 +13,11 @@ return [
 ];
 */
 
-  $city = \Application\Services\Facades\App::get('franchise')->getCityNameLoc();
+$city = \Application\Services\Facades\App::get('franchise')->getCityNameLoc();
 ?>
-<h2><?= $title; ?></h2>
-<p><b>Живые квесты в <?= $city; ?> временно не проводятся.</b></p>
+
+<h2><?= $title; </h2>
+<p><b>Живые квесты в <?= $city;  временно не проводятся.</b></p>
 <a href="/квестория/квестория-франшиза">Мы ищем нового партнера</a>. Вы можете:<br/>
 <ul class="no_franchaizi2">
 <li>
@@ -27,7 +28,7 @@ return [
 	</div>
 	<div>
 		<input type="hidden" name="subscribe" value="1" />
-		<span class="field"><input type="text" name="email" value="Ваш e-mail" class="text change-value" style="width:<?= $field_width; ?>" /></span>
+		<span class="field"><input type="text" name="email" value="Ваш e-mail" class="text change-value" style="width:<?= $field_width; " /></span>
 		<span class="button"><a  href="#" class="gray-button"><span>Подписаться на уведомление о возобновлении квестов</span></a></span>
 	</div>
 </form>
@@ -42,5 +43,3 @@ return [
 или даже <a href="/квестория/квестория-франшиза">стать нашим новым партнером</a>.
 </li>
 </ul>
-
-?>

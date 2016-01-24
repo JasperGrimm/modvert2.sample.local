@@ -1,0 +1,118 @@
+<?php
+/**
+return [
+'id' => '194',
+'type' => 'document',
+'contentType' => 'text/html',
+'pagetitle' => 'Живой квест «Ставки сделаны»',
+'longtitle' => '',
+'description' => '',
+'alias' => 'живой-квест-ставки-сделаны',
+'link_attributes' => '',
+'published' => '1',
+'parent' => '47',
+'isfolder' => '0',
+'template' => '11',
+'menuindex' => '33',
+'searchable' => '1',
+'cacheable' => '1',
+'deleted' => '0',
+'menutitle' => '',
+'donthit' => '0',
+'haskeywords' => '0',
+'hasmetatags' => '0',
+'privateweb' => '0',
+'privatemgr' => '0',
+'content_dispo' => '0',
+'hidemenu' => '0',
+];
+*/
+?>
+<div id="scenario_tabs" class="tabs-wrap">
+    
+<ul class="tabs-buttons">
+<li><a class="bajax" href="#"><span class="ajax">Список команд игры</span></a></li>
+<li><a class="bajax" href="#"><span class="ajax">Отзывы о данном сюжете</span></a></li>
+<li><a class="bajax" href="#"><span class="ajax">Фотографии</span></a></li>
+</ul>
+<div class="tabs-sheets">
+<div class="tabs-sheet">
+<div class="scenario_group">
+<br />
+<p><strong>Мэрия</strong><br />Группа отцов-основателей города. Стараются не забывать о нуждах простых горожан, но больше заботятся об укреплении своей власти в Пьермонте.</p>
+<p><strong>Милосердное братство</strong><br />Группировка, которая слишком много тратит на благотворительность. Однако они держат госпиталь, благодаря которому всё ещё на плаву.</p>
+<p><strong>Полиция</strong><br />Все понимают, что полиция – это ещё одна городская банда, только с форменной одеждой и офисом в центре города.</p>
+<p><strong>Адамс и Брукс</strong><br />Чайная Адамса и Склады Брукса сошлись в удивительном альянсе, венцом которого стал подпольный виски-клуб.</p>
+<p><strong>Итальянская семья</strong><br />Потомки гордой сицилийской мафии. Очень сильны и чертовски харизматичны!</p>
+<p><strong>Рулетенбург</strong><br />Владельцы игорного бизнеса – самая преуспевающая группировка в городе.  </p>
+<p><strong>Железнодорожники</strong><br />Всё время в тени. Живут себе потихоньку. Никому не мешают.</p>
+<p><strong>Читательский клуб</strong><br />Странная организация. В этом клубе собрались никак не любители высокой словестности. Чем они на самом деле занимаются?</p>
+<p><strong>«Вест-Кост»</strong><br />Представители крупной корпорации. В Пьермонте они пока люди новые, чего от них ждать – неизвестно.</p>
+<p><strong>«</strong><strong>Пьермонтс Булз</strong><strong>»</strong><br />Спортивная команда. Мускулистые ребята, склонные к простым и конкретным решениям.</p>
+<p><strong>Лига плюща</strong><br />Умники из колледжа. Кстати, одного из лучших во всех Штатах.</p>
+<p><strong>Золотая молодёжь</strong><br />Дети основателей города подросли и теперь тоже желают власти. </p>
+<p><strong>Похоронная контора</strong><br />Тихие, мрачные, неприметные люди. Но в этом городе они безусловно необходимы.</p>
+</div>
+</div>
+<div class="tabs-sheet">
+            Отзывы о сюжете [*pagetitle*]
+<p> </p>
+<div class="citate">
+<img class="fl" src="themes/questoria/images/ico_cite-white.gif" alt="" />
+<p class="justifyfull"><span>Шикарный квест! Море положительных эмоций! =) 
+Особенно понравилось, что это именно командный квест. Реально учишься работать в коллективе и взаимодействовать с людьми. =)) 
+</span></p>
+<div class="author"><a rel="nofollow" href="https://vk.com/dima3103" target="_blank">Дмитрий Бескровный</a>
+</div>
+</div>
+<p> </p>
+<div class="citate">
+<img class="fl" src="themes/questoria/images/ico_cite-white.gif" alt="" />
+<p class="justifyfull"><span>Отличная игра «Ставки сделаны» очень необычна тем, что играть надо командами. Возможность сыграть в азартные игры просто невероятно захватывает! Чувствуешь себя персонажем черно-белого кинофильма!!!
+</span></p>
+<div class="author"><a rel="nofollow" href="https://vk.com/id26846826" target="_blank">Татьяна Павлова</a>
+</div>
+</div>
+<p> </p>
+<div class="citate">
+<img class="fl" src="themes/questoria/images/ico_cite-white.gif" alt="" />
+<p class="justifyfull"><span>Пожалуй, самый необычный квест, в который мне посчастливилось сыграть. Атмосфера казино захватывает! Азарт и возможность побывать в Америке 30-ых годов, не выходя из зала, – волшебно!!! Игра на этот раз командная, что подогревает интерес и даёт десяток новых возможностей «закрутить» игру! Спасибо огромное за такую большую работу!
+</span></p>
+<div class="author"><a rel="nofollow" href="https://vk.com/elenakarelkina" target="_blank">Алёнка Тимофеева</a>
+</div>
+</div>
+<p> </p>
+<div class="citate">
+<img class="fl" src="themes/questoria/images/ico_cite-white.gif" alt="" />
+<p class="justifyfull"><span>«Ставки сделаны» – то, что однозначно стоит попробовать! Атмосфера, легенды, казино... масса эмоций и возможностей себя проявить. А наблюдать, как в процессе игры раскрываются окружающие люди просто превосходно!))) После игры ещё долго не можешь «отойти»... такого хорошего настроения за последнее время у меня ещё не было! Спасибо организаторам за такие интересные новинки!
+</span></p>
+<div class="author"><a rel="nofollow" href="https://vk.com/mewmla" target="_blank">Татьяна Полякова</a>
+</div>
+</div>
+<p> </p>
+<div class="citate">
+<img class="fl" src="themes/questoria/images/ico_cite-white.gif" alt="" />
+<p class="justifyfull"><span>Необычно и крайне интересно. Изначально, когда возможность посетить это мероприятие только намечалась, меня немного смущало время – старт должен был состояться в 12:00. Для меня, как человека активно пашущего всю рабочую неделю, утро субботы – святое, и в полдень я только начинаю открывать левый глаз, но вспоминая впечатления от своего первого знакомства с Квесторией, я не могла пропустить это мероприятие. Что меня подкупило, буквально «с порога» – это организация. Для участников были подобраны соответствующие теме игры аксессуары: милые шляпки и вуали для дам, и настоящие шляпы 30х гг. Америки – для джентельменов. Интересными мне показались правила, детальная проработка всех сюжетных линий, нестандартный подход к формату ролевой игры. Игра вышла очень живой: несмотря на то, что люди всего лишь по сути играли свои роли, в каждом был виден азарт. На самом деле, всё могло продолжаться весьма долго, поскольку к концу времени все были крайне увлечены процессом, и даже увещевания ведущего о том, что время подошло к концу, на некоторых не возымели действия, настолько их затянула игра. Затем оглашения итогов, радость победы (ура-ура, даже имея такого компаньона как я, моя команда выиграла), и ожидание снова увидеться с Квесторией. <br />И отдельное спасибо ведущим за то, что это мероприятие смогло состояться именно так;)
+</span></p>
+<div class="author"><a rel="nofollow" href="https://vk.com/cherryksu" target="_blank">Ксения Антонова</a>
+</div>
+</div>
+</div>
+<div class="tabs-sheet">
+        Фотографии сюжета [*pagetitle*]
+<br />
+<img title="Живой квест ставки сделаны" src="/assets/images/Pics_for_site/Beds are made/Stavki sdelani (2).jpg" alt="Ставки сделаны" width="340" height="226" />
+<img title="Живой квест ставки сделаны астрахань" src="/assets/images/Pics_for_site/Beds are made/Stavki sdelani (7).jpg" alt="ставки сделаны астрахань" width="340" height="227" />
+<img src="/assets/images/Pics_for_site/Beds are made/Stavki sdelani (8).jpg" alt="" width="340" height="227" />
+<img src="/assets/images/Pics_for_site/Beds are made/Stavki sdelani (4).jpg" alt="" width="340" height="227" />
+<img src="/assets/images/Pics_for_site/Beds are made/Stavki new.jpg" alt="" width="340" height="227" />
+<img src="/assets/images/Pics_for_site/Beds are made/Stavki new1.jpg" alt="" />
+<img src="/assets/images/Pics_for_site/Beds are made/Stavki sdelani (3).jpg" alt="" width="340" height="226" />
+<img src="/assets/images/Pics_for_site/Beds are made/Stavki sdelani (5).jpg" alt="" />
+<img src="/assets/images/Pics_for_site/Beds are made/Stavki sdelani (6).jpg" alt="" width="340" height="227" />
+<img src="/assets/images/Pics_for_site/Beds are made/Stavki sdelani (1).jpg" alt="" width="340" height="226" />
+<img src="/assets/images/Pics_for_site/Beds are made/Stavki new2.jpg" alt="" width="340" height="227" />
+<img src="/assets/images/Pics_for_site/Beds are made/Stavki new3.jpg" alt="" />
+</div>
+</div>
+</div>

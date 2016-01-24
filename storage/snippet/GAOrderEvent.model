@@ -12,6 +12,5 @@ return [
 'moduleguid' => '',
 ];
 */
-include 'Application/Snippets/GAOrderEvent.php';
 
-?>
+include 'Application/Snippets/GAOrderEvent.php';

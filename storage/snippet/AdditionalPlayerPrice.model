@@ -12,6 +12,7 @@ return [
 'moduleguid' => ' ',
 ];
 */
+
 $qst = Wave_Registry::get('Questoria');
 $city_id = $qst->geo->getCityId();
 $user = $qst->user->getActiveFranchisee( $city_id );
@@ -19,5 +20,3 @@ $user = $qst->user->getActiveFranchisee( $city_id );
 $price = $user->private_additional_user_price 	;
 
 echo $price .' '. $user->currency;
-
-?>

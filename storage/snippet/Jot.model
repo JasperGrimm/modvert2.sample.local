@@ -12,6 +12,7 @@ return [
 'moduleguid' => '',
 ];
 */
+
 /*####
 #
 # Author: Armand "bS" Pondman (apondman@zerobarrier.nl)
@@ -72,4 +73,3 @@ $Jot->Set("tplSubscribe", $tplSubscribe);
 $Jot->Set("debug", $debug);
 $Jot->Set("output", $output);
 return $Jot->Run();
-?>

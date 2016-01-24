@@ -12,8 +12,7 @@ return [
 'moduleguid' => ' ',
 ];
 */
+
 if (file_exists($filename)) {
      echo 'ver='.date ("dmYHis", filemtime($filename));
 }
-
-?>

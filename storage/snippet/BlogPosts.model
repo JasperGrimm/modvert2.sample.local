@@ -12,6 +12,5 @@ return [
 'moduleguid' => ' ',
 ];
 */
-include 'Application/Helper/BlogPosts.php';
 
-?>
+include 'Application/Helper/BlogPosts.php';

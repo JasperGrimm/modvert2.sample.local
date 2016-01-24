@@ -12,6 +12,5 @@ return [
 'moduleguid' => ' ',
 ];
 */
-include 'Application/View/ContactGallery.php';
 
-?>
+include 'Application/View/ContactGallery.php';

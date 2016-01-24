@@ -1,0 +1,60 @@
+<?php
+/**
+return [
+'id' => '223',
+'type' => 'document',
+'contentType' => 'text/html',
+'pagetitle' => 'Duplicate of Корпоратив',
+'longtitle' => 'Организация и проведение корпоратива в [[CityName? &declinatio=1]], сценарии сюжетных игр на корпоратив ',
+'description' => '',
+'alias' => '',
+'link_attributes' => '',
+'published' => '0',
+'parent' => '20',
+'isfolder' => '0',
+'template' => '10',
+'menuindex' => '2',
+'searchable' => '1',
+'cacheable' => '1',
+'deleted' => '1',
+'menutitle' => '',
+'donthit' => '0',
+'haskeywords' => '0',
+'hasmetatags' => '0',
+'privateweb' => '0',
+'privatemgr' => '0',
+'content_dispo' => '0',
+'hidemenu' => '0',
+];
+*/
+?>
+<h1 class="justifyfull">Проведение корпоратива в [!CityName? &amp;declinatio=6!]</h1>
+<p class="justifyfull"><img class="ifr" style="float: right; margin-left: 10px;" title="как организовать необычный корпоратив?" src="/assets/images/Pics_for_site/x_5e45e270.jpg" alt="проведение корпоратива" width="300" height="199" />Мы поможем организовать необычный корпоратив: <br />сюжетную игру на вашем празднике – <strong>живой квест</strong>.</p>
+<p class="justifyfull"><span>[!GoOrder2!]</span></p>
+<p class="justifyfull">{{WhatsQuest}}</p>
+<p class="justifyfull">Живые квесты помогут быстро познакомить коллектив и взглянуть по-новому друг на друга. Игры сочетаются с лёгким фуршетом, могут проходить в офисе, в кафе или на свежем воздухе – в любом случае это будет море эмоций и захватывающее приключение!</p>
+<h2 class="justifyfull">С нами играют:</h2>
+<p class="justifyfull"><img src="/assets/images/Pics_for_site/Logo corp/pg.jpg" alt="" width="95" height="45" /><img src="/assets/images/Pics_for_site/Logo corp/toyota.jpg" alt="" width="175" height="48" /><img src="/assets/images/Pics_for_site/Logo corp/rosneft.jpg" alt="" width="86" height="58" /><img src="/assets/images/Pics_for_site/Logo corp/unilever.jpg" alt="" width="54" height="60" /><img src="/assets/images/Pics_for_site/Logo corp/ernst.jpg" alt="" width="195" height="49" /><img src="/assets/images/Pics_for_site/Logo corp/i-free.jpg" alt="" width="118" height="48" /></p>
+<p class="justifyfull"><img src="/assets/images/Pics_for_site/Logo corp/vtb.jpg" alt="" width="140" height="47" /><img src="/assets/images/Pics_for_site/Logo corp/globallogic.jpg" alt="" width="148" height="49" /><img src="/assets/images/Pics_for_site/Logo corp/luxoft.jpg" alt="" width="164" height="48" /><img src="/assets/images/Pics_for_site/Logo corp/mail.jpg" alt="" width="134" height="48" /><img src="/assets/images/Pics_for_site/Logo corp/omsk1.jpg" alt="" width="126" height="48" /><img src="/assets/images/Pics_for_site/Logo corp/florist.jpg" alt="" width="122" height="51" /> <img src="/assets/images/Pics_for_site/Logo corp/epam.png" alt="" width="192" height="24" /><img src="/assets/images/Pics_for_site/Logo corp/green forest.gif" alt="" width="84" height="60" /> <img src="/assets/images/Pics_for_site/Logo corp/inkazan.jpg" alt="" width="119" height="48" /><img src="/assets/images/Pics_for_site/Logo corp/nestle_new.png" alt="" width="181" height="49" /></p>
+<div class="dark round block-2">
+<div class="citate"><img class="fl" src="/themes/questoria/images/ico_cite-white.gif" alt="" />
+<p class="justifyfull"><span style="color: #222222; font-family: arial,sans-serif; font-variant: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; font-size: 14px; line-height: 17px; text-align: justify; background-color: #f6f4ed;">Для разных команд </span><strong style="color: #222222; font-family: arial, sans-serif; font-variant: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; margin: 0px; padding: 0px; outline: none; font-size: 14px; font-style: italic; line-height: 17px; text-align: justify; background-color: #f6f4ed;">«Procter&amp;Gamble»</strong><span style="color: #222222; font-family: arial,sans-serif; font-variant: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; font-size: 14px; line-height: 17px; text-align: justify; background-color: #f6f4ed;"> мы заказывали живые квесты. Мероприятия прошли успешно! Удобно то, что квест можно организовать прямо в ресторане и перемежать ужином, закусками и другими элементами вечерней программы. Ещё один немаловажный элемент – это атрибуты костюмов, которые можно выдать заранее, и подготовка, нагнетающая обстановку квеста – всё это уже заранее создает интерес и интригу у участников, а значит, влияет на финальный успех. Интересный и необычный вариант тимбилдинга. С удовольствием рекомендую.</span></p>
+<div class="author"><strong>Варвара Лялягина,
+HR менеджер компании «Procter&amp;Gamble»</strong></div>
+</div>
+</div>
+<p>{{ScenariosWeOffer}}</p>
+<p class="justifyfull"><img class="ifr" style="float: right;" title="ковбойская игра на корпоратив" src="/assets/images/Pics_for_site/sweeeet_two.jpg" alt="игра на корпоратив" width="300" height="199" />{{HowGoesLiveQuest}}</p>
+<p>[!PLANS_MAIN? &amp;game_alias=corporate !]</p>
+<p>
+<a name="order"> </a>
+[!ifFranchaizi_korp? &amp;declinatio=6 &amp;type=corporative &amp;type=private_additional_user &amp;OrderType=[*OrderType*] &amp;ThankPage=[*ThankPage*] !]</p>
+<div class="dark round block-2">
+<div class="citate">
+<img class="fl" src="/themes/questoria/images/ico_cite-white.gif" alt="" />
+<p class="justifyfull"><span>Эмоции нас захлестнули и не отпускают уже 6-ой день. Почти все спорные вопросы мы теперь решаем посредством КНБ)
+Прекрасный способ укрепить команду и провести время с пользой. Погружение в альтернативную реальность прошло на ура! Спасибо! Будем играть ещё! <br />
+PS: Совсем забыла, мы теперь еще друг друга именами персонажей называем – приросли))</span></p>
+<div class="author"><strong>Наталья Попельнюх, координатор проектов «Global Logic - Харьков»</strong></div>
+</div>
+</div>

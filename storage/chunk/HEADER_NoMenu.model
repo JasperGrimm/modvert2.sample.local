@@ -1,0 +1,229 @@
+<?php
+/**
+return [
+'id' => '214',
+'name' => 'HEADER_NoMenu',
+'description' => '',
+'editor_type' => '0',
+'category' => '0',
+'cache_type' => '0',
+'locked' => '0',
+];
+*/
+?>
+[!SetQuestoriaPlaceholders!]
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns:fb="http://ogp.me/ns/fb#">
+<head>
+    [!GoogleExperimentCode!]
+    [!GAExperimentCorp!]
+        [!VideoABTestGACode!]
+    <meta http-equiv = "cache-control" content = "max-age=0">
+    <meta http-equiv = "cache-control" content = "no-cache">
+    <meta http-equiv = "expires" content = "0">
+    <meta http-equiv = "expires" content = "Tue, 01 Jan 1970 1:00:00 GMT">
+    <meta http-equiv = "pragma" content = "no-cache">
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="[!OG_Title!]" />
+    <meta property="og:description" content="[!OG_Description!]" />
+    <meta property="og:image" content="http://questoria.ru/themes/questoria/images/add_to_facebook.png" />
+    <meta property="og:video" content="http://questoria.ru/themes/questoria/images/add_to_facebook.png" />
+    <meta property="og:video:type" content="image" />
+    <meta property="og:url" content="[!GetCurrentUrl!]" />
+    <title>[!MetaTitle!] | [(site_name)]</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    [!getMetaTegs!]
+    <meta name="keywords" content=" [*meta_keywords*]" />
+    <meta name="description" content ="[*meta_desc*]"/>
+    <meta name="robots" content="noindex, nofollow" />
+    <link href=”http://questoria.ru/favicon.ico” type=”image/x-icon” rel=”icon” />
+        <link href=”http://questoria.ru/favicon.ico” type=”image/x-icon” rel=”shortcut icon” />
+        <base href="/" />
+        <link rel="shortcut icon" href="favicon.ico">
+         <link rel="stylesheet" type="text/css" href="/themes/questoria/css/style.css?[[updateCssJsCache? filename=themes/questoria/css/style.css]]" />
+        <link rel="stylesheet" type="text/css" href="/themes/questoria/css/print.css?[[updateCssJsCache? filename=themes/questoria/css/print.css]]" media="print" />
+    <link rel="stylesheet" type="text/css" href="/themes/questoria/css/select-box.css" />
+    <link rel="stylesheet" type="text/css" href="/themes/questoria/css/fancybox/jquery.fancybox.css" />
+    <link rel="stylesheet" type="text/css" href="/themes/questoria/css/pepper-grinder/jquery-ui-1.8.16.custom.css" />
+
+    <link href="/themes/questoria/css/bootstrap/css/bootstrap-tabs.css" rel="stylesheet" />
+    <link rel="stylesheet" type="text/css" href="/themes/questoria/css/tooltipster.css" />
+    <noscript>
+        <link rel="stylesheet" type="text/css" href="/themes/questoria/css/noscript.css?[[updateCssJsCache? filename=themes/questoria/css/noscript.css]]" />
+    </noscript>
+        <link href="/themes/questoria/css/bootstrap/css/font-awesome.min.css" rel="stylesheet" />
+        <!--[[combine? &k=1 &type=css &path=/themes/questoria/css &files='style.css,print.css,select-box.css,fancybox/jquery.fancybox.css,pepper-grinder/jquery-ui-1.8.16.custom.css,flipclock.css,landing.css,currency-icons.css,bootstrap/css/font-awesome.min.css,tooltipster.css']]
+        [[combine? &k=2 &type=css &path=/themes/questoria &files='libs/grimm.slider/css/gslider.css,libs/grimm.slider/nailthumb/jquery.nailthumb.1.1.min.css']]-->
+
+
+    <script type="text/javascript" src="/themes/questoria/js/jquery-1.7.1.min.js?ewff"></script>
+    <script type="text/javascript" src="/themes/questoria/js/jquery-ui-1.8.16.custom.min.js"></script>
+    <script type="text/javascript" src="/themes/questoria/js/jquery.ui.datepicker-ru.js"></script>
+    <script type="text/javascript" src="/themes/questoria/js/jquery.selectBox.min.js"></script>
+    <script type="text/javascript" src="/themes/questoria/js/jquery.scrollTo-1.4.2-min.js"></script>
+
+    <script type="text/javascript" src="/themes/questoria/js/jquery.grayscale.js"></script>
+    <script type="text/javascript" src="/themes/questoria/js/jquery.form.js"></script>
+        <script type="text/javascript" src="/themes/questoria/js/plugins/validation/jquery.form-1.0.0.js"></script>
+        <script type="text/javascript" src="/themes/questoria/js/bootstrap.min.js"></script>
+
+
+    <script type="text/javascript" src="/themes/questoria/js/jquery.fancybox.pack.js?[[updateCssJsCache? filename=themes/questoria/js/jquery.fancybox.pack.js]]"></script>
+
+    <script type="text/javascript" src="/themes/questoria/js/jquery.tooltipster.min.js"></script>
+    <script type="text/javascript" src="/themes/questoria/js/plugins/jsrender.min.js"></script>
+    <script type="text/javascript" src="/themes/questoria/js/plugins/wselect.js?[[updateCssJsCache? filename=themes/questoria/js/plugins/wselect.js]]"></script>
+        <script type="text/javascript" src="/themes/questoria/js/jasper.priceBlock.js?[[updateCssJsCache? filename=themes/questoria/js/jasper.priceBlock.js]]"></script>
+    <script type="text/javascript" src="/themes/questoria/js/functions.js?[[updateCssJsCache? filename=themes/questoria/js/functions.js]]"></script>
+<script type="text/javascript" src="/themes/questoria/js/callback.js"></script>
+    <!-- Other Scripts -->
+    
+<script type="text/javascript">
+        var VK_loader = function() { // загрузчик, который вызывается по событию DOMContentLoaded и добавляет тег script 
+           var oHead = document.getElementsByTagName("head")[0];
+           var oScript= document.createElement("script");
+           oScript.type = "text/javascript";
+           oScript.src="http://userapi.com/js/api/openapi.js?56";
+           oHead.appendChild(oScript);
+
+           shScript = document.createElement('script');
+           shScript.type = "text/javascript";
+           shScript.src = "http://userapi.com/js/api/share.js?11";
+           oHead.appendChild(shScript);       
+           document.onVKLoaded = function(){};
+           oScript.onload = function() { // а это обработчик, который вызывается тогда, когда скрипт ВКонтакте уже загрузился
+             VK.init({apiId: 2697952, onlyWidgets: true});
+             document.onVKLoaded();
+           }
+        };
+        if ( document.addEventListener ) { // вешаем событие для обычных броузеров
+            document.addEventListener("DOMContentLoaded", function(){ 
+    // когда событие происходит, удаляем обработчик и вызываем загрузчик
+                document.removeEventListener("DOMContentLoaded", arguments.callee, false); 
+                VK_loader();
+            }, false );
+       } else if ( document.attachEvent ) { 
+            // вешаем событие для IE. Он (до 9 версии) не поддерживает DOMContentLoaded, вместо этого используем событие readystatechange
+            document.attachEvent("onreadystatechange", function(){
+                if ( document.readyState === "complete" ) {
+                    document.detachEvent( "onreadystatechange", arguments.callee );
+                    VK_loader();
+                }
+            });
+       }
+
+    </script>
+    
+    <script type="text/javascript">
+        var qst = {
+            url : {
+                cooperation : '[~76~]'
+            }
+        };
+    </script>
+
+    <script type="text/javascript">
+        $().ready(function(){
+            setTimeout(function(){
+                check_event(0,'','');
+            },3000);
+        });
+    </script>
+
+
+
+{{GoogleUniversalAnalyticsCode}}
+[!GooglePlus!]
+ </head>
+<body>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NP47ZM"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NP47ZM');</script>
+<!-- End Google Tag Manager -->
+<div id="bg">
+<div class="no-fran"></div>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id; js.async = true;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+[!VK_RTRG!]
+{{YandexMetrikaCounter}}
+
+<!-- Header -->
+<div id="head" class="wrap" itemscope itemtype="http://schema.org/Place">
+    <div class="hide">
+        <span itemprop="name">Questoria</span>
+        <span itemprop="url">[!sameHost!]</span>
+                <span itemprop="address">[!sameHost!]</span>
+    </div>
+    <div class="social">
+        <a href="http://vk.com/questoria" rel="nofollow" class="vk">ВКонтакте</a>
+        <a href="http://facebook.com/questoria" rel="nofollow" class="fb">Facebook</a>
+                <a href="http://odnoklassniki.ru/questoria" class="ok" rel="nofollow">Одноклассники</a>
+        <!--a href="/rss" class="rs">RSS</a-->
+    </div>
+    <div class="seostr"><span id="topstring">[*TopSeoString*][*TopSeoStringHome*]</span><noscript>
+<style type="text/css">#topstring{display:none;}</style>
+&nbsp;&nbsp;&nbsp;<span style="color:#FFFF00;">В вашем браузере выключен JavaScript. Сайт может работать неверно.</span></noscript></div>
+    <div class="phone">
+ <div class="callback"><a href="#" class="ajax dialog-control order_call" data-target="#dialog_callback">Заказать обратный звонок</a></div>
+        <span itemprop="telephone">[!PhoneNumber? &phone=1!]</span><br/>
+        <a href="[!sameHost!][~28~]" class="readmore-1">контакты</a>
+    </div>
+    <div class="logo"><a href="[!sameHost!]"><img src="/themes/questoria/images/logo-7.png" alt="Квестория. Стань героем истории" itemprop="logo" /></a></div>
+    <div class="city">
+
+
+ <div id="utochnit">
+
+                            <div id="utochnit_left">
+                                     <div id="utochnit_right"></div>
+                                     Вы в <span></span>? <input class="utochnit_button_yes" onClick="utochnit_yes();" type="button" value="Да" /> &nbsp;
+                                      <input class="utochnit_button_no" onClick="utochnit_no();" type="button" value="Нет" />&nbsp;
+
+                           </div>
+
+
+                </div>
+
+
+
+
+
+
+        <div style="float:left;margin-right:7px;height:36px;line-height:36px; wight:100px;">&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
+        <noscript>
+                      <form action="jump_city.php">
+                </noscript>
+                <select id="head_city" name="city_select">
+            [!CreateCityOptions? other=1&declinatio=6 !]
+        </select>
+        <div class="wvSelect">
+            <div class="wvSelect_Dropdown">
+
+                [!CreateCityLinks? other=1&declinatio=6 !]
+            </div>
+            <a href="#" class="wvSelect_Control"><span></span></a>
+        </div>
+               <noscript>
+                        <input type="submit" value="Перейти" />
+                      </form>
+                </noscript>
+
+    </div>
+    <div class="clear">&nbsp;</div>
+    <div class="decrow-1">&nbsp;</div>
+</div>
+
+<!--/ Header /-->
+
+<!-- Content -->

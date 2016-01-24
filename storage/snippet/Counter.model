@@ -12,6 +12,5 @@ return [
 'moduleguid' => ' ',
 ];
 */
-include 'Application/View/Counter.php';
 
-?>
+include 'Application/View/Counter.php';

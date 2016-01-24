@@ -12,6 +12,7 @@ return [
 'moduleguid' => ' ',
 ];
 */
+
 $type = isset( $type ) ? $type : 'default';
 $type = $type . '_price';
 
@@ -28,4 +29,3 @@ if($type == 'corporative_price' && $modx->documentIdentifier == 57)
 $price =  round($user->$type * $coef);
 $price = number_format ( floatval($price) , null, null, ' ');
 echo $price . ' ' . $user->currency;
-?>

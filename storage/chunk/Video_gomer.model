@@ -1,0 +1,16 @@
+<?php
+/**
+return [
+'id' => '116',
+'name' => 'Video-gomer',
+'description' => 'верстка с видео',
+'editor_type' => '0',
+'category' => '11',
+'cache_type' => '0',
+'locked' => '0',
+];
+*/
+?>
+<div class="video">
+<iframe src="//player.vimeo.com/video/105101404" width="730" height="410" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>

@@ -16,10 +16,6 @@
     "minimum-stability": "dev",
     "repositories": [
       {
-        "type": "vcs",
-        "url": "../modvert2"
-      },
-      {
         "type": "package",
         "package": {
           "name": "noodlehaus/config",

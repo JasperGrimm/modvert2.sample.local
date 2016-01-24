@@ -19,5 +19,3 @@ if (!$franchise || !$franchise->getCompany() || !$franchise->getCompany()->isAct
 {
    $modx->sendRedirect('/расписание-живых-квестов');
 }
-
-?>

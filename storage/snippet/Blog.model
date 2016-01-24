@@ -20,5 +20,3 @@ if (is_object($franchise))
   $city_id = $franchise->getId();
   $qst->blog->Execute( $city_id );
 }
-
-?>

@@ -12,6 +12,7 @@ return [
 'moduleguid' => '',
 ];
 */
+
 /*
 ::::::::::::::::::::::::::::::::::::::::
  Snippet name: Wayfinder
@@ -115,4 +116,3 @@ if ($wf->_config['ph']) {
 } else {
     return $output;
 }
-?>

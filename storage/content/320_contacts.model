@@ -1,0 +1,30 @@
+<?php
+/**
+return [
+'id' => '320',
+'type' => 'document',
+'contentType' => 'text/html',
+'pagetitle' => 'Contacts',
+'longtitle' => '',
+'description' => '',
+'alias' => 'contacts',
+'link_attributes' => '',
+'published' => '1',
+'parent' => '264',
+'isfolder' => '0',
+'template' => '0',
+'menuindex' => '0',
+'searchable' => '1',
+'cacheable' => '1',
+'deleted' => '0',
+'menutitle' => '',
+'donthit' => '0',
+'haskeywords' => '0',
+'hasmetatags' => '0',
+'privateweb' => '0',
+'privatemgr' => '0',
+'content_dispo' => '0',
+'hidemenu' => '0',
+];
+*/
+?>

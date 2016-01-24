@@ -12,6 +12,7 @@ return [
 'moduleguid' => ' ',
 ];
 */
+
 /**
     * 
     */
@@ -115,5 +116,3 @@ echo '<script>
                 $(".landing-feed-thumb > .nailthumb-container").nailthumb({width:160, height:160, title:"", titleClass:"hidden", fitDirection: "center top"});
         });
 </script>';
-
-?>

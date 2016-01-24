@@ -15,5 +15,3 @@ return [
 
 $m = isset($m)?$m:'';
 echo tr($m);
-
-?>

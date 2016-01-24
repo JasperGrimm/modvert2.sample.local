@@ -19,7 +19,7 @@ if( !$video ){}
 else
 {
    if (1 == $video) {
-?>
+
 <div class="wave-white-biege"></div>
 <div class="section what-is-quests">
     <div class="wrap">
@@ -33,7 +33,7 @@ else
 <div class="wave-biege-brown"></div>
 <?php
    } else {
-?>
+
 <div class="wave-white-biege"></div>
 <div class="section what-is-quests">
     <div class="wrap">
@@ -48,5 +48,3 @@ else
 <?php
    }
 }
-
-?>

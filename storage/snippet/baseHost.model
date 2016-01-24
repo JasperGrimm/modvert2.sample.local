@@ -12,7 +12,5 @@ return [
 'moduleguid' => ' ',
 ];
 */
+
 include 'Application/Snippets/Dumped/baseHost.php';
-
-
-?>

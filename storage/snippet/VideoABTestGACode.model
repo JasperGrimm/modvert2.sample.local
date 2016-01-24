@@ -12,9 +12,10 @@ return [
 'moduleguid' => '',
 ];
 */
+
 $site_url = $modx->config['site_url'];
 preg_match('/https?:\/\/(moscow)/', $site_url, $m);
-if ( (1 == $modx->documentIdentifier) && count($m) ){ ?>
+if ( (1 == $modx->documentIdentifier) && count($m) ){ 
 <!-- Google Analytics Content Experiment code -->
 <script>function utmx_section(){}function utmx(){}(function(){var
 k='24896688-17',d=document,l=d.location,c=d.cookie;
@@ -30,4 +31,3 @@ valueOf()+(h?'&utmxhash='+escape(h.substr(1)):'')+
 </script><script>utmx('url','A/B');</script>
 <!-- End of Google Analytics Content Experiment code -->
 <?php }
-?>

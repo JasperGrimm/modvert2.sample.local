@@ -12,6 +12,7 @@ return [
 'moduleguid' => ' ',
 ];
 */
+
 /*
 **	Сниппет формы комментариев
 */
@@ -22,5 +23,3 @@ return [
 include 'Application/View/CommentForm_VK_IFrame.php';
 
 //
-
-?>

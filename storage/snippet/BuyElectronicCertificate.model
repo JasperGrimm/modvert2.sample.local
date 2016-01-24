@@ -12,6 +12,5 @@ return [
 'moduleguid' => ' ',
 ];
 */
-include 'Application/Controller/BuyECertificate.php';
 
-?>
+include 'Application/Controller/BuyECertificate.php';

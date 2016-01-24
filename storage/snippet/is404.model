@@ -49,5 +49,3 @@ if (strpos($requestUri, '404') === false)
     exit;
   }
 }
-
-?>

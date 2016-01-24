@@ -12,5 +12,5 @@ return [
 'moduleguid' => '',
 ];
 */
+
 include_once 'Application/Snippets/CreateRegionOptions.php';
-?>

@@ -12,6 +12,7 @@ return [
 'moduleguid' => ' ',
 ];
 */
+
 /****
 Принимает данные формы заказа игры закрытой страницы
 @params $closed_price  - (true, false) - возвращает цену закрытой игры
@@ -30,5 +31,3 @@ $qst = Wave_Registry::get('Questoria');
 $info = $qst->user->getActiveFranchisee($qst->geo->getCityId());
 echo $info->private_price .' '. $info->currency;
 }
-
-?>

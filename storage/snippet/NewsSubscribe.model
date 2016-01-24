@@ -12,6 +12,5 @@ return [
 'moduleguid' => ' ',
 ];
 */
-include 'Application/Controller/Subscribe.php';
 
-?>
+include 'Application/Controller/Subscribe.php';

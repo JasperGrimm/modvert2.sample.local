@@ -13,4 +13,9 @@ return [
 'display' => '',
 'display_params' => '',
 'default_text' => '',
+'templates' => [
+
+],
+'content_values' => [
+],
 ];

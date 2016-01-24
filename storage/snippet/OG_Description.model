@@ -12,6 +12,7 @@ return [
 'moduleguid' => ' ',
 ];
 */
+
 $descr = '';
 
 $page_id = $modx->documentIdentifier;
@@ -22,5 +23,3 @@ if( $page_id == 16 )
 }
 
 echo $descr;
-
-?>

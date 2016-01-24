@@ -12,6 +12,7 @@ return [
 'moduleguid' => ' ',
 ];
 */
+
 /** [!Scenarios? &show_all_links=0 &button_link=[~53~] &button_text =Сыграть &show_not_available_scenarios = 0!]
 * show_all_links - делать ли ссылками картинку квеста и название квеста
 * button_link - ссылка на которую должна вести кнопка
@@ -32,4 +33,3 @@ $show_more_text = isset( $show_more_text ) ? $show_more_text : 1;
 $landing_page = isset( $landing_page) ? $landing_page : 0;
 $show_not_available_scenarios = isset( $show_not_available_scenarios ) ? $show_not_available_scenarios : 1;
 include 'Application/Helper/Scenarios.php';
-?>

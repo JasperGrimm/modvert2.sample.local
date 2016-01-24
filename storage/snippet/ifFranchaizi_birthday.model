@@ -12,5 +12,5 @@ return [
 'moduleguid' => ' ',
 ];
 */
+
 include 'Application/Snippets/Dumped/ifFranchaizi_birthday.php';
-?>

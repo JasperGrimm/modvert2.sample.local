@@ -1,0 +1,93 @@
+<?php
+/**
+return [
+'id' => '26',
+'templatename' => 'R-Landing-Page',
+'description' => '',
+'editor_type' => '0',
+'category' => '19',
+'icon' => '',
+'template_type' => '0',
+'locked' => '0',
+];
+*/
+?>
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE">
+    <title>LP</title>
+    <link rel="stylesheet" href="/themes/questoria/mobile-version/css/mobile.css">
+    <link rel="stylesheet" href="/themes/questoria/mobile-version/css/date-box.css">
+    <link rel="stylesheet" href="/themes/questoria/mobile-version/css/style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquerymobile/1.4.5/jquery.mobile.min.js"></script>
+  </head>
+
+  <body>
+    <div class="container">
+      <div id="top_line">Есть вопросы? Звоните:<span class="bold">+7 906 822 94 90</span></div>
+      <div id="logo"><a id="logo_img" href="/" title="Домашняя страница"></a><a id="select_sity" href="" title="Выбрать город">
+          <div class="icon-1"></div></a></div>
+      <!-- Блок выбора города -->
+			<!-- будет генерироваться динамически из json в зависимости от разрешения экрана -->
+      <!-- /Блок выбора города -->
+      <div id="content">
+        <div class="block_text">
+          <div id="grad"></div>
+          <div class="block_text_content">
+          	<!-- Page title with image -->
+[*content*]
+          	<!-- /Page title with image -->
+          </div>
+        </div>
+        <div class="block_video">
+          <div class="wave-white"></div>
+          <div class="block_text_content">
+            <h1>Что такое живые квесты?</h1>
+            <div id="video"><iframe src="https://player.vimeo.com/video/105101404" id="video_iframe" width="100%" height="auto" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+            <p class="ta_c">Никогда не поступайте как Гомер :)</p>
+          </div>
+          <div class="wave-brown"></div>
+        </div>
+        <div id="six-reasons">
+          <div class="block_text_content">
+            <ul class="check-list">
+              <li>Удивите гостей новым, необычным праздником — ваш день рождения точно запомнят!</li>
+              <li>Вы не просто весело и интересно проведете время — игра открывает друзей с новой неожиданной стороны</li>
+              <li>Живой квест — это отличный способ познакомить людей из разных кругов общения, людей постарше и помладше</li>
+              <li>Благодаря индивидуальному подбору ролей вы сможете вовлечь в игру и тихих, и активных людей</li>
+              <li>Живой квест — это полностью готовый праздник. Вам не придется придумывать все самим</li>
+              <li>Вы не ограничены местом организации праздника: игру можно устроить дома, в кафе или на природе</li>
+            </ul>
+          </div>
+        </div>
+        <div id="scenaries">
+          <div class="block_text_content">
+            <h1>Какие сюжеты мы предлагаем?</h1>
+            <!-- Слайдер -->
+			<!-- будет генерироваться динамически из json в зависимости от разрешения экрана -->
+            <!-- /Слайдер -->
+          </div>
+        </div>
+
+        <div id="order">
+          <div class="block_text_content" id="order_form_main">
+
+            <p class="bold">Оставьте заявку</p>
+[!ifFranchaizi_mobile? &declinatio=6 &type=private &type=private_additional_user &OrderType=[*OrderType*] &ThankPage=[*ThankPage*] !]
+
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+    <script src="/themes/questoria/mobile-version/js/mobile-date-box.js"></script>
+    <script src="/themes/questoria/mobile-version/js/index.js"></script>
+
+  </body>
+</html>

@@ -12,6 +12,5 @@ return [
 'moduleguid' => ' ',
 ];
 */
-include 'Application/Controller/ContactForm.php';
 
-?>
+include 'Application/Controller/ContactForm.php';

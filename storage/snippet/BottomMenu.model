@@ -12,6 +12,5 @@ return [
 'moduleguid' => ' ',
 ];
 */
-include 'Application/Helper/BottomMenu.php';
 
-?>
+include 'Application/Helper/BottomMenu.php';

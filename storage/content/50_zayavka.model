@@ -1,0 +1,33 @@
+<?php
+/**
+return [
+'id' => '50',
+'type' => 'document',
+'contentType' => 'text/html',
+'pagetitle' => 'Заявка на игру',
+'longtitle' => '',
+'description' => '',
+'alias' => 'заявка',
+'link_attributes' => '',
+'published' => '1',
+'parent' => '0',
+'isfolder' => '0',
+'template' => '16',
+'menuindex' => '14',
+'searchable' => '1',
+'cacheable' => '1',
+'deleted' => '0',
+'menutitle' => '',
+'donthit' => '0',
+'haskeywords' => '0',
+'hasmetatags' => '0',
+'privateweb' => '0',
+'privatemgr' => '0',
+'content_dispo' => '0',
+'hidemenu' => '0',
+];
+*/
+?>
+<div>[!OrderQuestTitle!]</div>
+<div>[!OrderQuest? &amp;type_id=1 &amp;thank_page_id=[*City*]!]</div>
+<div>[!YandexCounter_TargetScript? &amp;target=PublicGame_OrderForm!]</div>

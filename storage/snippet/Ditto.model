@@ -12,6 +12,7 @@ return [
 'moduleguid' => '',
 ];
 */
+
 /* Description:
  *      Aggregates documents to create blogs, article/news
  *      collections, and more,with full support for templating.
@@ -1091,4 +1092,3 @@ if ($debug == 1) {
 }
 
 return ($save != 3) ? $output : "";
-?>

@@ -1,0 +1,56 @@
+<?php
+/**
+return [
+'id' => '1107',
+'type' => 'document',
+'contentType' => 'text/html',
+'pagetitle' => 'Что такое мини-квестории',
+'longtitle' => 'Что такое мини-квестории',
+'description' => '',
+'alias' => 'what-mini-questories-are',
+'link_attributes' => '',
+'published' => '1',
+'parent' => '1067',
+'isfolder' => '0',
+'template' => '8',
+'menuindex' => '1',
+'searchable' => '1',
+'cacheable' => '1',
+'deleted' => '0',
+'menutitle' => '',
+'donthit' => '0',
+'haskeywords' => '0',
+'hasmetatags' => '0',
+'privateweb' => '0',
+'privatemgr' => '0',
+'content_dispo' => '0',
+'hidemenu' => '0',
+];
+*/
+?>
+<div style="line-height: 1.5em;">
+<h1>Что такое мини-квестории?</h1>
+<p class="justifyfull"><span style="line-height: 1.5em;"><span id="docs-internal-guid-5ff0c256-dee4-092c-8942-dc67100404b4"><span>Некоторые сценарии на нашем сайте относятся к квесториям, а некоторые — к мини-квесториям. Давайте разберемся: в чём же разница между этими форматами?</span></span></span></p>
+<p class="justifyfull"><span id="docs-internal-guid-5ff0c256-dee7-6e50-0e5c-0e35b89cb934"><span><img style="margin: 0 0 15px 15px; float: right;" title="Игра в квесторию Бегство через Атлантику" src="/assets/images/content/cR2vEuN2AKs.jpg" alt="Игра в квесторию Бегство через Атлантику" width="300" height="200" />Например, «</span><a href="http://questoria.ru/о-живых-квестах/сценарии-игр/живой-квест-бегство-через-атлантику"><span>Бегство через Атлантику</span></a><span>» — это квестория. В ней участвует от 8 до 19 человек, участники перемещаются по всему помещению игры, например по кафе или по вашей квартире =) Во время игры можно тихонько с кем-то пошептаться в уголке, сговориться, или даже пырнуть кинжалом :)</span></span></p>
+<p class="justifyfull"><span><span><span id="docs-internal-guid-5ff0c256-deeb-c2e9-f167-c8f1267ff789"><span>В квестории есть полезные предметы, которые можно использовать: яд, оружие, секретные документы — они создают широкое поле для взаимодействия. У каждого участника квестории личные цели, поэтому игра занимает три часа.</span></span></span></span></p>
+<p class="justifyfull"><span><span><span><span><span id="docs-internal-guid-5ff0c256-deec-bdbc-bd6a-82c0a7e29c5a"><span><img style="float: left; margin: 0 15px 15px 0;" title="Игра в мини-квесторию Неизвестная планета" src="/assets/images/content/j4U0QEwWEac.jpg" alt="Игра в мини-квесторию Неизвестная планета" width="300" height="200" />Другой пример: «</span><a href="http://questoria.ru/о-живых-квестах/сценарии-игр/мини-квест-неизвестная-планета"><span>Неизвестная планета</span></a><span>» — это мини-квестория. В ней участники сидят за одним столом и решают одну общую задачу сообща (ну почти сообща ;)). Тайные переговоры запрещены. Здесь соль именно в обсуждении — в умении складывать кусочки информации в единую картину, блефовать или выводить других на чистую воду.</span></span></span></span></span></span></p>
+<p class="justifyfull"><span><span><span><span><span><span><span id="docs-internal-guid-5ff0c256-deed-a018-2b00-b858b551a4f8"><span>Общей целью игроков мини-квестории может быть раскрытие убийства, к которому каждый участник имеет прямое или косвенное отношение. Мини-квестории более сконцентрированы на групповых обсуждениях. Если времени на игру у вас не очень много, то мини-квестория для вас — идеальный вариант, ведь длится она всего час‑полтора.</span></span></span></span></span></span></span></span></p>
+<p class="justifyfull"><span><span><span><span><span><span><span><span><span id="docs-internal-guid-5ff0c256-deed-d2f7-1f2f-56a84234c447"><span>Какой формат придется больше по душе именно вам предсказать не беремся :) Обязательно стоит попробовать и квестории, и мини-квестории. Это как в кино: есть захватывающие короткометражки, а есть потрясающие эпопеи вроде «Властелина колец» или «Звездных войн». И то и другое заслуживает внимания.</span></span></span></span></span></span></span></span></span></span></p>
+<p style="text-align: center;"><span><span><span><span><span><span><span><span><span><span><img title="Какой формат выберете вы?" src="/assets/images/content/FY2y1A7HY0A.jpg" alt="Какой формат выберете вы?" width="500" height="333" /><br /></span></span></span></span></span></span></span></span></span></span></p>
+<p><span><span><span><span><span><span><span><span><span><span><span id="docs-internal-guid-5ff0c256-deed-e9a7-5c10-b6f6effb0702"><span>Хотите узнать, к какому формату относится та или иная игра? Ответ вы найдете на </span><a href="/о-живых-квестах/сценарии-игр"><span>странице с описанием всех сценариев</span></a><span>.</span></span> <br /></span></span></span></span></span></span></span></span></span></span></p>
+<div class="clear"> </div>
+<p style="text-align: center;"><strong style="font-size: 18px;">Выберите игру по вкусу и оставьте заявку!</strong></p>
+<p class="justifyfull"><strong><img style="display: block; margin-left: auto; margin-right: auto;" src="http://www.questoria.ru/data/strelka.jpg" alt="" /><br /></strong></p>
+<div class="clear"> </div>
+<div class="columns-3">
+<div class="column column-1">
+{{CardOpenGame}}
+</div>
+<div class="column column-2">
+{{CardDR}}
+</div>
+<div class="column column-3">
+{{CardCorporative}}</div>
+</div>
+<p> </p>
+</div>

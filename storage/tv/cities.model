@@ -13,4 +13,10 @@ return [
 'display' => '',
 'display_params' => '',
 'default_text' => '',
+'templates' => [
+19
+],
+'content_values' => [
+'195' => '47',
+],
 ];

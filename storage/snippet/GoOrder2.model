@@ -12,10 +12,9 @@ return [
 'moduleguid' => ' ',
 ];
 */
-?>
+
+
 <p id="button_analit" class="fr red_button_new"><a href="#plans" class="red-button"><span>Цены и контакты</span></a></p>
 <?php
 
-?>
 <?php
-?>

@@ -12,6 +12,7 @@ return [
 'moduleguid' => '',
 ];
 */
+
 # Created By Raymond Irving 2004
 #::::::::::::::::::::::::::::::::::::::::
 # Params:	
@@ -101,5 +102,3 @@ include_once $snipPath."weblogin/weblogin.inc.php";
 
 # Return
 return $output;
-
-?>

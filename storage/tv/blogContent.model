@@ -13,4 +13,9 @@ return [
 'display' => '',
 'display_params' => '&w=383px&h=450px&edt=TinyMCE',
 'default_text' => '',
+'templates' => [
+6
+],
+'content_values' => [
+],
 ];

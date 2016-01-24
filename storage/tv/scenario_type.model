@@ -13,4 +13,9 @@ return [
 'display' => '',
 'display_params' => '',
 'default_text' => '@EVAL $scenario_types = array(1 => \'Живой квест\', 2 => \'Мини-квест\', 3 => \'Детская игра\'); $qst=Wave_Registry::get(\'Questoria\');return $scenario_types[$qst->scenario->type];',
+'templates' => [
+11
+],
+'content_values' => [
+],
 ];

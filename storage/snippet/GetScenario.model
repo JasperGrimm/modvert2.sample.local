@@ -12,6 +12,5 @@ return [
 'moduleguid' => ' ',
 ];
 */
-include 'Application/Helper/GetScenario.php';
 
-?>
+include 'Application/Helper/GetScenario.php';

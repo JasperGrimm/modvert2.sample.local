@@ -1,0 +1,31 @@
+<?php
+/**
+return [
+'id' => '1172',
+'type' => 'document',
+'contentType' => 'text/html',
+'pagetitle' => 'На выпускной',
+'longtitle' => 'Спасибо за заявку',
+'description' => '',
+'alias' => 'на-выпускной',
+'link_attributes' => '',
+'published' => '1',
+'parent' => '1146',
+'isfolder' => '0',
+'template' => '8',
+'menuindex' => '23',
+'searchable' => '1',
+'cacheable' => '1',
+'deleted' => '0',
+'menutitle' => '',
+'donthit' => '0',
+'haskeywords' => '0',
+'hasmetatags' => '0',
+'privateweb' => '0',
+'privatemgr' => '0',
+'content_dispo' => '0',
+'hidemenu' => '0',
+];
+*/
+?>
+<div>{{ThankPagePrazdnik}} {{ThankPagePrazdnikEnd}}</div>

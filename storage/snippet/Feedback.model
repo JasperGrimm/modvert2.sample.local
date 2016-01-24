@@ -12,6 +12,5 @@ return [
 'moduleguid' => ' ',
 ];
 */
-include 'Application/Helper/Feedback.php';
 
-?>
+include 'Application/Helper/Feedback.php';
