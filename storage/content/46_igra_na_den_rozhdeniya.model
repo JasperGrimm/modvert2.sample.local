@@ -1,0 +1,94 @@
+<?php
+/**
+return [
+'id' => '46',
+'type' => 'document',
+'contentType' => 'text/html',
+'pagetitle' => 'День рождения',
+'longtitle' => 'Игра на день рождения в [[CityName? &declinatio=1]]. Ролевые интеллектуальные игры на день рождения.',
+'description' => '',
+'alias' => 'игра-на-день-рождения',
+'link_attributes' => '',
+'published' => '1',
+'parent' => '20',
+'isfolder' => '0',
+'template' => '10',
+'menuindex' => '1',
+'searchable' => '1',
+'cacheable' => '1',
+'deleted' => '0',
+'menutitle' => '',
+'donthit' => '0',
+'haskeywords' => '0',
+'hasmetatags' => '0',
+'privateweb' => '0',
+'privatemgr' => '0',
+'content_dispo' => '0',
+'hidemenu' => '0',
+];
+*/
+?>
+<h1>Игра на день рождения в [!CityName? &amp;declinatio=6!]</h1>
+<div class="section description s-page">
+<div class="wrap">
+<div class="description_wrp">
+<div class="descr-left">
+            </div>
+<div class="descr-right">
+<div class="title red">Задумались, как отметить
+день рождения?</div>
+<p>Закажите проведениe живого квеста на праздник! <br />
+Игра может проходить дома или в кафе. <br />
+Каждый участник получит роль в истории, <br />
+собственные цели и секреты. Развязка истории <br />
+целиком зависит от действий игроков.</p>
+<div class="button"><a class="order big-button" href="#order"><span>Оставить заявку</span></a></div>
+</div>
+</div>
+<div class="clear"> </div>
+</div>
+</div>
+<h2>Что такое квестории?</h2>
+<p class="justifyfull">Любите интересные книги и хорошее кино?
+Пришло время самому стать героем сюжета!<br /> Квестории — это игры, которые проходят в реальном мире, а не на экране.</p>
+<p class="justifyfull">
+Типичный вопрос, который задаёт нам именинник перед праздником: <br />
+«А моим друзьям точно понравится?».</p>
+<p class="justifyfull">Типичный вопрос, который задают потом его друзья:<br />
+«А когда следующие игры по другим сценариям?»</p>
+<p>
+<br />
+{{Video-what-is-quests}}
+</p>
+<p> </p>
+<div class="dark round block-2">
+<div class="citate">
+<img class="fl" src="/themes/questoria/images/ico_cite-white.gif" alt="" />
+<p class="justifyfull"><span>Спасибо за интересную и новую для нас игру! Мой юбилей, думаю, запомнится всем и надолго (чего и хотелось) :) Ярко, красочно, интересно, сплоченно. В одной компании играли и дети, и взрослые, и даже бабушка с дедушкой – от 12 до 65 лет)) </span></p>
+<div class="author">Ирина Максютова</div>
+</div>
+</div>
+<div class="dark round block-2">
+<div class="citate"><img class="fl" src="/themes/questoria/images/ico_cite-white.gif" alt="" />
+<p class="justifyfull"><span>Это было фантастическое приключение и самый мой лучший день рождения за 33 года )))!!! Еще неделю все ходили довольные и прикалывались на эту тему. Жизнь приобрела новые краски! Теперь половина друзей тоже хочет на свой ДР квест! ))) </span></p>
+<div class="author">Артем Ковальчук</div>
+</div>
+</div>
+<p> </p>
+<div>{{ScenariosWeOffer}}{{reasonsToOrderBirtdayPage}}</div>
+<p> </p>
+<p><img class="ifl" style="float: left;" title="пиратская игра на день рождения" src="/assets/images/Pics_for_site/x_7bfdb03a.jpg" alt="игра на день рождения" width="300" height="268" />{{HowGoesLiveQuest}}</p>
+<p> </p>
+<h2>Фотографии с квесторий</h2>
+<p>
+[[PhotoSlider? &amp;alias=hb]]
+</p>
+<p> </p>
+<p>[!PLANS_MAIN? &amp;game_alias=hb &amp;children_advert= !]</p>
+<p> </p>
+<p>
+<a name="order">
+</a></p>
+<p>
+[!ifFranchaizi_birthday? &amp;declinatio=6 &amp;type=private &amp;type=private_additional_user &amp;OrderType=[*OrderType*] &amp;ThankPage=[*ThankPage*] !]</p>
+<p>{{QuaranteeDialog}}</p>

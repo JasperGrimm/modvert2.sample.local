@@ -1,0 +1,51 @@
+<?php
+/**
+return [
+'id' => '195',
+'type' => 'document',
+'contentType' => 'text/html',
+'pagetitle' => 'НГ детский праздник',
+'longtitle' => 'Новогодний детский праздник',
+'description' => '',
+'alias' => 'новогодний-детский-праздник',
+'link_attributes' => '',
+'published' => '1',
+'parent' => '0',
+'isfolder' => '0',
+'template' => '19',
+'menuindex' => '33',
+'searchable' => '1',
+'cacheable' => '1',
+'deleted' => '0',
+'menutitle' => '',
+'donthit' => '0',
+'haskeywords' => '0',
+'hasmetatags' => '0',
+'privateweb' => '0',
+'privatemgr' => '0',
+'content_dispo' => '0',
+'hidemenu' => '1',
+];
+*/
+?>
+<h1>Новогодний праздник для детей в [!CityName? &amp;declinatio=6!]</h1>
+<div class="ifr"><img title="новогодний детский праздник" src="/assets/images/Pics_for_site/School of Magic/31412110.jpg" alt="детский новогодний праздник" width="339" height="226" /></div>
+<p><em>Чем удивить и порадовать детей в этот раз?<br /></em></p>
+<p>Доверьтесь нам! Вместо обычного представления дети сами станут участниками удивительной сказки, где её конец зависит только от них самих. Квест — это увлекательная ролевая игра с детективным сюжетом на 12-30 человек.</p>
+<p>Каждый ребёнок получит буклет с описанием своего персонажа и станет одним из героев весёлого детектива. Ребята любят волшебство и магию? Или же хотят превратиться в ковбоев или пиратов? Выбирайте сценарий, звоните и бронируйте дату!</p>
+<p>В финале программы детей ждут Дед Мороз и Снегурочка и новогодняя дискотека.</p>
+<div class="dark round block-2">
+<div class="citate">
+<img class="fl" src="/themes/questoria/images/ico_cite-white.gif" alt="" />
+<p class="justifyfull"><span>Огромное спасибо! Дети в восторге! Родители счастливы! Это был настоящий праздник, даже чуточку больше! Дети просятся играть еще! :) <br /></span></p>
+<div class="author">Лилия Дмитриева</div>
+</div>
+</div>
+<div>{{ScenariosWeOffer}}</div>
+<!--p>Продолжительность игры — 1,5-2 часа</p>
+<p>Дед Мороз и Снегурочка — 30 минут</p>
+<p>Новогодняя дискотека — 30 минут </p>
+<p>Стоимость программы от 12 человек — 14 000 руб</p-->
+<div>[!ifFranchaizi_deti? &amp;declinatio=6 &amp;type=corporative &amp;type=private_additional_user &amp;OrderType=[*OrderType*] &amp;ThankPage=[*ThankPage*] &amp;cityAsctrohan=[*cities*]  !]
+<p><strong><br /></strong></p>
+</div>
