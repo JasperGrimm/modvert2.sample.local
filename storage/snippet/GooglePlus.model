@@ -12,9 +12,10 @@ return [
 'moduleguid' => ' ',
 ];
 */
+
 $id = $modx->documentIdentifier;
 if( $id == 1 ) { // Если главная страница
-?>
+
 <a href="https://plus.google.com/113314962200268959867" rel="publisher"></a>
 <?php
 }

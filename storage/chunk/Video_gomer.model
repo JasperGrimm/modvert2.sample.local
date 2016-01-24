@@ -1,7 +1,7 @@
 <?php
 /**
 return [
-'id' => '148',
+'id' => '116',
 'name' => 'Video-gomer',
 'description' => 'верстка с видео',
 'editor_type' => '0',

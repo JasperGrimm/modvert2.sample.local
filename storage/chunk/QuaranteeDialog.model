@@ -1,7 +1,7 @@
 <?php
 /**
 return [
-'id' => '209',
+'id' => '203',
 'name' => 'QuaranteeDialog',
 'description' => 'текст диалогового окна с гарантией - основной',
 'editor_type' => '0',

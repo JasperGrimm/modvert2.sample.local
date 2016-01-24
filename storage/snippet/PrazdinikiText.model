@@ -12,6 +12,7 @@ return [
 'moduleguid' => ' ',
 ];
 */
+
 if( $count == 1 )
 {
 	//echo '<p>В ' . $city_name_loc . ' пока только один живой квест:</p>';

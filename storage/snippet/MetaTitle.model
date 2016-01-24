@@ -35,6 +35,4 @@ else
 	$title = $page_title;
 }
 
-$title = str_replace('[!CityName!]', $city_name_loc, $title);
-
 echo $title;

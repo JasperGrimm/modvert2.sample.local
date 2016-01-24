@@ -7,7 +7,7 @@ return [
 'pagetitle' => 'Блог [[CityName]]',
 'longtitle' => '',
 'description' => '',
-'alias' => 'blog',
+'alias' => 'блог',
 'link_attributes' => '',
 'published' => '1',
 'parent' => '0',

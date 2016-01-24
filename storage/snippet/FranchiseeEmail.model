@@ -12,6 +12,7 @@ return [
 'moduleguid' => ' ',
 ];
 */
+
 $franchise = \Application\Services\Facades\App::get('franchise');
 if ($franchise) {
     $email = $franchise->getEmail();

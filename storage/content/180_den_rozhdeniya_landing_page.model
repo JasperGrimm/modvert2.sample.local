@@ -28,4 +28,4 @@ return [
 ];
 */
 ?>
-<p>{{Birthday_LandingPage_Content}}</p>
+{{Birthday_LandingPage_Content}}

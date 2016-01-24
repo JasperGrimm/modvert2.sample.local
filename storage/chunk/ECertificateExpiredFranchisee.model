@@ -1,7 +1,7 @@
 <?php
 /**
 return [
-'id' => '104',
+'id' => '141',
 'name' => 'ECertificateExpiredFranchisee',
 'description' => 'Письмо франчайзи об истечении срока действия сертификата',
 'editor_type' => '0',

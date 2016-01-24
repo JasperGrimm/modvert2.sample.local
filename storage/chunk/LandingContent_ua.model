@@ -1,7 +1,7 @@
 <?php
 /**
 return [
-'id' => '172',
+'id' => '113',
 'name' => 'LandingContent_ua',
 'description' => 'Chunk',
 'editor_type' => '0',

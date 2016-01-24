@@ -1,7 +1,7 @@
 <?php
 /**
 return [
-'id' => '186',
+'id' => '128',
 'name' => 'LandingContent_ChildrenFiesta',
 'description' => 'LP для детских утренников',
 'editor_type' => '0',

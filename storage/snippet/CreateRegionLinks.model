@@ -9,8 +9,8 @@ return [
 'cache_type' => '0',
 'locked' => '0',
 'properties' => '',
-'moduleguid' => ' ',
+'moduleguid' => '',
 ];
 */
 
-include 'Application/Snippets/CreateRegionLinks.php';
+include_once 'Application/Snippets/CreateRegionLinks.php';

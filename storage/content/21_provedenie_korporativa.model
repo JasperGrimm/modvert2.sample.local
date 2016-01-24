@@ -5,7 +5,7 @@ return [
 'type' => 'document',
 'contentType' => 'text/html',
 'pagetitle' => 'Корпоратив',
-'longtitle' => 'Организация и проведение корпоратива в [!CityName!], сценарии сюжетных игр на корпоратив ',
+'longtitle' => 'Организация и проведение корпоратива в [[CityName? &declinatio=1]], сценарии сюжетных игр на корпоратив ',
 'description' => '',
 'alias' => 'проведение-корпоратива',
 'link_attributes' => '',
@@ -104,4 +104,5 @@ PS: Совсем забыла, мы теперь еще друг друга им
 </div>
 </div>
 </div>
-{{QuaranteeDialog}}
+<p>
+{{QuaranteeDialog}}</p>

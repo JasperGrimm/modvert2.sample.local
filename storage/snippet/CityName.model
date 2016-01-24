@@ -16,4 +16,4 @@ return [
 /**
  * REMOTE changes
  */
-include 'Application/Snippets/Dumped/CityName.php';
+include_once 'Application/Snippets/Dumped/CityName.php';
