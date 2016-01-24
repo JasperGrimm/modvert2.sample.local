@@ -1,0 +1,21 @@
+<?php
+return [
+'id' => '32',
+'type' => 'dropdown',
+'name' => 'CityLoc',
+'caption' => 'Город',
+'description' => '',
+'editor_type' => '0',
+'category' => '0',
+'locked' => '0',
+'elements' => '@SELECT city_name_loc, id FROM qst_franchise ORDER BY city_name_loc',
+'rank' => '0',
+'display' => '',
+'display_params' => '',
+'default_text' => '',
+'templates' => [
+12
+],
+'content_values' => [
+],
+];
