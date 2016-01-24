@@ -1,0 +1,30 @@
+<?php
+/**
+return [
+'id' => '1025',
+'type' => 'document',
+'contentType' => 'text/html',
+'pagetitle' => 'Sendsay pages',
+'longtitle' => '',
+'description' => '',
+'alias' => 'em',
+'link_attributes' => '',
+'published' => '1',
+'parent' => '264',
+'isfolder' => '1',
+'template' => '8',
+'menuindex' => '46',
+'searchable' => '0',
+'cacheable' => '1',
+'deleted' => '0',
+'menutitle' => '',
+'donthit' => '0',
+'haskeywords' => '0',
+'hasmetatags' => '0',
+'privateweb' => '0',
+'privatemgr' => '0',
+'content_dispo' => '0',
+'hidemenu' => '1',
+];
+*/
+?>

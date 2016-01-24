@@ -1,0 +1,31 @@
+<?php
+/**
+return [
+'id' => '116',
+'name' => 'CreateCountryOptions',
+'description' => '',
+'editor_type' => '0',
+'category' => '0',
+'cache_type' => '0',
+'locked' => '0',
+'properties' => '',
+'moduleguid' => ' ',
+];
+*/
+	    
+$qst = Wave_Registry::get('Questoria');
+
+$items = $qst->geo->getCountries();
+
+if( $items )
+{
+   foreach( $items as $id => $item )
+   {
+               if ($id == 1){
+                 echo '<option selected="selected" value="' . $id . '">' . $item->name . '</option>';
+               }else{
+                 echo '<option value="' . $id . '">' . $item->name . '</option>';
+               }
+       
+   }
+}   

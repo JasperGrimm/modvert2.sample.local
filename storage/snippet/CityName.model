@@ -1,0 +1,19 @@
+<?php
+/**
+return [
+'id' => '26',
+'name' => 'CityName',
+'description' => '',
+'editor_type' => '0',
+'category' => '9',
+'cache_type' => '0',
+'locked' => '0',
+'properties' => '',
+'moduleguid' => ' ',
+];
+*/
+
+/**
+ * REMOTE changes
+ */
+include 'Application/Snippets/Dumped/CityName.php';

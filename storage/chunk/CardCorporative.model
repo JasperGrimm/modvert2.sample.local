@@ -1,0 +1,18 @@
+<?php
+/**
+return [
+'id' => '24',
+'name' => 'CardCorporative',
+'description' => '',
+'editor_type' => '0',
+'category' => '14',
+'cache_type' => '0',
+'locked' => '0',
+];
+*/
+?>
+<p><a class="card" onmouseover="$(this).find('IMG').attr('src','/assets/images/content/21.jpg')" onmouseout="$(this).find('IMG').attr('src','/assets/images/content/22.jpg')" href="[~21~]">
+					<strong class="title">Провести корпоратив</strong>
+					<span class="image"><img title="игра на корпоратив" src="/assets/images/content/22.jpg" alt="провести корпоратив" /></span>
+					<span class="descr">Нет ничего более сближающего, чем игра</span>
+</a></p>

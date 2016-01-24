@@ -1,0 +1,21 @@
+<?php
+/**
+return [
+'id' => '80',
+'name' => 'AdditionalPlayerPrice',
+'description' => '',
+'editor_type' => '0',
+'category' => '0',
+'cache_type' => '0',
+'locked' => '0',
+'properties' => '',
+'moduleguid' => ' ',
+];
+*/
+$qst = Wave_Registry::get('Questoria');
+$city_id = $qst->geo->getCityId();
+$user = $qst->user->getActiveFranchisee( $city_id );
+
+$price = $user->private_additional_user_price 	;
+
+echo $price .' '. $user->currency;

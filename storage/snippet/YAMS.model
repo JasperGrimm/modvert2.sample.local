@@ -1,0 +1,16 @@
+<?php
+/**
+return [
+'id' => '167',
+'name' => 'YAMS',
+'description' => 'Yet Another Multilingual Solution Snippet',
+'editor_type' => '0',
+'category' => '0',
+'cache_type' => '0',
+'locked' => '0',
+'properties' => '',
+'moduleguid' => ' ',
+];
+*/
+
+require ( $modx->config['base_path'] . 'assets/modules/yams/yams.snippet.inc.php' );

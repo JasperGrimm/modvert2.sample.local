@@ -1,0 +1,22 @@
+<?php
+return [
+'id' => '27',
+'type' => 'text',
+'name' => 'menutitle_ru',
+'caption' => '',
+'description' => 'menutitle (ru)',
+'editor_type' => '0',
+'category' => '0',
+'locked' => '0',
+'elements' => '',
+'rank' => '0',
+'display' => '',
+'display_params' => '',
+'default_text' => '',
+'templates' => [
+27
+],
+'content_values' => [
+'16' => 'Расписание квесторий',
+],
+];

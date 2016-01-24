@@ -1,0 +1,76 @@
+<?php
+/**
+return [
+'id' => '81',
+'name' => 'FranchiseePriceQuestsCost',
+'description' => 'Стоимость квестов ',
+'editor_type' => '0',
+'category' => '20',
+'cache_type' => '0',
+'locked' => '0',
+];
+*/
+?>
+ <table class="table" border="0">
+    <tbody>
+        <tr class="title">
+            <td colspan="2">S (мини-квестории)</td>
+        </tr>
+        <tr>
+            <td>Стоимость с начальной скидкой <sup>*</sup></td>
+            <td>[[MQ_COST_WITH_DISCOUNT]] [[CURRENCY]]</td>
+        </tr>
+        <tr>
+            <td>Полная стоимость</td>
+            <td>[[MQ_TOTAL_COST]] [[CURRENCY]]</td>
+        </tr>
+        <tr>
+            <td>Стоимость дубликата</td>
+            <td>[[MQ_DUPLICATE_COST]] [[CURRENCY]]</td>
+        </tr>
+        <tr class="title">
+            <td colspan="2">M (обычные квестории)</td>
+        </tr>
+        <tr>
+            <td>Стоимость с начальной скидкой <sup>*</sup></td>
+            <td>[[SQ_COST_WITH_DISCOUNT]] [[CURRENCY]]</td>
+        </tr>
+        <tr>
+            <td>Полная стоимость</td>
+            <td>[[SQ_TOTAL_COST]] [[CURRENCY]]</td>
+        </tr>
+        <tr>
+            <td>Стоимость дубликата</td>
+            <td>[[SQ_DUPLICATE_COST]] [[CURRENCY]]</td>
+        </tr>
+        <tr class="title">
+            <td colspan="2">L (Герои Асфальта, Город сталкеров) <sup>**</sup></td>
+        </tr>
+        <tr>
+            <td>Полная стоимость</td>
+            <td>[[SCQ_TOTAL_COST]] [[CURRENCY]]</td>
+        </tr>
+        <tr>
+            <td>Стоимость дубликата</td>
+            <td>[[SCQ_DUPLICATE_COST]] [[CURRENCY]]</td>
+        </tr>
+        <tr class="title">
+            <td colspan="2">XL (Ставки сделаны, Шпионские страсти) <sup>**</sup></td>
+        </tr>
+        <tr>
+            <td>Полная стоимость</td>
+            <td>[[BMQ_TOTAL_COST]] [[CURRENCY]]</td>
+        </tr>
+        <tr>
+            <td>Стоимость дубликата</td>
+            <td>[[BMQ_DUPLICATE_COST]] [[CURRENCY]]</td>
+        </tr>
+    </tbody>
+</table>
+<p> </p>
+<p>
+    <sup>*</sup>  Начальная скидка распространяется на приобретение первых 4-х игр, при этом 1 или 2 вы уже приобрели, купив франшизу.
+</p>
+<p>
+    <sup>**</sup> Начальная скидка не распространяется на L и XL квестории.
+</p>

@@ -1,0 +1,15 @@
+<?php
+/**
+return [
+'id' => '64',
+'name' => 'GoOrder3',
+'description' => '',
+'editor_type' => '0',
+'category' => '0',
+'cache_type' => '0',
+'locked' => '0',
+'properties' => '',
+'moduleguid' => ' ',
+];
+*/
+echo "<nobr class='blue_button2'><a href=\"$_SERVER[REDIRECT_URL]#order\"><span>Цены и контакты</span></a></nobr>";

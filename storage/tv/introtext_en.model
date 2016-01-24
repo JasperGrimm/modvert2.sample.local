@@ -1,0 +1,21 @@
+<?php
+return [
+'id' => '24',
+'type' => 'textarea',
+'name' => 'introtext_en',
+'caption' => '',
+'description' => 'introtext (en)',
+'editor_type' => '0',
+'category' => '0',
+'locked' => '0',
+'elements' => '',
+'rank' => '0',
+'display' => '',
+'display_params' => '',
+'default_text' => '',
+'templates' => [
+27
+],
+'content_values' => [
+],
+];

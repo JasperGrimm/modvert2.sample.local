@@ -1,0 +1,17 @@
+<?php
+/**
+return [
+'id' => '69',
+'name' => 'updateCssJsCache',
+'description' => '',
+'editor_type' => '0',
+'category' => '0',
+'cache_type' => '0',
+'locked' => '0',
+'properties' => '',
+'moduleguid' => ' ',
+];
+*/
+if (file_exists($filename)) {
+     echo 'ver='.date ("dmYHis", filemtime($filename));
+}

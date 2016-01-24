@@ -1,0 +1,65 @@
+<?php
+/**
+return [
+'id' => '55',
+'type' => 'document',
+'contentType' => 'text/html',
+'pagetitle' => 'Хэллоуин',
+'longtitle' => 'Игры на Хэллоуин в [!CityName!], интересные живые квесты на Хэллоуин ',
+'description' => '',
+'alias' => 'games-for-halloween',
+'link_attributes' => '',
+'published' => '1',
+'parent' => '20',
+'isfolder' => '0',
+'template' => '10',
+'menuindex' => '13',
+'searchable' => '1',
+'cacheable' => '1',
+'deleted' => '0',
+'menutitle' => '',
+'donthit' => '0',
+'haskeywords' => '0',
+'hasmetatags' => '0',
+'privateweb' => '0',
+'privatemgr' => '0',
+'content_dispo' => '0',
+'hidemenu' => '0',
+];
+*/
+?>
+<h1>Игры на Хэллоуин в [!CityName? &amp;declinatio=6!]</h1>
+<div><img height="226" width="277" alt="отметить хеллоуин" src="http://questoria.ru/assets/images/Pics_for_site/Photo/pirat.jpg" title="игра на хеллоуин" style="float: right;" class="ifr" /></div>
+<p class="justifyfull">Хэллоуин – праздник восхитительно стильный: в Европе и Америке он находится в десятке самых популярных праздненств наряду с Рождеством. <br />Мы приглашаем вас отметить Хэллоуин, устроив живой квест!</p>
+<p class="justifyfull"><span>[!GoOrder2!]</span></p>
+<p>
+{{WhatsQuest}}
+</p>
+<p class="justifyfull">Следуя древним традициям этого загадочного торжества, вы можете не только превратиться в поражающего воображение персонажа, но и с головой окунуться в увлекательную игру с закрученным сюжетом! А костюмы создадут невероятно насыщенную атмосферу загадочного праздника. </p>
+<ul>
+<li style="margin-top: 0.5em;">Вас и ваших друзей привлекает необычный дух этого праздника? </li>
+<li style="margin-top: 0.5em;">Вы любите яркий отдых и запоминающиеся эмоции? </li>
+<li style="margin-top: 0.5em;">Готовы придумать впечатляющие костюмы?</li>
+</ul>
+<p style="margin-top: 0.8em;">Тогда собирайте друзей!</p>
+<div class="dark round block-2">
+<div class="citate"><img src="/themes/questoria/images/ico_cite-white.gif" class="fl" />
+<p class="justifyfull"><span>Это было здорово! Вихрь приключений в центре событий! Игра началась довольно оживлённо, а со второй половины сюжет вообще стал развиваться с молниеносной быстротой. Все получили огромное удовольствие от сегодняшнего вечера. </span></p>
+<div class="author">Анатолий Топольницкий</div>
+</div>
+</div>
+<div class="dark round block-2">
+<div class="citate"><img src="/themes/questoria/images/ico_cite-white.gif" class="fl" />
+<p class="justifyfull"><span>Были с женой на живом квесте – впечатления не отпускают до сих пор. Очень понравилось, обязательно придём на следующую игру и уже агитируем всех друзей присоединиться. :)  </span></p>
+<div class="author">Андрей Королёв</div>
+</div>
+</div>
+<p>{{ScenariosWeOffer}}</p>
+<p> </p>
+<p>[!PLANS_MAIN? &amp;game_alias=hb &amp; use_order_type= !]</p>
+<p>
+<a name="order"></a><img height="350" width="233" alt="необычно отметить хэллоуин" src="/assets/images/Pics_for_site/FldBOGmXTKY.jpg" title="игра на хэллоуин" style="float: left;" class="ifl" />{{HowGoesLiveQuest}}</p>
+<p> </p>
+<p>[!ifFranchaizi_hello? &amp;declinatio=6 &amp;type=corporative &amp;type=private_additional_user &amp;OrderType=[*OrderType*] &amp;ThankPage=[*ThankPage*] !]</p>
+<h2>Не можете собрать компанию?</h2>
+<p>Тогда приходите на игру из <a target="_blank" href="/расписание-живых-квестов">расписания</a> :)</p>

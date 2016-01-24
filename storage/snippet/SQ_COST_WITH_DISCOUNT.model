@@ -1,0 +1,16 @@
+<?php
+/**
+return [
+'id' => '108',
+'name' => 'SQ_COST_WITH_DISCOUNT',
+'description' => 'Стоимость с начальной скидкой (Стандартный квест)',
+'editor_type' => '0',
+'category' => '0',
+'cache_type' => '0',
+'locked' => '0',
+'properties' => '',
+'moduleguid' => '',
+];
+*/
+	    
+echo '<span data-name="SQ_COST_WITH_DISCOUNT"></span>';

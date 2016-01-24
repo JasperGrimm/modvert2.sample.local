@@ -1,0 +1,26 @@
+<?php
+/**
+return [
+'id' => '90',
+'name' => 'GetFranchiseeInfo',
+'description' => '',
+'editor_type' => '0',
+'category' => '9',
+'cache_type' => '0',
+'locked' => '0',
+'properties' => '',
+'moduleguid' => ' ',
+];
+*/
+$name = isset( $name ) ? $name : '';
+preg_match('/price$/', $name, $m);
+$qst = Wave_Registry::get('Questoria');
+$info = $qst->user->getActiveFranchisee( $qst->geo->getCityId() );
+
+if( $name && isset( $info->$name ) )
+{
+    if (count($m)){
+       return number_format ( floatval($info->$name) , null, null, ' ');
+    }
+    return $info->$name;
+}

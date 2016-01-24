@@ -1,0 +1,21 @@
+<?php
+/**
+return [
+'id' => '206',
+'name' => 'Video-LP-Mobile-23feb',
+'description' => '',
+'editor_type' => '0',
+'category' => '20',
+'cache_type' => '0',
+'locked' => '0',
+];
+*/
+?>
+<div class="block_video">
+    <div class="wave-white"></div>
+    <div class="block_text_content">
+      <h1>Что такое квестории?</h1>
+      <div id="video"><iframe src="//player.vimeo.com/video/105096797" id="video_iframe" width="100%" height="auto" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+    </div>
+    <div class="wave-brown"></div>
+  </div>

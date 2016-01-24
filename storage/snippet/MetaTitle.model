@@ -1,0 +1,40 @@
+<?php
+/**
+return [
+'id' => '44',
+'name' => 'MetaTitle',
+'description' => '',
+'editor_type' => '0',
+'category' => '9',
+'cache_type' => '0',
+'locked' => '0',
+'properties' => '',
+'moduleguid' => ' ',
+];
+*/
+
+$city = \Application\Services\Facades\App::get('franchise');
+$city_name_loc = $city->getCityNameLoc();
+
+$page_title = $modx->documentObject['pagetitle'];
+$long_title = $modx->documentObject['longtitle'];
+$schedule_title = 'Расписание живых квестов в ' . $city_name_loc;
+
+$page_id = $modx->documentIdentifier;
+
+if( $page_id == 16 )
+{
+	$title = $schedule_title;
+}
+else if( $long_title )
+{
+	$title = $long_title;
+}
+else
+{
+	$title = $page_title;
+}
+
+$title = str_replace('[!CityName!]', $city_name_loc, $title);
+
+echo $title;

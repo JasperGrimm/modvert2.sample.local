@@ -1,0 +1,31 @@
+<?php
+/**
+return [
+'id' => '90',
+'type' => 'document',
+'contentType' => 'text/html',
+'pagetitle' => 'На хэллоуин',
+'longtitle' => 'Спасибо за заявку',
+'description' => '',
+'alias' => 'хэллоуин',
+'link_attributes' => '',
+'published' => '1',
+'parent' => '83',
+'isfolder' => '0',
+'template' => '8',
+'menuindex' => '19',
+'searchable' => '1',
+'cacheable' => '1',
+'deleted' => '0',
+'menutitle' => '',
+'donthit' => '0',
+'haskeywords' => '0',
+'hasmetatags' => '0',
+'privateweb' => '0',
+'privatemgr' => '0',
+'content_dispo' => '0',
+'hidemenu' => '0',
+];
+*/
+?>
+<div>{{ThankPagePrazdnik}} {{ThankPagePrazdnikEnd}}</div>
