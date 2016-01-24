@@ -23,7 +23,6 @@ $city_id = $qst->geo->GetCityId();
 $fran = $qst->user->getActiveFranchisee( $city_id );
 $show_eng = $fran->eng_games;
 
-
 $cid = $modx->documentIdentifier;
 if($show_eng == 0 && $cid == 185)
 {
