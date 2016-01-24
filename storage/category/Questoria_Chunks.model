@@ -1,5 +1,0 @@
-<?php
-return [
-'id' => '11',
-'category' => 'Questoria Chunks',
-];

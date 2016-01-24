@@ -1,5 +1,0 @@
-<?php
-return [
-'id' => '2',
-'category' => 'Login',
-];
