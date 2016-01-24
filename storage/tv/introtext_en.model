@@ -14,7 +14,7 @@ return [
 'display_params' => '',
 'default_text' => '',
 'templates' => [
-5, 27
+27, 30
 ],
 'content_values' => [
 ],
