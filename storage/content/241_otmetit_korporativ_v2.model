@@ -4,7 +4,7 @@ return [
 'id' => '241',
 'type' => 'document',
 'contentType' => 'text/html',
-'pagetitle' => 'Отметить корпоратив в [[CityName? &declinatio=1]] V2',
+'pagetitle' => 'Отметить корпоратив в [!CityName!] V2',
 'longtitle' => '',
 'description' => '',
 'alias' => 'отметить-корпоратив-v2',
