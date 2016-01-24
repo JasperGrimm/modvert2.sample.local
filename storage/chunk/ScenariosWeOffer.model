@@ -1,0 +1,16 @@
+<?php
+/**
+return [
+'id' => '14',
+'name' => 'ScenariosWeOffer',
+'description' => '',
+'editor_type' => '0',
+'category' => '13',
+'cache_type' => '0',
+'locked' => '0',
+];
+*/
+?>
+<h2>Какие сюжеты мы предлагаем в [!CityName? &amp;declinatio=6!]?</h2>
+
+[!Scenarios? &show_all_links=0 &button_link=#order &button_text=Оставить заявку &show_not_available_scenarios=0 &show_as_gallery=1 !]

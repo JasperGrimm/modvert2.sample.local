@@ -1,0 +1,31 @@
+<?php
+/**
+return [
+'id' => '1131',
+'type' => 'reference',
+'contentType' => 'text/html',
+'pagetitle' => 'Контакты',
+'longtitle' => '',
+'description' => '',
+'alias' => 'контакты',
+'link_attributes' => '',
+'published' => '1',
+'parent' => '1126',
+'isfolder' => '0',
+'template' => '0',
+'menuindex' => '4',
+'searchable' => '1',
+'cacheable' => '1',
+'deleted' => '0',
+'menutitle' => '',
+'donthit' => '0',
+'haskeywords' => '0',
+'hasmetatags' => '0',
+'privateweb' => '0',
+'privatemgr' => '0',
+'content_dispo' => '0',
+'hidemenu' => '0',
+];
+*/
+?>
+1033

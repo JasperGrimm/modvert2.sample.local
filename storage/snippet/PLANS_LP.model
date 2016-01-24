@@ -1,0 +1,15 @@
+<?php
+/**
+return [
+'id' => '130',
+'name' => 'PLANS_LP',
+'description' => 'Таблица тарифных планов для LP',
+'editor_type' => '0',
+'category' => '0',
+'cache_type' => '0',
+'locked' => '0',
+'properties' => '',
+'moduleguid' => ' ',
+];
+*/
+include 'Application/Snippets/Dumped/PLANS_LP.php';

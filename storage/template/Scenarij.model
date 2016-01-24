@@ -1,0 +1,41 @@
+<?php
+/**
+return [
+'id' => '11',
+'templatename' => 'Сценарий',
+'description' => '',
+'editor_type' => '0',
+'category' => '8',
+'icon' => '',
+'template_type' => '0',
+'locked' => '0',
+];
+*/
+?>
+{{HEADER}}
+
+<div class="wrap content">
+        {{Breadcrumbs}}
+	<div class="body-wrap">
+		<div class="body-right">
+
+			<div>[!GetScenario? &scenario_id=[*Scenario*]!]</div>
+			<p>&nbsp;</p>
+			<p class="fr"><a href="/[~20~]" class="big-button"><span>Заказать на праздник</span></a></p>
+			<p class="f5 ico_big_calendar" style="line-height:60px"><a href="/[~16~]">← Перейти к расписанию</a></p>
+			<p>&nbsp;</p>
+			[*content*]
+			<p>&nbsp;</p>
+			<p>[!VK_CommentForm!]</p>
+
+		</div>
+	</div>
+
+{{BODY-LEFT}}
+
+	<div class="clear">&nbsp;</div>
+
+</div>
+
+
+{{FOOTER}}

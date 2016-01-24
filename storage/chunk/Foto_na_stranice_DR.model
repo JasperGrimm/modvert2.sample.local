@@ -1,0 +1,24 @@
+<?php
+/**
+return [
+'id' => '197',
+'name' => 'Фото на странице ДР',
+'description' => 'Chunk',
+'editor_type' => '0',
+'category' => '0',
+'cache_type' => '0',
+'locked' => '0',
+];
+*/
+?>
+<div id="presentation_slider" class="slider">
+    <div class="slides">
+        <div class="scroll">
+            <div class="items">            </div>
+        </div>
+    </div>
+    <div class="controls">
+        <a href="#" class="prev"></a>
+        <a href="#" class="next"></a>
+    </div>
+</div>

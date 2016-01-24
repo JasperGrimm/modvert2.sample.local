@@ -1,0 +1,64 @@
+<?php
+/**
+return [
+'id' => '7',
+'templatename' => 'Расписание',
+'description' => '',
+'editor_type' => '0',
+'category' => '8',
+'icon' => '',
+'template_type' => '0',
+'locked' => '0',
+];
+*/
+?>
+{{HEADER}}
+
+<div class="wrap content">
+        {{Breadcrumbs}}
+	<!--p class="fr big-font" style="line-height:35px"><a href="/[~76~]">Хотите открыть квесты в вашем городе?</a></p>
+	<h1>
+		<b>Расписание квесторий в [!CityName? &declinatio=6!]</b>
+	</h1>
+	<p>&nbsp;</p-->
+
+	<div class="body-wrap">
+		<div class="body-right">
+
+			<h1><b>Расписание квесторий в [!CityName? &declinatio=6!]</b></h1>
+			<!--p class="big-font" style="line-height:35px"><a href="/[~76~]">Хотите открыть квесты в вашем городе?</a></p-->
+
+			[!GetSchedule!]
+
+                        [!Scenarios? &show_all_links=0 &button_link=#order &button_text=Оставить заявку &show_not_available_scenarios=0 &show_as_gallery=1 &isBid=1!]
+                        <p style="margin-bottom:30px;"></p>
+			[!Schedule_Discount!]
+
+<script type="text/javascript">
+//<![CDATA[
+	$('A.discount_control').click(function(){
+		var c = $('#discount_block').offset();
+		$.scrollTo( {top:c.top+10,left:0}, 500 );
+		return false;
+	});
+//]]>
+</script>
+ 
+<div class="noticem">
+   <div class="smile">
+    
+   </div>
+<p> Приходя на игру из расписания, вы, тем самым, даете свое согласие на использование ваших фотографий и улыбок в нашей рекламе. Если вы не хотите, чтобы мы использовали ваши фотографии, предупредите, пожалуйста, об этом фотографа.</p>
+ 
+</div>
+		</div>
+	</div>
+
+{{BODY-LEFT}}
+
+	<div class="clear">&nbsp;</div>
+
+</div>
+
+
+{{FOOTER}}

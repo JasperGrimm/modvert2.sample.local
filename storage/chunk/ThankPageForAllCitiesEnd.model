@@ -1,0 +1,21 @@
+<?php
+/**
+return [
+'id' => '20',
+'name' => 'ThankPageForAllCitiesEnd',
+'description' => '',
+'editor_type' => '0',
+'category' => '11',
+'cache_type' => '0',
+'locked' => '0',
+];
+*/
+?>
+<h2>Полезные ссылки</h2>
+<p>
+<a class="vk" rel="nofollow" href="http://vk.com/questoria">Квестория ВКонтакте</a><br />
+<a class="fb" rel="nofollow" href="http://facebook.com/questoria">Квестория в Facebook</a><br />
+</p>
+<h2>Ждём вас на игре!</h2>
+<div style="float: left;">[!Feedback? &amp;template=Home!]</div>
+<div>[!YandexCounter_TargetScript? &target=PublicGame_ThankPage!]</div>

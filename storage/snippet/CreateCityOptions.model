@@ -1,0 +1,15 @@
+<?php
+/**
+return [
+'id' => '16',
+'name' => 'CreateCityOptions',
+'description' => '',
+'editor_type' => '0',
+'category' => '9',
+'cache_type' => '0',
+'locked' => '0',
+'properties' => '',
+'moduleguid' => ' ',
+];
+*/
+include 'Application/Snippets/Dumped/CreateCityOptions.php';

@@ -1,0 +1,90 @@
+<?php
+/**
+return [
+'id' => '7',
+'name' => 'Schedule_DiscountBlock',
+'description' => '',
+'editor_type' => '0',
+'category' => '11',
+'cache_type' => '0',
+'locked' => '0',
+];
+*/
+?>
+<h3 style="margin-top: -25px; margin-bottom: 10px";>Подпишитесь на уведомления о следующих играх</h3>
+<div id="subscribe" class="hide" style="display: block; position:relative; ">
+    <img src="/themes/questoria/images/ico_email.png" alt="" style="vertical-align:middle; float: left; "  />
+    <div style="padding-top:15px;height:65px">
+        [!SubscribeWidget!]
+    </div>
+</div>
+
+
+<div id="discount_block">
+
+    <h3>Вы можете получить скидку:</h3>
+    <br/>
+    <div class="well table-well">
+        <div class="discount-well">
+            <div class="well-left">
+                Оставьте заявку на&nbsp;живой&nbsp;квест<br/>
+                компанией из&nbsp;<b><nobr>3-х или более друзей.</nobr></b><br/>
+                Каждый получит скидку&nbsp;<b>[!GetDiscountPrice!]</b>
+            </div>
+            <div class="well-right">
+                <div class="discount-icon">
+                    Скидка каждому [!GetDiscountPrice!]
+                </div>
+            </div>
+        </div>
+        <div class="empty-well">
+            <div class="wc">
+                <span class="sans25">или</span>
+            </div>
+        </div>
+        <div class="subscribe-well">
+            <div class="well-left">
+                Подпишитесь на группу <b>Квестории в VK</b> и&nbsp;разместите следующий пост у себя на стене, нажав кнопку <b>"Поделиться"</b> в виде рупора <div class="vkrupor-circle"></div> в правом нижнем углу поста.
+            </div>
+            <div class="well-right">
+                <div class="vk-subscribe-helper"></div>
+            </div>
+        </div>
+    </div>
+    <div class="vk-post">
+        <div id="vk_post_-8179697_12452"></div><script type="text/javascript">  (function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//vk.com/js/api/openapi.js?116"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'vk_openapi_js'));  (function() {    if (!window.VK || !VK.Widgets || !VK.Widgets.Post || !VK.Widgets.Post("vk_post_-8179697_12452", -8179697, 12452, '4wXJd5cVTP45UPkU7cMHfvWHyg', {width: 730})) setTimeout(arguments.callee, 50);  }());</script>
+
+        <div class="well table-well after-well">
+            <div class="subscribe-well">
+                <div class="well-left">
+                    <div class="big-rupor"></div>
+                </div>
+                <div class="well-right">
+                    <p>Затем оставьте заявку на живой квест, указав ссылку на&nbsp;пост.
+                        Вы&nbsp;и&nbsp;каждый ваш друг, что также сделает репост данного поста
+                        с&nbsp;вашей страницы, получите скидку по <b>[!GetDiscountPrice!]!</b>
+                    </p>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+</div>
+
+<div id="anounce" class="window">
+    <div class="window-content" style="width:500px">
+        <a href="#" class="window-close-button hide-anounce"></a>
+        <div class="blue round block-2">
+            <h2>Иду в "Квесторию" играть в живой квест, присоединяйтесь!</h2>
+            <p>&nbsp;</p>
+            <p>Это сюжетная детективная игра, проходящая в кафе.</p>
+            <p>Каждый получает роль. Можно, например, стать шпионом, археологом, певицей или пиратом.</p>
+            <p>У каждого &mdash; свои уникальные цели.</p>
+            <p>Например, найти убийцу, навести порядок в небольшом городке на Диком Западе, получить сокровища капитана Флинта, или даже предотвратить возрождение третьего рейха ;)</p>
+            <p>&nbsp;</p>
+            <p>От Ваших действий зависит развязка истории!</p>
+            <p>Подробности на сайте <a href="http://Questoria.ru/">Questoria.ru</a> или ВКонтакте <a href="http://vk.com/questoria">http://vk.com/questoria</a></p>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,49 @@
+<?php
+/**
+return [
+'id' => '59',
+'name' => 'PersonyzeCode',
+'description' => '',
+'editor_type' => '0',
+'category' => '11',
+'cache_type' => '0',
+'locked' => '0',
+];
+*/
+?>
+	<!-- code Personyze -->
+	<script type="text/javascript">
+		window._S_T ||
+			(function(url, css, setup, d){
+				try
+				{
+					var c = d.createElement('style'),
+						s = d.createElement('script'),
+						u = s.onload===undefined && s.onreadystatechange===undefined,
+						r = function() {c.parentNode && h.removeChild(c)},
+						i = 0,
+						f = function() {window._S_T ? eval('_S_T.async=_S_T.blocking=true;'+setup+';_S_T.reg_ondropcss(r)') : i++<120 && u && setTimeout(f, 600)},
+						H = d.getElementsByTagName('head'),
+						h = H && H[0] || d.documentElement;
+					s.async = true;
+					s.src = url;
+					s.onload = s.onreadystatechange = f;
+					h.appendChild(c);
+					h.appendChild(s);
+					if (c.styleSheet) {
+						c.styleSheet.cssText = css;
+					} else {
+						c.appendChild(d.createTextNode(css));
+					}
+					if (u) {
+						f();
+					}
+					setTimeout(r, 2000);
+				}
+				catch (e)
+				{
+					d.write('<script src="'+url+'"><\/script><script>'+setup+'<\/script>');
+				}
+			})('//counter.personyze.com/stat-track-lib.js', 'body {visibility:hidden}', 'try {_S_T.setup(2151, "questoria.ru")} catch (e) {window.console && console.log(e)}', document);
+	</script>
+	<!-- endOF Code Personyze -->

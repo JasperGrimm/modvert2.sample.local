@@ -1,0 +1,15 @@
+<?php
+/**
+return [
+'id' => '170',
+'name' => 'ifFranchaizi_mobile',
+'description' => '',
+'editor_type' => '0',
+'category' => '9',
+'cache_type' => '0',
+'locked' => '0',
+'properties' => '',
+'moduleguid' => ' ',
+];
+*/
+include 'Application/Snippets/Dumped/ifFranchaizi_mobile.php';

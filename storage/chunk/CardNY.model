@@ -1,0 +1,14 @@
+<?php
+/**
+return [
+'id' => '34',
+'name' => 'CardNY',
+'description' => '',
+'editor_type' => '0',
+'category' => '14',
+'cache_type' => '0',
+'locked' => '0',
+];
+*/
+?>
+<p><a class="card" onmouseover="$(this).find('IMG').attr('src','/assets/images/content/14.jpg')" onmouseout="$(this).find('IMG').attr('src','/assets/images/content/13.jpg')" href="/[~57~]"><strong class="title">Новый год</strong><img title="игра на новый год" src="/assets/images/content/13.jpg" alt="отметить новогодний корпоратив" /><span class="descr">Волшебные игры на волшебный праздник</span></a></p>

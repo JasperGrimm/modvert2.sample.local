@@ -1,0 +1,17 @@
+<?php
+/**
+return [
+'id' => '31',
+'name' => 'CardMen',
+'description' => '',
+'editor_type' => '0',
+'category' => '14',
+'cache_type' => '0',
+'locked' => '0',
+];
+*/
+?>
+<p><a class="card" onmouseover="$(this).find('IMG').attr('src','/assets/images/content/18.jpg')" onmouseout="$(this).find('IMG').attr('src','/assets/images/content/17.jpg')" href="/[~58~]"><strong class="title">23-е февраля</strong>
+			<img title="игра на 23 февраля" src="/assets/images/content/17.jpg" alt="отметить 23 февраля" />
+			<span class="descr">Шпионский триллер или классический детектив?</span>
+		</a></p>

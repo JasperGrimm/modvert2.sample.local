@@ -1,0 +1,31 @@
+<?php
+/**
+return [
+'id' => '180',
+'type' => 'document',
+'contentType' => 'text/html',
+'pagetitle' => 'День рождения - Landing Page',
+'longtitle' => 'Игра на день рождения',
+'description' => '',
+'alias' => 'день-рождения-landing-page',
+'link_attributes' => '',
+'published' => '1',
+'parent' => '20',
+'isfolder' => '0',
+'template' => '18',
+'menuindex' => '1',
+'searchable' => '1',
+'cacheable' => '1',
+'deleted' => '0',
+'menutitle' => '',
+'donthit' => '0',
+'haskeywords' => '0',
+'hasmetatags' => '0',
+'privateweb' => '0',
+'privatemgr' => '0',
+'content_dispo' => '0',
+'hidemenu' => '1',
+];
+*/
+?>
+<p>{{Birthday_LandingPage_Content}}</p>

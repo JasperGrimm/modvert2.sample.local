@@ -1,0 +1,15 @@
+<?php
+/**
+return [
+'id' => '115',
+'name' => 'StartPriceFranchiseeCalculator',
+'description' => '',
+'editor_type' => '0',
+'category' => '0',
+'cache_type' => '0',
+'locked' => '0',
+'properties' => '',
+'moduleguid' => ' ',
+];
+*/
+include 'Application/Controller/StartPriceFranchiseeCalculator.php';

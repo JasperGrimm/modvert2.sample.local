@@ -1,0 +1,15 @@
+<?php
+/**
+return [
+'id' => '28',
+'name' => 'CardWedding',
+'description' => '',
+'editor_type' => '0',
+'category' => '14',
+'cache_type' => '0',
+'locked' => '0',
+];
+*/
+?>
+<p><a class="card" onmouseover="$(this).find('IMG').attr('src','/assets/images/content/16.jpg')" onmouseout="$(this).find('IMG').attr('src','/assets/images/content/15.jpg')" href="/[~60~]"><strong class="title">Приключение на свадьбу</strong>
+			<img title="развлечение на свадьбу" src="/assets/images/content/15.jpg" alt="необычно отметить свадьбу" /><span class="descr">Как развлечь всех гостей?</span></a></p>

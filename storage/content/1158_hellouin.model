@@ -1,22 +1,22 @@
 <?php
 /**
 return [
-'id' => '100',
-'type' => 'reference',
+'id' => '1158',
+'type' => 'document',
 'contentType' => 'text/html',
-'pagetitle' => 'Корпоратив',
-'longtitle' => '',
+'pagetitle' => 'На хэллоуин',
+'longtitle' => 'Спасибо за заявку',
 'description' => '',
-'alias' => 'корпоратив',
+'alias' => 'хэллоуин',
 'link_attributes' => '',
 'published' => '1',
-'parent' => '20',
+'parent' => '1146',
 'isfolder' => '0',
-'template' => '5',
-'menuindex' => '10',
+'template' => '8',
+'menuindex' => '19',
 'searchable' => '1',
 'cacheable' => '1',
-'deleted' => '1',
+'deleted' => '0',
 'menutitle' => '',
 'donthit' => '0',
 'haskeywords' => '0',
@@ -24,8 +24,8 @@ return [
 'privateweb' => '0',
 'privatemgr' => '0',
 'content_dispo' => '0',
-'hidemenu' => '1',
+'hidemenu' => '0',
 ];
 */
 ?>
-21
+<div>{{ThankPagePrazdnik}} {{ThankPagePrazdnikEnd}}</div>

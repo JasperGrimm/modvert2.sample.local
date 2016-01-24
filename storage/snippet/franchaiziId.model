@@ -1,0 +1,18 @@
+<?php
+/**
+return [
+'id' => '178',
+'name' => 'franchaiziId',
+'description' => 'Покажет id текущей франшизы если определена',
+'editor_type' => '0',
+'category' => '0',
+'cache_type' => '0',
+'locked' => '0',
+'properties' => '',
+'moduleguid' => ' ',
+];
+*/
+$franchise = \Application\Services\Facades\App::get('franchise');
+if ($franchise && is_object($franchise)) {
+    echo $franchise->getId();
+}

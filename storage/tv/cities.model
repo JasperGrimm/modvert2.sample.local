@@ -1,0 +1,22 @@
+<?php
+return [
+'id' => '12',
+'type' => 'listbox',
+'name' => 'cities',
+'caption' => 'Города для показа',
+'description' => 'Выбор городов для показа страницы',
+'editor_type' => '0',
+'category' => '0',
+'locked' => '0',
+'elements' => '@SELECT  name, city_id FROM qst_city ',
+'rank' => '0',
+'display' => '',
+'display_params' => '',
+'default_text' => '',
+'templates' => [
+19
+],
+'content_values' => [
+'195' => '47',
+],
+];

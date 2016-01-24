@@ -1,0 +1,26 @@
+<?php
+return [
+'id' => '19',
+'type' => 'text',
+'name' => 'pagetitle_ru',
+'caption' => '',
+'description' => 'pagetitle (ru)',
+'editor_type' => '0',
+'category' => '0',
+'locked' => '0',
+'elements' => '',
+'rank' => '0',
+'display' => '',
+'display_params' => '',
+'default_text' => '',
+'templates' => [
+27
+],
+'content_values' => [
+'219' => 'vkfeedframe',
+'220' => 'socialtableiframe',
+'221' => 'VK like widget page',
+'16' => 'Расписание квесторий',
+'270' => 'Привет, Мир!',
+],
+];

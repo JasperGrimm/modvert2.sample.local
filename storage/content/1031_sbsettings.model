@@ -1,0 +1,35 @@
+<?php
+/**
+return [
+'id' => '1031',
+'type' => 'document',
+'contentType' => 'text/html',
+'pagetitle' => 'Настройка рассылок от Квестории',
+'longtitle' => '',
+'description' => '',
+'alias' => 'sbsettings',
+'link_attributes' => '',
+'published' => '1',
+'parent' => '1025',
+'isfolder' => '0',
+'template' => '5',
+'menuindex' => '4',
+'searchable' => '1',
+'cacheable' => '1',
+'deleted' => '0',
+'menutitle' => '',
+'donthit' => '0',
+'haskeywords' => '0',
+'hasmetatags' => '0',
+'privateweb' => '0',
+'privatemgr' => '0',
+'content_dispo' => '0',
+'hidemenu' => '1',
+];
+*/
+?>
+<div class="wrap content">
+<h1>[*pagetitle*]</h1>
+<h2 style="font-weight: bold; margin-bottom: 25px;">Какие письма вы хотите получать от нас?</h2>
+[!Sendsayform? &amp;thank_page_id=307!]
+</div>

@@ -1,0 +1,14 @@
+<?php
+/**
+return [
+'id' => '19',
+'name' => 'TextForDisableScenario',
+'description' => '',
+'editor_type' => '0',
+'category' => '11',
+'cache_type' => '0',
+'locked' => '0',
+];
+*/
+?>
+Данного квеста пока нет в вашем городе

@@ -1,0 +1,31 @@
+<?php
+/**
+return [
+'id' => '43',
+'name' => 'Rss',
+'description' => '',
+'editor_type' => '0',
+'category' => '9',
+'cache_type' => '0',
+'locked' => '0',
+'properties' => '',
+'moduleguid' => ' ',
+];
+*/
+echo '<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>RSS</title>
+		<link>http://questoria.skinny.in.ua/rss</link>
+		<description></description>
+		<language>ru</language>
+		<copyright>Questoria</copyright>
+		<ttl>120</ttl>
+';
+
+$qst = Wave_Registry::get('Questoria');
+echo $qst->blog->GetRss();
+
+echo '
+	</channel>
+</rss>';

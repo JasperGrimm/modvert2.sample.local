@@ -1,0 +1,159 @@
+<?php
+/**
+return [
+'id' => '63',
+'type' => 'document',
+'contentType' => 'text/html',
+'pagetitle' => 'Живой квест «Тень фараона»',
+'longtitle' => '',
+'description' => '',
+'alias' => 'questoria-pharaohs-shadow',
+'link_attributes' => '',
+'published' => '1',
+'parent' => '47',
+'isfolder' => '0',
+'template' => '11',
+'menuindex' => '18',
+'searchable' => '1',
+'cacheable' => '1',
+'deleted' => '0',
+'menutitle' => '',
+'donthit' => '0',
+'haskeywords' => '0',
+'hasmetatags' => '0',
+'privateweb' => '0',
+'privatemgr' => '0',
+'content_dispo' => '0',
+'hidemenu' => '0',
+];
+*/
+?>
+<div id="scenario_tabs" class="tabs-wrap">
+
+<ul class="tabs-buttons">
+<li><a class="bajax" href="#"><span class="ajax">Список персонажей сюжета</span></a></li>
+<li><a class="bajax" href="#"><span class="ajax">Отзывы о данном сюжете</span></a></li>
+<li><a class="bajax" href="#"><span class="ajax">Фотографии</span></a></li>
+</ul>
+<div class="tabs-sheets">
+<div class="tabs-sheet">
+<div class="scenario_group">
+<h3>Археологи</h3>
+<br />
+<h4><span style="text-decoration: underline;">Оксфордская команда</span></h4>
+<br />
+<p><strong>Сэр Вильям Савиль</strong><br />Руководитель оксфордской команды.</p>
+<p><strong>Ариадна Адамс</strong><br />Египтолог, крупный специалист по египетской письменности, представитель Оксфордского музея.</p>
+<p><strong>Энди</strong><br />Увлечённый молодой студент.</p>
+<p><strong>Хелен</strong><br />Оксфордская красавица, студентка.</p>
+<p><strong>Линдон/Линда</strong><br />Студент, секретарь, хранитель дневника экспедиции. </p>
+<h4><span style="text-decoration: underline;">Французская команда</span></h4>
+<br />
+<p><strong>Арман Ленор</strong><br />Руководитель французской команды, представитель Лувра.</p>
+<p><strong>Мари</strong><br />Его ассистентка. </p>
+<h4><span style="text-decoration: underline;">Кембриджская команда</span></h4>
+<br />
+<p><strong>Профессор Реджинальд</strong><br />Руководитель кембриджской команды.</p>
+<p><strong>Леди Кларк</strong><br />Благородная вдова, любитель археологии, представитель Британского музея.</p>
+<p><strong>Кристиан/Кристина</strong><br />Молодой студент родом из Швеции. </p>
+<p><strong>Преподобный Игнатиус Фокс</strong><br />Протестантский священник из церкви в Кембридже. </p>
+<p><strong>Анжела Фокс</strong><br />Жена Игнатиуса.</p>
+</div>
+<div class="scenario_actors">
+<h3>Гости</h3>
+<br />
+<p><strong>Шариз </strong><br />Куратор раскопок, представитель Луксорского музея.</p>
+<p><strong>Герберт/Гертруда Вольф</strong><br />Атташе по культуре немецкого консула в Каире.</p>
+<p><strong>Ева де Шалон</strong><br />Светская львица, ценитель искусства. </p>
+<p><strong>Джамиль/Джамиля </strong><br />Местный богач, очень уважаемый человек. </p>
+<p><strong>Хасан аль-Мансур</strong><br />Богач, известный коллекционер египетского антиквариата.</p>
+<p><strong>Фатима аль-Мансур </strong><br />Жена Хасана. </p>
+</div>
+<br />
+<div class="scenario_group">
+<h3>Полиция</h3>
+<br />
+<p><strong>детектив Сильвер</strong><br />Полицейский. </p>
+<p><strong>младший детектив Квин</strong><br />Полицейский. </p>
+</div>
+</div>
+<div class="tabs-sheet">
+            Отзывы о сюжете [*pagetitle*]
+<p> </p>
+<div class="citate">
+<img class="fl" src="/themes/questoria/images/ico_cite-white.gif" alt="" />
+<p class="justifyfull"><span>Были с женой на «Тени Фараона» 19 июня – впечатления не отпускают до сих пор. Хоть и большую часть игры жёстко тупил, всё равно очень понравилось, обязательно придём на следующую игру и уже агитируем всех друзей присоединиться. :)  </span></p>
+<div class="author"><a rel="nofollow" href="http://vk.com/id2392774" target="_blank">Андрей Королёв</a>
+</div>
+</div>
+<p> </p>
+<div class="citate">
+<img class="fl" src="/themes/questoria/images/ico_cite-white.gif" alt="" />
+<p class="justifyfull"><span>Изумительная игра! Столько переплетающихся сюжетных линий, интриг, сумасшедших предположений, возможность перевоплотиться в другого человека... После игры выходишь из кафе с великолепным коктейлем эмоций и воспоминаний. В заключение хотелось бы сказать, что это была очень органичная и захватывающая игра с великолепным сценарием. </span></p>
+<div class="author"><a rel="nofollow" href="http://vk.com/id29562704" target="_blank">Мария Полякова</a>
+</div>
+</div>
+<p> </p>
+<div class="citate">
+<img class="fl" src="/themes/questoria/images/ico_cite-white.gif" alt="" />
+<p class="justifyfull"><span>«Пробным шаром» стала игра «Тень Фараона». Прямо скажем, не ожидала от себя некоторых поступков =))
+Спасибо за помощь в переоценке своих способностей. Думаю, это был далеко не последний мой игровой опыт! </span></p>
+<div class="author"><a rel="nofollow" href="http://vk.com/id187740" target="_blank">Ольга Гуренко</a>
+</div>
+</div>
+<p> </p>
+<div class="citate">
+<img class="fl" src="/themes/questoria/images/ico_cite-white.gif" alt="" />
+<p class="justifyfull"><span>Была сегодня на «Тени фараона», первый раз на таком квесте. Было очень здорово и весело :) Когда прочитала описание персонажа, думала, всё, моя сторона баррикад обречена, потому что я ни за что не справлюсь с такой ролью, но всё вышло, мягко говоря, удачно. Впрочем, тут большая заслуга моего игрового мужа, которого я жестоко использовала и у которого я, к своему стыду, даже не спросила имя :) </span></p>
+<div class="author"><a rel="nofollow" href="http://vk.com/id145932" target="_blank">Алёна Киселёва</a>
+</div>
+</div>
+<p> </p>
+<div class="citate">
+<img class="fl" src="/themes/questoria/images/ico_cite-white.gif" alt="" />
+<p class="justifyfull"><span>Только что вернулся с «Тени фараона». Это было круто, это было здорово, это было супер! ) Вихрь приключений в центре событий! Игра началась довольно оживлённо, а со второй половины сюжет вообще стал развиваться с молниеносной быстротой. Всплывали тщательно скрываемые секреты, артефакты стремительно меняли владельцев. Моего персонажа трижды пытались убить. В конце концов, его арестовали и посадили в тюрьму за контрабанду. Туда ему и дорога, так как он был порядочным редиском)) Впрочем, почти на долю каждого из присутствующих выпала изрядная доля злоключений, которые они с честью преодолели. Объединёнными усилиями мы рассеяли силы зла, и страшная опасность, нависшая над всеми нами, растаяла в зыбком пустынном воздухе. Мне кажется, не ошибусь, если скажу, что все получили огромное удовольствие от сегодняшнего вечера. Побольше таких игр! </span></p>
+<div class="author"><a rel="nofollow" href="http://vk.com/id108351097" target="_blank">Анатолий Топольницкий</a>
+</div>
+</div>
+<p> </p>
+<div class="citate">
+<img class="fl" src="/themes/questoria/images/ico_cite-white.gif" alt="" />
+<p class="justifyfull"><span>Было необычно, живо. Интересно было находить какие-то неожиданные решения и достигать своих целей. Можно сказать, я удивилась самой же себе. </span></p>
+<div class="author"><a rel="nofollow" href="http://vk.com/ghdkahdkjhgy" target="_blank">Ариадна Царькова</a>
+</div>
+</div>
+<p> </p>
+<div class="citate">
+<img class="fl" src="/themes/questoria/images/ico_cite-white.gif" alt="" />
+<p class="justifyfull"><span>Очень здорово и интересно, роли были подобраны отлично – все очень подходили к своим персонажам :) Обязательно приду на одну из ближайших игр ) </span></p>
+<div class="author"><a rel="nofollow" href="http://vk.com/id19308" target="_blank">Anastasia Platonova</a>
+</div>
+</div>
+<p> </p>
+<div class="citate">
+<img class="fl" src="/themes/questoria/images/ico_cite-white.gif" alt="" />
+<p class="justifyfull"><span>Оригинальная задумка + интересный сюжет.
+Довольно увлекательное занятие на досуге. </span></p>
+<div class="author"><a rel="nofollow" href="http://vk.com/id5271246" target="_blank">Никита Лелеко</a>
+</div>
+</div>
+<p> </p>
+<div class="citate">
+<img class="fl" src="/themes/questoria/images/ico_cite-white.gif" alt="" />
+<p class="justifyfull"><span>Сегодня была на премьере ))) Да и вообще впервые была на квесте )))) Очень понравилась.. Самой не очень легко было сразу вжиться в роль, но помогали остальные участники. Очень понравился столь разный подход героев к решению той или иной проблемы. Советую всем обязательно <span>сходить </span>))) </span></p>
+<div class="author"><a rel="nofollow" href="http://vk.com/alinna" target="_blank">Алина Дмитриева</a>
+</div>
+</div>
+</div>
+<div class="tabs-sheet">
+        Фотографии сюжета [*pagetitle*]
+<br />
+<img src="/assets/images/Pics_for_site/Photo/Faraon (1).jpg" alt="" width="339" height="226" />
+<img src="/assets/images/Pics_for_site/Photo/Faraon (2).jpg" alt="" width="339" height="226" />
+<img src="/assets/images/Pics_for_site/Photo/Faraon (3).jpg" alt="" />
+<img src="/assets/images/Pics_for_site/Photo/Faraon (6).jpg" alt="" width="339" height="253" />
+<img src="/assets/images/Pics_for_site/Photo/Faraon (4).jpg" alt="" width="339" height="226" />
+<img src="/assets/images/Pics_for_site/Photo/Faraon (5).jpg" alt="" />
+</div>
+</div>
+</div>

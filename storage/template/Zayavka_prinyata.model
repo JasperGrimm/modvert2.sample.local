@@ -1,0 +1,35 @@
+<?php
+/**
+return [
+'id' => '12',
+'templatename' => 'Заявка принята',
+'description' => '',
+'editor_type' => '0',
+'category' => '8',
+'icon' => '',
+'template_type' => '0',
+'locked' => '0',
+];
+*/
+?>
+{{HEADER}}
+
+<div class="wrap content">
+
+	<div class="body-wrap">
+		<div class="body-right">
+
+			[*content*]
+			<div>&nbsp;</div>
+
+		</div>
+	</div>
+
+{{BODY-LEFT}}
+
+	<div class="clear">&nbsp;</div>
+
+</div>
+
+
+{{FOOTER}}

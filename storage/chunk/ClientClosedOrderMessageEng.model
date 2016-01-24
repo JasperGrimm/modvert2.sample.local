@@ -1,0 +1,23 @@
+<?php
+/**
+return [
+'id' => '193',
+'name' => 'ClientClosedOrderMessageEng',
+'description' => '',
+'editor_type' => '0',
+'category' => '16',
+'cache_type' => '0',
+'locked' => '0',
+];
+*/
+?>
+<strong>Hello!</strong>
+<p>
+Your request has been received.
+</p>
+<p>
+Within 24 hours, one of our game masters in [+city_name+], will contact you, and you will be able to discuss all the details involved in organizing an event. Should you have an urgent question, please call [+city_phone_1+].
+</p>
+<p>
+Your «questoria»
+</p>
