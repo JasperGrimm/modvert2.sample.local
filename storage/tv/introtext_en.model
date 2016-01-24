@@ -3,7 +3,7 @@ return [
 'id' => '24',
 'type' => 'textarea',
 'name' => 'introtext_en',
-'caption' => '',
+'caption' => 'introtext_en',
 'description' => 'introtext (en)',
 'editor_type' => '0',
 'category' => '0',
@@ -14,7 +14,7 @@ return [
 'display_params' => '',
 'default_text' => '',
 'templates' => [
-27
+27, 30
 ],
 'content_values' => [
 ],
