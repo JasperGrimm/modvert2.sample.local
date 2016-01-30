@@ -32,6 +32,7 @@ return [
 
 <p>
 <h1>Local page</h1>
+<span>another changes</span>
 </p>					
 <p>You are using the Mixture + Bootstrap (v2.3.1) boilerplate.</p>
 					<p><a class="btn btn-primary btn-large" href="http://twitter.github.com/bootstrap/">Read the Bootstrap documentation &raquo;</a></p>
