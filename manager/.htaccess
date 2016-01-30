@@ -1,0 +1,27 @@
+# For unexpected logouts in multi-server/cloud environments see:
+# http://svn.modxcms.com/docs/display/MODx096/Friendly+URL+Solutions
+
+
+
+RewriteEngine on
+
+RewriteBase /manager/
+
+#RewriteCond %{SERVER_PORT} ^80$
+#RewriteCond %{HTTP_HOST} !(\.loc)$
+#RewriteRule (.*) https://%{HTTP_HOST}/manager [R=301,QSA,L]
+#
+
+RewriteCond %{HTTP_HOST} !(\.loc)$
+RewriteCond %{HTTP_HOST} (.*[^(test|staging)]+)\.questoria\.ru
+RewriteRule ^(.*)$ https://%{HTTP_HOST}/manager/$1 [R=301,QSA]
+
+RewriteCond %{HTTP_HOST} (\.loc)$
+RewriteCond %{HTTP_HOST} (.+\.test\.questoria)
+RewriteRule ^(.*)$ http://%{HTTP_HOST}/manager/$1 [R=301,QSA]
+
+
+<IfModule mod_security.c>
+# Turn the filtering engine Off
+SecFilterEngine Off
+</IfModule>

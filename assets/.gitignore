@@ -1,0 +1,11 @@
+/cache/*
+!/cache/.gitignore
+!/cache/csv/.gitignore
+!/cache/pdf/.gitignore
+!/cache/pdf/pdf/.gitignore
+!/cache/pdf/html/.gitignore
+!/cache/rss/.gitignore
+!/cache/xlsx/.gitignore
+/logs/*
+!/logs/.gitignore
+
