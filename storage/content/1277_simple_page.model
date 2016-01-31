@@ -31,7 +31,7 @@ return [
 <div class="hero-unit">
 
 <p>
-<h1>Local page</h1>
+<h1>Local page mod1</h1>
 <span>another changes</span>
 </p>					
 <p>You are using the Mixture + Bootstrap (v2.3.1) boilerplate.</p>
