@@ -1,0 +1,58 @@
+<?php
+/**
+return [
+'id' => '106',
+'type' => 'document',
+'contentType' => 'text/html',
+'pagetitle' => 'Игра для отдела кадров',
+'longtitle' => '',
+'description' => '',
+'alias' => 'игра-для-отдела-кадров',
+'link_attributes' => '',
+'published' => '1',
+'parent' => '105',
+'isfolder' => '0',
+'template' => '8',
+'menuindex' => '24',
+'searchable' => '1',
+'cacheable' => '1',
+'deleted' => '0',
+'menutitle' => '',
+'donthit' => '0',
+'haskeywords' => '0',
+'hasmetatags' => '0',
+'privateweb' => '0',
+'privatemgr' => '0',
+'content_dispo' => '0',
+'hidemenu' => '1',
+];
+*/
+?>
+<h1>Вы HR-менеджер или специалист отдела кадров?</h1>
+<p><span><span><img class="ifr" style="float: right;" src="assets/images/Pics_for_site/x_3803b842.jpg" alt="" width="300" height="199" />Тогда это предложение для вас! </span>Мы дарим вам бесплатный билет на живой квест в <strong>[!CityName? &amp;declinatio=6!].</strong></span></p>
+<p>{{WhatsQuest}}</p>
+<h2>Почему бесплатно?</h2>
+<p>Это предложение распространяется только на работников отделов кадров. Дело в том, что живые квесты проходят не только в формате ”открытых игр” в кафе, наши игры часто заказывают компании в [!CityName? &amp;declinatio=6!] на различные <a href="организация-игр-на-праздник/проведение-корпоратива" target="_blank">корпоративные мероприятия</a>. И мы хотели бы познакомить с живыми квестами тех лиц в компании, которые организуют корпоративный досуг.</p>
+<div>
+<div><span>
+<p>Оставьте заявку на любую игру в <a href="расписание-живых-квестов">расписании</a> или позвоните нам по телефону в [!CityName? &amp;declinatio=6!]: <strong class="f3">[!PhoneNumber!]</strong> — в любом случае это будет бесплатно для вас. Никаких дополнительных обязательств посещение бесплатной игры не несёт — вы получите удовольствие от живого квеста и, если вам понравится, сможете рекомендовать нас руководству вашей компании. </p>
+</span></div>
+</div>
+<div class="testimonial"><span>«Огромное спасибо за игру!!! Море позитива, масса эмоций, потрясающие люди!!! Даже не ожидала, что это ТАК захватывающе!!! Жду новых сценариев!»</span>
+<div><span><em>Ирина Лонкина</em></span></div>
+</div>
+<p> </p>
+<div class="testimonial"><span>«Потрясающее проведение досуга! Под конец становится очень интересно, кто же всё-таки убийца, и что с этим делать? =) С нетерпением жду новых сюжетов!»</span>
+<div><span><em>Павел Цымбал</em></span></div>
+</div>
+<p> </p>
+<p>
+<object width="425" height="350" data="http://www.youtube.com/v/l35Ni1PfnTY&amp;feature" type="application/x-shockwave-flash">
+<param name="data" value="http://www.youtube.com/v/l35Ni1PfnTY&amp;feature" />
+<param name="src" value="http://www.youtube.com/v/l35Ni1PfnTY&amp;feature" />
+</object>
+</p>
+<p>{{ScenariosWeOffer}}</p>
+<p><img class="ifl" style="float: left;" src="assets/images/Pics_for_site/x_deb8b61e.jpg" alt="" width="300" height="201" />{{HowGoesLiveQuest}}</p>
+<p class="f5"><a href="[~16~]">» Посетить одну из ближайших игр</a></p>
+<p class="f5"><a href="[~21~]">» Узнать больше о проведении корпоратива</a></p>

@@ -1,0 +1,65 @@
+<?php
+/**
+return [
+'id' => '56',
+'type' => 'document',
+'contentType' => 'text/html',
+'pagetitle' => '8 марта',
+'longtitle' => 'Как провести 8 марта в [!CityName!]. Оригинальное празднование 8 марта',
+'description' => '',
+'alias' => 'game-for-8-th-march',
+'link_attributes' => '',
+'published' => '1',
+'parent' => '20',
+'isfolder' => '0',
+'template' => '10',
+'menuindex' => '12',
+'searchable' => '1',
+'cacheable' => '1',
+'deleted' => '0',
+'menutitle' => '',
+'donthit' => '0',
+'haskeywords' => '0',
+'hasmetatags' => '0',
+'privateweb' => '0',
+'privatemgr' => '0',
+'content_dispo' => '0',
+'hidemenu' => '0',
+];
+*/
+?>
+<h1>Как провести 8 марта в [!CityName? &amp;declinatio=6!]</h1>
+<div class="ifr"><img height="200" width="300" alt="необычно поздравить на 8 марта" src="/assets/images/Pics_for_site/x_00548a31.jpg" title="игра на 8 марта" style="float: right;" class="ifr" /></div>
+<p>Задумались, что подарить девушке на 8 марта? <br />Или как необычно поздравить женщин на работе?</p>
+<p class="justifyfull">Подарите захватывающее приключение в стиле «Пиратов Карибского моря» или же вместе начните расследование детективной истории в атмосфере романов Агаты Кристи. Устройте живой квест!</p>
+<p>{{WhatsQuestDesc}}</p>
+<div class="dark round block-2">
+<div class="citate"><img src="/themes/questoria/images/ico_cite-white.gif" class="fl" />
+<p class="justifyfull"><span>Очень здорово и интересно, роли были подобраны великолепно – все безумно подходили к своему персонажу :) Обеспечили отличным настроением и воспоминаниями на неделю вперед! </span></p>
+<div class="author">Анастасия Платонова</div>
+</div>
+</div>
+<div class="dark round block-2">
+<div class="citate"><img src="/themes/questoria/images/ico_cite-white.gif" class="fl" />
+<p class="justifyfull"><span>Впечатления самые позитивные и в огромном количестве.
+Еще раз огромное спасибо организаторам – это было фантастически!!!  </span></p>
+<div class="author">Катерина Мельникова</div>
+</div>
+</div>
+<p> </p>
+<div class="clear"> </div>
+<div class="columns-3">
+<div class="column column-1">
+{{CardOpenGameTogether}}
+        </div>
+<div class="column column-2">
+{{CardCorporative}}
+        </div>
+<div class="column column-3">
+{{CardSertPlay}}
+        </div>
+<div class="clear"> </div>
+</div>
+<!--
+<img class="ifl" style="float: left;" _mce_style="float: left;" src="/assets/images/Pics_for_site/x_a5d8713b.jpg" _mce_src="/assets/images/Pics_for_site/x_a5d8713b.jpg" alt="" width="230" height="322" />
+-->

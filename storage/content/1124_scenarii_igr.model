@@ -1,0 +1,31 @@
+<?php
+/**
+return [
+'id' => '1124',
+'type' => 'reference',
+'contentType' => 'text/html',
+'pagetitle' => 'Сценарии игр',
+'longtitle' => '',
+'description' => '',
+'alias' => 'сценарии-игр',
+'link_attributes' => 'target="_blank"',
+'published' => '1',
+'parent' => '1034',
+'isfolder' => '0',
+'template' => '0',
+'menuindex' => '3',
+'searchable' => '1',
+'cacheable' => '1',
+'deleted' => '0',
+'menutitle' => '',
+'donthit' => '0',
+'haskeywords' => '0',
+'hasmetatags' => '0',
+'privateweb' => '0',
+'privatemgr' => '0',
+'content_dispo' => '0',
+'hidemenu' => '0',
+];
+*/
+?>
+1070
