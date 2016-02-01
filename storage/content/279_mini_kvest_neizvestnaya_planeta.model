@@ -1,0 +1,102 @@
+<?php
+/**
+return [
+'id' => '279',
+'type' => 'document',
+'contentType' => 'text/html',
+'pagetitle' => 'Мини-квест «Неизвестная планета»',
+'longtitle' => '',
+'description' => '',
+'alias' => 'мини-квест-неизвестная-планета',
+'link_attributes' => '',
+'published' => '1',
+'parent' => '47',
+'isfolder' => '0',
+'template' => '11',
+'menuindex' => '37',
+'searchable' => '1',
+'cacheable' => '0',
+'deleted' => '0',
+'menutitle' => '',
+'donthit' => '0',
+'haskeywords' => '0',
+'hasmetatags' => '0',
+'privateweb' => '0',
+'privatemgr' => '0',
+'content_dispo' => '0',
+'hidemenu' => '0',
+];
+*/
+?>
+<div id="scenario_tabs" class="tabs-wrap">
+
+<ul class="tabs-buttons">
+<li><a class="bajax" href="#"><span class="ajax">Список персонажей сюжета</span></a></li>
+<li><a class="bajax" href="#"><span class="ajax">Отзывы о данном сюжете</span></a></li>
+<li><a class="bajax" href="#"><span class="ajax">Фотографии</span></a></li>
+</ul>
+<div class="tabs-sheets">
+<div class="tabs-sheet">
+<div class="scenario_group">
+<br />
+<p>Персонажи этого мини-квеста на начало игры ничего не помнят ни о себе, ни о других. Поэтому они пока что называют друг друга по внешности или приметам.</p>
+<p><strong>Сильный</strong></p>
+<p><strong>Ловкий</strong></p>
+<p><strong>Богатый</strong></p>
+<p><strong>Странный</strong></p>
+<p><strong>Решительный</strong></p>
+<p><strong>Умный</strong></p>
+<p><strong>Мрачный</strong></p>
+<p><strong>Весёлый</strong></p>
+<p><strong>Красивый</strong></p>
+<p><strong>Уверенный</strong></p>
+</div>
+</div>
+<div class="tabs-sheet">
+            Отзывы о сюжете [*pagetitle*]
+<p> </p>
+<div class="citate">
+<img class="fl" src="/themes/questoria/images/ico_cite-white.gif" alt="" />
+<p class="justifyleft">Принимал участие в квесте " Неизвестная планета",
+очень интересно и весело провёл время. Чем-то напоминает всем известную
+"Мафию", но квест живее, даёт каждому из игроков свою индивидуальную
+роль и задания. Большое поле для фантазий и действий. </p>
+<p class="justifyfull"><span> </span></p>
+<div class="author"><a rel="nofollow" href="https://vk.com/poweroffredom" target="_blank">Алексей Иванов</a>
+</div>
+</div>
+<p> </p>
+<div class="citate">
+<img class="fl" src="/themes/questoria/images/ico_cite-white.gif" alt="" />
+<p class="justifyleft">Ситуация сначала уже была убойная. Оригинальное начало и
+стартовые условия, у меня впервые роль злодея, а со мной 9 девчонок. Если бы
+они объединились против меня, все были бы в конце живы. Мдамс... Играть за
+добрых нравится всё же намного больше.) Опять все квесты пройдены...((( Большое
+спасибо за отличною атмосферу и времяпрепровождение.) Буду ждать новых.) </p>
+<p class="justifyfull"><span> </span></p>
+<div class="author"><a rel="nofollow" href="https://vk.com/id91447802" target="_blank">Никита Маратканов</a>
+</div>
+</div>
+<p> </p>
+<div class="citate">
+<img class="fl" src="/themes/questoria/images/ico_cite-white.gif" alt="" />
+<p class="justifyleft"> Быть отрицательным
+героем круто, тем более тому, кто в жизни добр и застенчив. Это не просто
+развлечение, это мощный стиммулятор, возможность непринужденного общения и
+веселья. Самый приятный эффект - игра заставляет думать и переосмысливать все
+произошедшее, складывать пазл в голове...и вспоминать новых знакомых! </p>
+<p class="justifyfull"><span> </span></p>
+<div class="author"><a rel="nofollow" href="https://vk.com/id127805923" target="_blank">Екатерина Бодрова</a>
+</div>
+</div>
+</div>
+<div class="tabs-sheet">
+        Фотографии сюжета [*pagetitle*]
+<br />
+<img title="неизвестная планета" src="/data/neizv_planeta_1.jpg" alt="квестория неизвестная планета" width="680" height="272" />
+<img title="неизвестная планета" src="/data/neizv_planeta_2.jpg" alt="квестория неизвестная планета" width="340" height="227" />
+<img title="неизвестная планета" src="/data/neizv_planeta_3.jpg" alt="квестория неизвестная планета" width="340" height="227" />
+<img title="неизвестная планета" src="/data/neizv_planeta_4.jpg" alt="квестория неизвестная планета" width="340" height="227" />
+<img title="неизвестная планета" src="/data/neizv_planeta_5.jpg" alt="квестория неизвестная планета" width="340" height="227" />   </div>
+</div>
+</div>

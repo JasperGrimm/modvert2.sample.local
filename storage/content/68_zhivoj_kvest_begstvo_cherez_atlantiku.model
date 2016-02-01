@@ -1,0 +1,123 @@
+<?php
+/**
+return [
+'id' => '68',
+'type' => 'document',
+'contentType' => 'text/html',
+'pagetitle' => 'Живой квест «Бегство через Атлантику»',
+'longtitle' => '',
+'description' => '',
+'alias' => 'живой-квест-бегство-через-атлантику',
+'link_attributes' => '',
+'published' => '1',
+'parent' => '47',
+'isfolder' => '0',
+'template' => '11',
+'menuindex' => '18',
+'searchable' => '1',
+'cacheable' => '0',
+'deleted' => '0',
+'menutitle' => '',
+'donthit' => '0',
+'haskeywords' => '0',
+'hasmetatags' => '0',
+'privateweb' => '0',
+'privatemgr' => '0',
+'content_dispo' => '0',
+'hidemenu' => '0',
+];
+*/
+?>
+<div id="scenario_tabs" class="tabs-wrap">
+
+<ul class="tabs-buttons">
+<li><a class="bajax" href="#"><span class="ajax">Список персонажей сюжета</span></a></li>
+<li><a class="bajax" href="#"><span class="ajax">Отзывы о данном сюжете</span></a></li>
+<li><a class="bajax" href="#"><span class="ajax">Фотографии</span></a></li>
+</ul>
+<div class="tabs-sheets">
+<div class="tabs-sheet">
+<div class="scenario_group">
+<h3>Экипаж яхты</h3>
+<br />
+<p><strong>Мишель Вилья. </strong>Капитан</p>
+<p><strong>Фернандо Сапота. </strong>Старший помощник</p>
+<p><strong>Диего Ривейра. </strong>Матрос</p>
+<p><strong>Клара Сантана. </strong>Корабельный врач</p>
+<p><strong>Мерседес Гарсиа. </strong>Барменша</p>
+<p><strong>Лев Вейгнер. </strong>Официант</p>
+<p><strong>Сандра Рей. </strong>Радист </p>
+</div>
+<div class="scenario_actors">
+<h3>Пассажиры</h3>
+<br />
+<p><strong>Виктор Корено</strong></p>
+<p><strong>Анжей Заславский</strong></p>
+<p><strong>Ганс Гретер</strong></p>
+<p><strong>Дениза Сиртакос</strong></p>
+<p><strong>Алехандро Карузо</strong></p>
+<p><strong>Поль Брюссо</strong></p>
+<p><strong>Антонио Трезини</strong></p>
+<p><strong>Дульсинея Торрес. </strong>Энергичная дама в возрасте</p>
+<p><strong>Томазо Бальбоа. </strong>Мужчина лет 60-ти</p>
+<p><strong>Кармен Хара</strong></p>
+<p><strong>Хосе Лоренсо. </strong>Настоящий испанский мачо</p>
+</div>
+</div>
+<div class="tabs-sheet">
+            Отзывы о сюжете [*pagetitle*]
+<p> </p>
+<div class="citate">
+<img class="fl" src="/themes/questoria/images/ico_cite-white.gif" alt="" />
+<p class="justifyfull"><span>Играла в «Бегство через Атлантику». Шикарная игра, спасибо организаторам и участникам! Посмеялись от души!  Я не выполнила ни одной цели, правда помогла некоторым другим их выполнить))) Совершенно не обидно, весело и непринужденно! Отличный вариант времяпрепровождения. Обязательно сыграю в остальные сюжеты! </span></p>
+<div class="author"><a rel="nofollow" href="http://vk.com/nastur" target="_blank">Анастасия Андронова</a>
+</div>
+</div>
+<p> </p>
+<div class="citate">
+<img class="fl" src="/themes/questoria/images/ico_cite-white.gif" alt="" />
+<p class="justifyfull"><span>Я получил даже больше, чем ожидал... всё очень завораживает, затягивает... порой людям в голову приходят безумные идеи и все получается еще более запутанно и интересно. Мне безумно понравилось =-) </span></p>
+<div class="author"><a rel="nofollow" href="http://vk.com/asalam" target="_blank">Салам Алиев</a>
+</div>
+</div>
+<p> </p>
+<div class="citate">
+<img class="fl" src="/themes/questoria/images/ico_cite-white.gif" alt="" />
+<p class="justifyfull"><span>В восторге! Обязательно буду играть еще.
+Удивило, как некоторые могут за такое короткое время достаточно сильно вжиться в роль. Надеюсь, еще увидимся с участниками – например, в следующем сюжете. </span></p>
+<div class="author"><a rel="nofollow" href="http://vk.com/bitseybloom" target="_blank">Майя Тагунова</a>
+</div>
+</div>
+<p> </p>
+<div class="citate">
+<img class="fl" src="/themes/questoria/images/ico_cite-white.gif" alt="" />
+<p class="justifyfull"><span>Да, игра прошла на ура!!! буду обязательно делиться впечатлениями со своими друзьями )))
+Всем огромное спасибо за хорошее настроение и позитив! </span></p>
+<div class="author"><a rel="nofollow" href="http://vk.com/anogina" target="_blank">Alisa Nogina</a>
+</div>
+</div>
+<p> </p>
+<div class="citate">
+<img class="fl" src="/themes/questoria/images/ico_cite-white.gif" alt="" />
+<p class="justifyfull"><span>Игра была отличная!!! Интересно, запутанно, неожиданный результат – в общем, как и хотелось бы в детективной игре! </span></p>
+<div class="author"><a rel="nofollow" href="http://vk.com/id8427562" target="_blank">Оля Рыбакова</a>
+</div>
+</div>
+<p> </p>
+<div class="citate">
+<img class="fl" src="/themes/questoria/images/ico_cite-white.gif" alt="" />
+<p class="justifyfull"><span>Все, кто был сегодня, играли в эту игру в первый раз. И тот факт, что мы посидели за одним столом после игры, обмениваясь впечатлениями, думаю, о многом говорит :D </span></p>
+<div class="author"><a rel="nofollow" href="http://vk.com/id18062602" target="_blank">Андрей Рыбалко</a>
+</div>
+</div>
+</div>
+<div class="tabs-sheet">
+        Фотографии сюжета [*pagetitle*]
+<br /><img src="/assets/images/Pics_for_site/x_4c807b29.jpg" alt="" width="339" height="225" />
+<img src="/assets/images/Pics_for_site/x_f98de22c.jpg" alt="" width="338" height="225" />
+<img src="/assets/images/Pics_for_site/x_deb8b61e.jpg" alt="" width="336" height="225" />
+<img src="/assets/images/Pics_for_site/x_ee4aa699.jpg" alt="" width="339" height="225" />
+<img src="/assets/images/Pics_for_site/x_0eb0e0b6.jpg" alt="" width="339" height="235" />
+<img src="/assets/images/Pics_for_site/x_28d85259 (1).jpg" alt="" width="339" height="235" /></div>
+</div>
+</div>

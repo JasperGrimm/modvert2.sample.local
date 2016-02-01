@@ -1,0 +1,73 @@
+<?php
+/**
+return [
+'id' => '323',
+'type' => 'document',
+'contentType' => 'text/html',
+'pagetitle' => 'What is live quest',
+'longtitle' => 'Live quest',
+'description' => '',
+'alias' => 'what-is-live-quest',
+'link_attributes' => '',
+'published' => '1',
+'parent' => '322',
+'isfolder' => '0',
+'template' => '8',
+'menuindex' => '0',
+'searchable' => '1',
+'cacheable' => '0',
+'deleted' => '0',
+'menutitle' => '',
+'donthit' => '0',
+'haskeywords' => '0',
+'hasmetatags' => '0',
+'privateweb' => '0',
+'privatemgr' => '0',
+'content_dispo' => '0',
+'hidemenu' => '0',
+];
+*/
+?>
+<div style="line-height: 1.5em;">
+<h1>What is live quest?</h1>
+<p class="justifyfull"><img class="ifl" style="float: left; margin-right: 50px; margin-top: 15px; margin-bottom: 15px;" title="история персонажей" src="http://questoria.ru/data/forblog/geroi_kvesta_1.jpg" alt="что такое живые квесты" /></p>
+<p class="justifyfull"> </p>
+<p class="justifyfull"><strong><span style="font-size: 14px; text-align: justify;"><strong>Lorem ipsum ....</strong>?</span></strong></p>
+<strong>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+ tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim 
+veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea 
+commodo consequat. Duis aute irure dolor in reprehenderit in voluptate 
+velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint 
+occaecat cupidatat non proident, sunt in culpa qui officia deserunt 
+mollit anim id est laborum.</strong>
+<p class="justifyfull"><span style="text-align: justify;"><img style="float: right; margin-left: 50px; margin-top: 15px; margin-bottom: 15px;" title="будь героем" src="http://questoria.ru/data/forblog/geroi_kvesta_2.jpg" alt="что такое живые квесты" /></span><strong><span style="text-align: justify;"> </span></strong></p>
+<p class="justifyfull"> </p>
+<p class="justifyfull"> </p>
+<p class="justifyfull"><strong><span style="font-size: 14px; text-align: justify;"><strong>Lorem ipsum ....</strong>?</span></strong></p>
+<p class="justifyfull"><strong>Lorem ipsum ....</strong></p>
+<p class="justifyfull"> </p>
+<p class="justifyfull"><br /><span> </span></p>
+<p class="justifyfull"> </p>
+<br />
+<p style="text-align: center;"> </p>
+</div>
+<div style="text-align: center;">
+{{Video-what-is-quests}}
+<p class="tac f2" style="text-align: center;"> </p>
+<p class="tac f2" style="text-align: center;"> </p>
+</div>
+<div class="clear"> </div>
+<p style="text-align: center;"><strong style="font-size: 18px;">Lorem Ipsum!</strong></p>
+<p class="justifyfull"><strong><img style="display: block; margin-left: auto; margin-right: auto;" src="http://www.questoria.ru/data/strelka.jpg" alt="" /><br /></strong></p>
+<div class="clear"> </div>
+<div class="columns-3">
+<div class="column column-1">
+{{CardOpenGame}}
+        </div>
+<div class="column column-2">
+{{CardDR}}
+        </div>
+<div class="column column-3">
+{{CardCorporative}}</div>
+</div>
+<p> </p>
