@@ -1,0 +1,40 @@
+<?php
+/**
+return [
+'id' => '300',
+'type' => 'document',
+'contentType' => 'text/html',
+'pagetitle' => 'Sendsay email confirm',
+'longtitle' => '',
+'description' => '',
+'alias' => 'email-confirm',
+'link_attributes' => '',
+'published' => '1',
+'parent' => '299',
+'isfolder' => '0',
+'template' => '27',
+'menuindex' => '0',
+'searchable' => '0',
+'cacheable' => '0',
+'deleted' => '0',
+'menutitle' => '',
+'donthit' => '0',
+'haskeywords' => '0',
+'hasmetatags' => '0',
+'privateweb' => '0',
+'privatemgr' => '0',
+'content_dispo' => '0',
+'hidemenu' => '1',
+];
+*/
+?>
+<div class="wrap content">
+    <h1>Подтвердите подписку</h1>
+    <p>Спасибо, что вы с нами!</p>
+    <p>Чтобы получить купон на скидку,<br>вам необходимо подтвердить свой email адрес.</p>
+    <p>Пройдите в свой почтовый ящик, найдите вот такое письмо:</p>
+    <p><img src="/themes/questoria/images/screen_web_interf.png" style="width: 800px;"></p>
+    <p>Нажмите на кнопку:</p>
+    <p><img src="/themes/questoria/images/part_of_letter.png" style="width: 400px;"></p>
+    [!SendsayEmailConfirm!]
+</div>

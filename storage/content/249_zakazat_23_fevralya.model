@@ -1,0 +1,32 @@
+<?php
+/**
+return [
+'id' => '249',
+'type' => 'document',
+'contentType' => 'text/html',
+'pagetitle' => 'Отметить 23 февраля в [!CityName!]',
+'longtitle' => '',
+'description' => '',
+'alias' => 'заказать-23-февраля',
+'link_attributes' => '',
+'published' => '1',
+'parent' => '20',
+'isfolder' => '0',
+'template' => '18',
+'menuindex' => '23',
+'searchable' => '1',
+'cacheable' => '0',
+'deleted' => '0',
+'menutitle' => '',
+'donthit' => '0',
+'haskeywords' => '0',
+'hasmetatags' => '0',
+'privateweb' => '0',
+'privatemgr' => '0',
+'content_dispo' => '0',
+'hidemenu' => '1',
+];
+*/
+?>
+<p>{{LandingContent_Feb23}}
+{{QuaranteeLandingDialog}}</p>

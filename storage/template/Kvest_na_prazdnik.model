@@ -25,11 +25,10 @@ if(td_text.length > 13) {td_currency.html('<br>' + td_currency.text()); $this.cs
 });
 </script>
 <div class="wrap content">
-
-        {{Breadcrumbs}}
-
+{{Breadcrumbs}}
 	<div class="body-wrap">
 		<div class="body-right">
+
 			[*content*]			
 
 			<div>[!YandexCounter_TargetScript? &target=PrivateGame_OrderForm,Corporative_OrderForm &tid=21!]</div>

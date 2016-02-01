@@ -1,7 +1,7 @@
 <?php
 /**
 return [
-'id' => '174',
+'id' => '173',
 'name' => 'SendsayEmailConfirm',
 'description' => '',
 'editor_type' => '0',
@@ -12,4 +12,5 @@ return [
 'moduleguid' => ' ',
 ];
 */
+
 include 'Application/Snippets/SendsayEmailConfirm.php';

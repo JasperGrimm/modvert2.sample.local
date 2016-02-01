@@ -1,0 +1,117 @@
+<?php
+/**
+return [
+'id' => '157',
+'type' => 'document',
+'contentType' => 'text/html',
+'pagetitle' => 'Живой квест «Серебряный век»',
+'longtitle' => '',
+'description' => '',
+'alias' => 'живой-квест-серебряный-век',
+'link_attributes' => '',
+'published' => '1',
+'parent' => '47',
+'isfolder' => '0',
+'template' => '11',
+'menuindex' => '28',
+'searchable' => '1',
+'cacheable' => '0',
+'deleted' => '0',
+'menutitle' => '',
+'donthit' => '0',
+'haskeywords' => '0',
+'hasmetatags' => '0',
+'privateweb' => '0',
+'privatemgr' => '0',
+'content_dispo' => '0',
+'hidemenu' => '0',
+];
+*/
+?>
+<div id="scenario_tabs" class="tabs-wrap">
+    
+<ul class="tabs-buttons">
+<li><a class="bajax" href="#"><span class="ajax">Список персонажей сюжета</span></a></li>
+<li><a class="bajax" href="#"><span class="ajax">Отзывы о данном сюжете</span></a></li>
+<li><a class="bajax" href="#"><span class="ajax">Фотографии</span></a></li>
+</ul>
+<div class="tabs-sheets">
+<div class="tabs-sheet">
+<div class="scenario_group">
+<h3>Обитатели дома</h3>
+<br />
+<p><strong>Анна Павловна</strong><br />Хозяйка дома, в котором собирается салон. Состоятельная вдова, повторно собирается замуж. Привечает талантливых поэтов.</p>
+<p><strong>Дарья Павловна</strong><br />Сестра хозяйки. Барышня резкая в суждениях и для женщины слишком свободомыслящая.</p>
+<p><strong>Жюли</strong><br />Редкая красавица, подруга хозяйки дома. Развлекает гостей разными азартными играми.</p>
+</div>
+<div class="scenario_actors">
+<h3>Поэты-завсегдатаи</h3>
+<br />
+<p><strong>Лев Лисянский</strong><br />Один из лучших современных критиков и сам – прекрасный поэт. Завсегдатай салона. Человек твёрдых принципов и широких взглядов.</p>
+<p><strong>Чайко</strong><br />Протеже хозяйки дома, молодой поэт. Пишет очень неровно, может подолгу не встречать музы, в стиле его стихов тоже нет единства.</p>
+<p><strong>Осенин/Осенина</strong><br />Самобытный поэт. Некоторые считают его восходящей московской звездой, другие же – просто вычурным выскочкой. </p>
+<p><strong>Галошин</strong><br />Поэт, игрок, юноша без гроша за душой (спустил всё в азартные игры).</p>
+<p><strong>Велимир Аристархов / Велимира Аристархова</strong><br />Признанный мэтр московской поэзии, один из завсегдатаев салона. В своей оценке чужих талантов часто бывает предвзят. Богат.</p>
+<p><strong>Бояринов/Бояринова</strong><br />Поэт. Пишет дерзкие революционные стихи. Дружен с Дарьей Павловной. </p>
+<p><strong>Рудкович</strong><br />Поэт, яркая личность, человек прогрессивных взглядов.</p>
+</div>
+<br />
+<div class="scenario_group">
+<h3>Поэты-новички</h3>
+<br />
+<p><strong>Мария Ромашкова</strong><br />Молодая поэтесса, восхищается героями Чернышевского, пишет, однако, милые пасторали. </p>
+<p><strong>Ян/Яна Краковец</strong><br />Поляк. Спутник философа Хлопоткина. </p>
+</div>
+<div class="scenario_group">
+<h3>Другие гости</h3>
+<br />
+<p><strong>Анастас Налимов / Анастасия Налимова</strong><br />Редактор, завсегдатай салона. Не скрывает своих симпатий революционной тематике в поэзии. Ищет таланты для литературного журнала «Русская Мысль». </p>
+<p><strong>Евгений Хлопоткин / Евгения Хлопоткина</strong><br />Радикальный философ, только что вернулся из Европы. Заглянул в дом на правах старого друга хозяйки.</p>
+<p><strong>Серж</strong><br />Один из приятелей Дарьи Павловны. В доме не в первый раз. Стихов не читает, проводит время за игральным столом.</p>
+<p><strong>Язев/Язева</strong><br />Новичок в салоне. Пришёл по приглашению редактора Налимова и вроде с ним приятельствует. От поэзии, кажется, далёк. Любитель азартных игр?</p>
+<p><strong>Валентин Аристархов / Валентина Аристархова</strong><br />Новичок в салоне, знакомый Дарьи Павловны. Возможно, что и поэт.</p>
+<p><strong>Воронин/Воронина</strong><br />Новичок в салоне. Обладатель уникального цепкого взгляда. В салоне по рекомендации Марии Ромашковой.</p>
+<p><strong>Пётр Кулаковский</strong><br />Ещё один новичок, введён в дом Дарьей Павловной. Пока осматривается, проявляет интерес к поэзии и Жюли.</p>
+<p><strong>Мирослав/Мирослава Медных</strong><br />Заглянул в дом для встречи с Жюли.</p>
+<p><strong>Поль</strong><br />Репортёр. Очень всем интересуется.</p>
+</div>
+</div>
+<div class="tabs-sheet">
+            Отзывы о сюжете [*pagetitle*]
+<p> </p>
+<div class="citate">
+<img class="fl" src="themes/questoria/images/ico_cite-white.gif" alt="" />
+<p class="justifyfull"><span>Сказать, что это было потрясающе – не сказать ничего! Пожалуй, из всех квестов, проводимых в кафе, этот самый лучший, неповторимый в реальности атмосферы. В отличие от других, этот сценарий игроки могут отыгрывать на полную катушку, заводя светские беседы и выкрикивая высокопарные фразы, потому что он про такую близкую многим историю России начала прошлого века. Революционные партии, тайные кружки, дуэли, светские рауты, поэзия – это просто музыка для меня :) Отдельной похвалы заслуживает идея с проведением поэтического турнира – многие поэты, читавшие стихи, делали это весьма артистично, что в разы приумножило реальность происходящего в игре. Авторы квеста очень постарались, удачно запутали клубок событий и связей. Спасибо им за это!
+</span></p>
+<div class="author"><a rel="nofollow" href="https://vk.com/id102248192" target="_blank">Alex Strelets</a>
+</div>
+</div>
+<p> </p>
+<div class="citate">
+<img class="fl" src="themes/questoria/images/ico_cite-white.gif" alt="" />
+<p class="justifyfull"><span>Безумно клевая идея с поэтическим турниром, такого погружения в атмосферу я давно не припомню. Практически все господа поэты на редкость органично вжились в свои роли =) С удовольствием сыграю еще раз.
+<br />
+PS: в ночь после квеста мне снились революционеры =)
+</span></p>
+<div class="author"><a rel="nofollow" href="https://vk.com/id38828427" target="_blank">Алиса Логинова</a>
+</div>
+</div>
+</div>
+<div class="tabs-sheet">
+        Фотографии сюжета [*pagetitle*]
+<br />
+<img src="http://questoria.ru/assets/images/Pics_for_site/Photo/Serebryany_vek (1).jpg" alt="" width="340" height="227" />
+<img src="http://questoria.ru/assets/images/Pics_for_site/Photo/Serebryany_vek (2).jpg" alt="" width="340" height="227" />
+<img src="http://questoria.ru/assets/images/Pics_for_site/Photo/Serebryany_vek (3).jpg" alt="" width="340" height="227" />
+<img src="http://questoria.ru/assets/images/Pics_for_site/Photo/Serebryany_vek (4).jpg" alt="" width="340" height="227" />
+<img src="http://questoria.ru/assets/images/Pics_for_site/Photo/Serebryany_vek (5).jpg" alt="" width="340" height="227" />
+<img src="http://questoria.ru/assets/images/Pics_for_site/Photo/Serebryany_vek (6).jpg" alt="" width="340" height="227" />
+<img src="http://questoria.ru/assets/images/Pics_for_site/Photo/Serebryany_vek (7).jpg" alt="" width="340" height="227" />
+<img src="http://questoria.ru/assets/images/Pics_for_site/Photo/Serebryany_vek (8).jpg" alt="" width="340" height="227" />
+<img src="/assets/images/Pics_for_site/Photo/Serebryany_vek (10).jpg" alt="" width="339" height="226" />
+<img src="/assets/images/Pics_for_site/Photo/Serebryany_vek (12).jpg" alt="" width="339" height="226" />
+<img src="/assets/images/Pics_for_site/Photo/Serebryany_vek (11).jpg" alt="" width="339" height="226" />
+<img src="/assets/images/Pics_for_site/Photo/Serebryany_vek (9).jpg" alt="" width="339" height="226" />
+</div>
+</div>
+</div>

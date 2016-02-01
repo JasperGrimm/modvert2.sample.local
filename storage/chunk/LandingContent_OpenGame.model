@@ -1,7 +1,7 @@
 <?php
 /**
 return [
-'id' => '137',
+'id' => '102',
 'name' => 'LandingContent_OpenGame',
 'description' => 'LP для открытых игр',
 'editor_type' => '0',
@@ -177,7 +177,7 @@ return [
 
 <div class="section order-form order-form-w-price">
     <div class="wrap">
-        <div class="title">Оставьте заявку</div>
+        <div class="title">Оставьте заявку:</div>
         <div class="message"></div>
         <form method="post" id="order" class="open_game_order_form" action="/[~50~]?0">
             <input type="hidden" name="type_id" value="1">

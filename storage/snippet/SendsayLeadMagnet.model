@@ -1,7 +1,7 @@
 <?php
 /**
 return [
-'id' => '172',
+'id' => '175',
 'name' => 'SendsayLeadMagnet',
 'description' => '',
 'editor_type' => '0',
@@ -12,4 +12,5 @@ return [
 'moduleguid' => ' ',
 ];
 */
+
 include 'Application/Snippets/SendsayLeadMagnet.php';

@@ -15,7 +15,7 @@ return [
 'template' => '8',
 'menuindex' => '17',
 'searchable' => '1',
-'cacheable' => '1',
+'cacheable' => '0',
 'deleted' => '0',
 'menutitle' => '',
 'donthit' => '0',
