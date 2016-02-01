@@ -12,7 +12,6 @@ return [
 'moduleguid' => ' ',
 ];
 */
-
 $id = $modx->documentIdentifier;
 $site_url = $modx->config['site_url'];
 preg_match('/https?:\/\/(moscow)/', $site_url, $m);

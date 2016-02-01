@@ -12,7 +12,6 @@ return [
 'moduleguid' => ' ',
 ];
 */
-
 $id = $modx->documentIdentifier;
 if( $id == 1 ) { // Если главная страница
 ?>

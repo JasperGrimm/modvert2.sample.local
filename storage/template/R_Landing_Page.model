@@ -52,7 +52,7 @@ return [
         <div id="order">
           <div class="block_text_content" id="order_form_main">
 
-            <p class="bold">Оставьте заявку:</p>
+            <p class="bold">Оставьте заявку</p>
 [!ifFranchaizi_mobile? &declinatio=6 &type=private &type=private_additional_user &OrderType=[*OrderType*] &ThankPage=[*ThankPage*] !]
 
           </div>

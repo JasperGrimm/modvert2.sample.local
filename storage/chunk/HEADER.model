@@ -61,8 +61,8 @@ return [
     <script type="text/javascript" src="/themes/questoria/js/jquery.ui.datepicker-ru.js"></script>
     <script type="text/javascript" src="/themes/questoria/js/jquery.selectBox.min.js"></script>
     <script type="text/javascript" src="/themes/questoria/js/jquery.scrollTo-1.4.2-min.js"></script>
-    <!--<script type="text/javascript" src="/themes/questoria/js/jquery.grayscale.js"></script>
-    <script type="text/javascript" src="/themes/questoria/js/grayscale.js"></script>-->
+    <script type="text/javascript" src="/themes/questoria/js/jquery.grayscale.js"></script>
+    <script type="text/javascript" src="/themes/questoria/js/grayscale.js"></script>
     <script type="text/javascript" src="/themes/questoria/js/jquery.form.js"></script>
     <script type="text/javascript" src="/themes/questoria/js/plugins/validation/jquery.form-1.0.0.js"></script>
     <script type="text/javascript" src="/themes/questoria/js/bootstrap.min.js"></script>
@@ -176,7 +176,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         </div>
         <span itemprop="telephone">[!PhoneNumber? &phone=1!]</span>
         <br/>
-        <a href="/[!if? &is=`[*lang*]:is:en` &then=`[~318~]` &else=`[~28~]`!]" class="readmore-1">[!trans? &m=HEADER_LINK_CONTACTS!]</a>
+        <a href="/[!if? &is=`[*lang*]:is:en` &then=`[~320~]` &else=`[~28~]`!]" class="readmore-1">[!trans? &m=HEADER_LINK_CONTACTS!]</a>
     </div>
     <div class="logo">
         <a href="[!sameHost!]"><img src="[!trans? &m=LOGO_URL!]" alt="[!trans? &m=LOGO_ALT!]" itemprop="logo" /></a>

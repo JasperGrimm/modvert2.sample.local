@@ -12,5 +12,4 @@ return [
 'moduleguid' => ' ',
 ];
 */
-
 include "Application/Controller/FranchiseePriceCalculator.php";

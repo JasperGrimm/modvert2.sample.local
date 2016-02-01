@@ -1,6 +1,6 @@
 <?php
 return [
-'id' => '19',
+'id' => '31',
 'type' => 'dropdown',
 'name' => 'strict_lang',
 'caption' => 'Для какого языка показывать страницу?',
@@ -14,7 +14,7 @@ return [
 'display_params' => '',
 'default_text' => '@EVAL return null;',
 'templates' => [
-5, 6, 7, 8, 10, 11, 12, 13, 15, 16, 17, 18, 19, 20, 21, 22, 25, 26, 27
+5, 6, 7, 8, 10, 11, 12, 13, 15, 16, 17, 18, 19, 20, 21, 22, 25, 26, 27, 30, 31
 ],
 'content_values' => [
 '247' => 'en',

@@ -12,7 +12,6 @@ return [
 'moduleguid' => ' ',
 ];
 */
-
 echo '<script type="text/javascript">document.write(\'<form id="lj_form" method="post" action="http://www.livejournal.com/update.bml" target="_blank"><div style="display:none;visible:false"><input type="text" maxlength="100" tabindex="15" value="" name="subject" class="text" size="43" /><textarea rows="1" cols="1" name="event">\'+social_description+\'</textarea></div></form>\');</script>';
  /*data-href="<?= $_SERVER['SERVER_NAME'].$_SERVER['REQUEST_URI'];?>"*/
 ?>

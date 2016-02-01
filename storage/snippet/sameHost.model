@@ -1,7 +1,7 @@
 <?php
 /**
 return [
-'id' => '183',
+'id' => '185',
 'name' => 'sameHost',
 'description' => 'Возвращает текущий хост',
 'editor_type' => '0',

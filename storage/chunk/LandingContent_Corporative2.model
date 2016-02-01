@@ -5,7 +5,7 @@ return [
 'name' => 'LandingContent_Corporative2',
 'description' => 'A/B testing для картинки ',
 'editor_type' => '0',
-'category' => '21',
+'category' => '0',
 'cache_type' => '0',
 'locked' => '0',
 ];
@@ -184,14 +184,13 @@ return [
 <div class="section scenarios corp-scenarios">
     <div class="wrap">
         <div class="title">Выберите сценарий квестории</div>
-        [!Scenarios? &show_all_links=0 &button_link=#order &button_text=Оставить заявку &show_not_available_scenarios=0 &show_as_gallery=1 &landing_page = true &exclude=mini_quest,children!]
+        [!Scenarios? &show_all_links=0 &button_link=#order &button_text=Оставить заявку &show_not_available_scenarios=0 &show_as_gallery=1 &landing_page = true &exclude=children!]
     </div>
 </div>
 <!--
 <div class="section how-match">
     <div class="wrap">
         <div class="title">Сколько стоит квестория на корпоратив?</div>
-
         <div class="subtitle">Организация корпоратива в [!CityName? &declinatio=6!] стоит <span class="price-responsive left" data-landing="true" data-value="[!GamePrice? &plan=econom &game=corporate &hide_currency=true!]"></span> <span class="currency">[!GetFranchiseeInfo? &name=currency!]</span> В эту сумму входит:</div>
         <div class="columns-2">
             <div class="column column-1">

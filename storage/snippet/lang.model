@@ -1,7 +1,7 @@
 <?php
 /**
 return [
-'id' => '185',
+'id' => '177',
 'name' => 'lang',
 'description' => 'текущий язык',
 'editor_type' => '0',

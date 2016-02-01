@@ -12,7 +12,6 @@ return [
 'moduleguid' => '',
 ];
 */
-
 /**
 --------------------------------------------------------------------------------
 :: Preamble
@@ -403,6 +402,7 @@ $cfg['mbstring'] = isset($mbstring) ? $mbstring : (isset($__mbstring) ? $__mbstr
 //  purge: number of logs allowed before to do an automatic purge of the table
 //        Default: 200
 $cfg['asLog'] = isset($asLog) ? $asLog : (isset($__asLog) ? $__asLog : $dcfg['asLog']);
+
 
 //------------------------------------------------------------------------------
 // Configuration - Simple Ajax mode

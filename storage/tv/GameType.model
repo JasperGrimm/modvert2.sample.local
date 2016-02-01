@@ -27,7 +27,5 @@ return [
 '253' => 'corporate',
 '254' => 'corporate',
 '261' => 'child_game',
-'304' => 'corporate',
-'326' => 'corporate',
 ],
 ];

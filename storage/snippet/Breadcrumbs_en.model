@@ -1,7 +1,7 @@
 <?php
 /**
 return [
-'id' => '181',
+'id' => '183',
 'name' => 'Breadcrumbs_en',
 'description' => 'Snippet',
 'editor_type' => '0',
@@ -12,5 +12,4 @@ return [
 'moduleguid' => '',
 ];
 */
-
 include 'Application/Snippets/Dumped/Breadcrumbs_en.php';

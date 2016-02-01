@@ -14,9 +14,5 @@ return [
 */
 
 $qst = Wave_Registry::get('Questoria');
-$franchise = \Application\Services\Facades\App::get('franchise');
-if (is_object($franchise))
-{
-  $city_id = $franchise->getId();
-  $qst->blog->Execute( $city_id );
-}
+$city_id = \Application\Services\Facades\App::get('franchise')->getId();
+$qst->blog->Execute( $city_id );

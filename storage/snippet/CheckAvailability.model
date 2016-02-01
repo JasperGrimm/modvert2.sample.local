@@ -12,7 +12,6 @@ return [
 'moduleguid' => ' ',
 ];
 */
-
 $qst = Wave_Registry::get('Questoria');
 $city_id = $qst->geo->getCityId();
 $franchisee = $qst->user->getActiveFranchisee($city_id);

@@ -9,7 +9,7 @@ return [
 'cache_type' => '0',
 'locked' => '0',
 'properties' => '',
-'moduleguid' => '',
+'moduleguid' => ' ',
 ];
 */
 

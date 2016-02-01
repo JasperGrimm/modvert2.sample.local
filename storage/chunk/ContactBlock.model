@@ -13,7 +13,7 @@ return [
 ?>
 <div class="dark round block-2 tac contact_block">
  <h4>Головной офис компании</h4>
-  <br /> STAGING CHANGES
+  <br />
 	<span>
         <img src="/themes/questoria/images/ico_email.gif" alt="" style="margin-right:5px" />
 	<a href="mailto:info@questoria.ru">info@questoria.ru</a>, <a href="http://vk.com/akorsun" target="_blank" rel="nofollow">vk.com/akorsun</a>
