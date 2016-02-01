@@ -19,7 +19,7 @@ return [
 'content_values' => [
 '202' => 'corporate',
 '241' => 'corporate',
-'21' => 'child_game',
+'21' => 'corporate',
 '243' => 'corporate',
 '244' => 'child_game',
 '22' => 'child_game',
@@ -27,5 +27,7 @@ return [
 '253' => 'corporate',
 '254' => 'corporate',
 '261' => 'child_game',
+'304' => 'corporate',
+'326' => 'corporate',
 ],
 ];

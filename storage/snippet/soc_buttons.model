@@ -12,6 +12,7 @@ return [
 'moduleguid' => ' ',
 ];
 */
+
 ?>
 <div>
 <?php

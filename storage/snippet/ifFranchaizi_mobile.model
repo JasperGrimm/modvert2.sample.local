@@ -1,7 +1,7 @@
 <?php
 /**
 return [
-'id' => '170',
+'id' => '187',
 'name' => 'ifFranchaizi_mobile',
 'description' => '',
 'editor_type' => '0',
@@ -12,4 +12,5 @@ return [
 'moduleguid' => ' ',
 ];
 */
+
 include 'Application/Snippets/Dumped/ifFranchaizi_mobile.php';

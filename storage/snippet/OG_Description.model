@@ -12,6 +12,7 @@ return [
 'moduleguid' => ' ',
 ];
 */
+
 $descr = '';
 
 $page_id = $modx->documentIdentifier;

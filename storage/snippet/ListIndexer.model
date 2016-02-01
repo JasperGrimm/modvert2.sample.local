@@ -12,6 +12,7 @@ return [
 'moduleguid' => '',
 ];
 */
+
 // added in 1.0.1: hidePrivate (hide items from unauthorized users)
 //
 // Derived from ListIndex 0.6j by jaredc@honeydewdesign.com
@@ -234,6 +235,7 @@ $fullDesc = (isset($LIn_fDesc))? $LIn_fDesc : $fullDesc ;
 $sortDir = (isset($LIn_dir))? $LIn_dir : $sortDir ;
 if ($sortDir == '') $sortDir = ($sortBy == 'date')? 'DESC' : 'ASC' ;
 
+
 // Make useful variable shortcut for the content table
 //$tbl = $modx->dbConfig['dbase'] . "." . $modx->dbConfig['table_prefix'] . "site_content";
 $tblsc = $modx->getFullTableName("site_content");
@@ -428,6 +430,7 @@ if ( ($mode == 'full') && ($recentLimit > $fullQty) && ($fullQty) ){
   $pagination = '<div class="LIn_pagination">'."\n".$pagination."\n</div>\n";
   
 }
+
 
 // ---------------------------------------------------
 // Create title if wanted

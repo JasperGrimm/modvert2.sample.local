@@ -22,4 +22,4 @@ return [
         $('#vk_like_iframe').iFrameResize({log:true, checkOrigin: false});
     });
 </script>
-<iframe id="vk_like_iframe" src="http://moscow.test.questoria.ru/social-table-iframe" width="100%" scrolling="no"></iframe>
+<iframe id="vk_like_iframe" src="http://moscow.staging.questoria.ru/social-table-iframe" width="100%" scrolling="no"></iframe>
