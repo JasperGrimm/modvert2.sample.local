@@ -12,7 +12,6 @@ return [
 'moduleguid' => '',
 ];
 */
-
 # Created By Raymond Irving April, 2005
 #::::::::::::::::::::::::::::::::::::::::
 # Params:	
@@ -36,6 +35,7 @@ $snipPath .= "assets/snippets/";
 if ($m = $modx->insideManager()) {
 	return ''; # don't go any further when inside manager
 }
+
 
 # Snippet customize settings
 $tpl		= isset($tpl)? $tpl:"";

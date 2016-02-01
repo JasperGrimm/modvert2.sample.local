@@ -1,0 +1,41 @@
+<?php
+/**
+return [
+'id' => '1208',
+'type' => 'document',
+'contentType' => 'text/html',
+'pagetitle' => 'Для Калининграда',
+'longtitle' => 'Спасибо за заявку',
+'description' => '',
+'alias' => 'калининград',
+'link_attributes' => '',
+'published' => '1',
+'parent' => '1146',
+'isfolder' => '0',
+'template' => '12',
+'menuindex' => '28',
+'searchable' => '1',
+'cacheable' => '1',
+'deleted' => '0',
+'menutitle' => '',
+'donthit' => '0',
+'haskeywords' => '0',
+'hasmetatags' => '0',
+'privateweb' => '0',
+'privatemgr' => '0',
+'content_dispo' => '0',
+'hidemenu' => '0',
+];
+*/
+?>
+<p>{{ThankPageForAllCities}}</p>
+<p>
+<a rel="nofollow" href="http://www.akciya39.ru/" target="_blank"><img class="ifl" src="assets/images/partners/Akciya39.png" alt="" width="300" height="187" /></a>
+</p>
+<p> </p>
+<h3><a rel="nofollow" href="http://www.akciya39.ru/" target="_blank">Акция39.ру — самые выгодные цены</a></h3>
+<p>
+Вы всегда будете в курсе самых выгодных цен в магазинах и супермаркетах Калининграда, не выходя из дома и офиса! Проект аккумулирует информацию об акциях, скидках и распродажах, которые проходят в Калининграде. Никаких купонов, только полезная информация каждый день! Калининградцы, мы работаем для вас! Каждый день мы узнаем о скидках и распродажах в нашем городе и рассказываем о них вам.</p>
+<div class="clear"> </div>
+<p>
+{{ThankPageForAllCitiesEnd}}</p>

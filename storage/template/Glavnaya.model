@@ -1,0 +1,19 @@
+<?php
+/**
+return [
+'id' => '30',
+'templatename' => 'Главная',
+'description' => 'для главной страницы',
+'editor_type' => '0',
+'category' => '0',
+'icon' => '',
+'template_type' => '0',
+'locked' => '0',
+];
+*/
+?>
+{{HEADER}}
+
+[*content*]
+
+{{FOOTER}}

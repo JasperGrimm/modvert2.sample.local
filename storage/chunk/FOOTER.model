@@ -21,7 +21,7 @@ return [
 			<div class="clear">&nbsp;</div>
 		</div>
 		<div class="copyright">
-			<div class="dp">Сайт разработан в <a href="http://designplanet.com.ua/">DesignPlanet</a></div>
+			<div class="dp">[!trans? &m=Сайт разработан в!] <a href="http://designplanet.com.ua/">DesignPlanet</a></div>
 			<div class="cn">&copy; 2010-<script type="text/javascript">document.write(new Date().getFullYear());</script> Questoria</div>
 		</div>
 	</div>

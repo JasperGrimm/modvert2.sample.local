@@ -1,7 +1,7 @@
 <?php
 /**
 return [
-'id' => '204',
+'id' => '208',
 'name' => 'QuaranteeDialogChild',
 'description' => 'текст диалогового окна с гарантией для детского праздника',
 'editor_type' => '0',

@@ -12,6 +12,5 @@ return [
 'moduleguid' => ' ',
 ];
 */
-
 /* LOCAL */
 include 'Application/Helper/GetSchedule.php';

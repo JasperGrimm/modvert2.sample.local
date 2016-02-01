@@ -1,0 +1,408 @@
+<?php
+/**
+return [
+'id' => '61',
+'type' => 'document',
+'contentType' => 'text/html',
+'pagetitle' => 'Фото, видео, пресса',
+'longtitle' => 'Фото, видео, пресса о живых квестах',
+'description' => '',
+'alias' => 'photos-and-videos',
+'link_attributes' => '',
+'published' => '1',
+'parent' => '18',
+'isfolder' => '0',
+'template' => '8',
+'menuindex' => '4',
+'searchable' => '1',
+'cacheable' => '1',
+'deleted' => '0',
+'menutitle' => '',
+'donthit' => '0',
+'haskeywords' => '0',
+'hasmetatags' => '0',
+'privateweb' => '0',
+'privatemgr' => '0',
+'content_dispo' => '0',
+'hidemenu' => '0',
+];
+*/
+?>
+<script type="text/javascript">// <![CDATA[
+$(document).ready(function(){
+	$('#nav-tabs a').click(function (e) {
+	  e.preventDefault()
+	  $(this).tab('show')
+	});
+  });
+// ]]></script>
+<h1>Фотографии, видео, пресса о квесториях</h1>
+<div class="tabs">
+
+<ul id="nav-tabs" class="nav nav-tabs">
+<li class="active"><a href="#articles">Статьи в прессе</a></li>
+<li><a href="#foto">Фотографии</a></li>
+<li><a href="#video">Репортажи и видео</a></li>
+</ul>
+<div class="tab-content">
+<div id="foto" class="tab-pane fade">
+<h3>Фотографии с квесторий</h3>
+[!PhotoSlider!]
+<p>Ещё фотографии с квесторий в группе <a href="http://vk.com/questoria">«Квестория» вКонтакте</a>.</p>
+</div>
+<div id="articles" class="tab-pane fade active in">
+<h2 class="justifyfull">Статьи о «Квестории» в прессе</h2>
+<li><a href="#MANAGER">Статьи</a></li>
+<li><a href="#SCEN">Интервью</a></li>
+<p> </p>
+<a name="MANAGER"></a>
+<h3 class="justifyfull">Статьи</h3>
+<p><a rel="nofollow" href="http://schastie-ryadom.ru/post294708527/" target="_blank">Счастье рядом: Живые квесты – новый вид интеллектуального досуга</a></p>
+<p><a rel="nofollow" href="assets/files/questoria_about.pdf" target="_blank">Журнал «СТО» No.2(29): Она написала убийство... или Как разбудить в себе Мисс Марпл? (pdf, 640Kb)</a></p>
+<p><a rel="nofollow" href="http://drugoigorod.ru/livequest/" target="_blank">Журнал «Другой город»: ВОТ ТЕ КВЕСТ. Противоядие от скуки для любителей ролевых игр</a></p>
+<p><a rel="nofollow" href="http://vpenze.ru/relax/view/56" target="_blank">Портал «вПензе»: Узнайте, как прожить жизнь другого человека за 3 часа</a></p>
+<p><a rel="nofollow" href="http://www.forbes.ru/forbeslife-photogallery/dosug/276699-vyiti-iz-komnaty-8-umnykh-gorodskikh-igr-dlya-vzroslykh/photo/2" target="_blank">Журнал «Forbes»: 8 умных городских игр для взрослых</a></p>
+<p><a href="http://www.segodnya.ua/ukraine/v-dnepre-ishchut-klad-pirata-i-hotovjat-prijut-dlja-ubijtsy.html" target="_blank">Газета «Сегодня»: Днепропетровская молодежь с головой ушла в живые квесты</a></p>
+<p><a rel="nofollow" href="http://www.kp.ru/daily/25988/2919350/" target="_blank">Комсомольская правда: теперь горожане могут почувствовать себя пиратами и отправиться на поиски клада</a></p>
+<p><a rel="nofollow" href="http://kp.ru/daily/24543.4/721501/" target="_blank">Комсомольская правда: В Москве опять - май 45-го</a></p>
+<p><a rel="nofollow" href="http://vpenze.ru/relax/view/88" target="_blank">Портал «вПензе»: Необычный способ отметить день рождения</a></p>
+<p class="justifyfull"><a rel="nofollow" href="http://www.dp.ru/a/2010/06/03/Ubijstvo_po_scenariju" target="_blank">Деловой Петербург: Убийство по сценарию</a></p>
+<p class="justifyfull"><a rel="nofollow" href="http://www.justmedia.ru/analitika/society/Igra-na-vyzhivanie-dlya-shpilek" target="_blank">Двадцать пять девушек-выпускниц оказались заброшены в Город сталкеров под Екатеринбургом</a></p>
+<p class="justifyfull"><a rel="nofollow" href="http://www.fontanka.ru/2010/07/21/052/" target="_blank">Фонтанка.Ру: Ролевые игры для взрослых</a></p>
+<p class="justifyfull"><a rel="nofollow" href="http://www.ampravda.ru/2011/07/27/031110.html" target="_blank">Амурская Правда: Пиратские страсти за чашкой кофе</a></p>
+<p class="justifyfull"><a rel="nofollow" href="http://www.segodnya.ua/regions/kiev/v-kieve-pojavilcja-novyj-kvect---ihrajut-v-ubijts-i-cyshchikov.html" target="_blank">Газета «Сегодня»: В Киеве появился новый квест</a></p>
+<p class="justifyfull"><a rel="nofollow" href="http://kommersant.ru/doc/1913273" target="_blank">Коммерсантъ-Секрет Фирмы, №5 (319): Ролевая модель</a></p>
+<p><a rel="nofollow" href="http://dumskaya.net/news/rolevye-igry-v-odesse-manyaki-na-venecianskiom-k-047780/" target="_blank">Ролевые игры в Одессе: маньяки на Венецианском карнавале и банды Дикого Запада</a></p>
+<p class="justifyfull"> </p>
+<a name="SCEN"></a>
+<h3 class="justifyfull">Интервью</h3>
+<p><a rel="nofollow" href="http://tinkov.com/stories/61" target="_blank">Тиньков: Детективы в кафе – как превратить свою любовь к играм в бизнес</a></p>
+<p><a rel="nofollow" href="http://www.s7.ru/home/business_contest/aleksey-korsun" target="_blank">Журнал «Forbes»: Интервью с директором по развитию бизнеса Questoria.ru Алексеем Корсуном</a></p>
+<p><a rel="nofollow" href="http://snova-prazdnik.ru/zhivye-kvesty-neobychnyj-korporativ-dlya-lyubitelej-syuzhetnyx-igr/" target="_blank">Портал «Снова праздник»: Необычный корпоратив для любителей сюжетных игр</a></p>
+<p><a rel="nofollow" href="http://franchisinginfo.ru/statya/410/darit-emocii-drugim-lyudyam/" target="_blank">Портал идей для бизнеса: Дарить эмоции другим людям!</a></p>
+<p class="justifyfull"><a rel="nofollow" href="http://new-retail.ru/livestyle/eto_po_lyubvi_kak_sdelat_khobbi_svoim_biznesom3154/" target="_blank">Портал «ProjectLine»: Интервью «Это по любви: как сделать хобби своим бизнесом»</a></p>
+<p class="justifyfull"><a rel="nofollow" href="http://mir24.tv/news/lifestyle/10078524" target="_blank">Телекомпания «МИР»: Как зарабатывают на любви к новым впечатлениям</a></p>
+<p class="justifyfull"> </p>
+</div>
+<div id="video" class="tab-pane fade">
+<h2>Видео и репортажи с квесторий</h2>
+<!-- ===== -->
+<div itemscope itemtype="https://schema.org/VideoObject" class="fl" style="width: 340px;">
+     <a itemprop="url" href="https://youtube.googleapis.com/v/iLLq31KuS88" class="tdn"></a>
+     <div class="video"><iframe width="340" height="240" src="https://www.youtube.com/embed/iLLq31KuS88" frameborder="0" allowfullscreen></iframe></div>
+     <h3 itemprop="name" class="tac">Что такое живые квесты</h3>
+     <p itemprop="description" class="tac">Коротко и ясно – что такое квестории и как в них играть! Если вы новичок, смотрите это видео первым делом.</p >
+     <img itemprop="thumbnailUrl" src="https://i.ytimg.com/vi/iLLq31KuS88/hqdefault.jpg" class="hidden">
+     <meta itemprop="duration" content="PT1M03S">
+     <meta itemprop="isFamilyFriendly" content="true">
+     <p class="hidden">Дата загрузки: <span itemprop="uploadDate">2014-08-05</span></p>
+     <span itemprop="thumbnail" itemscope itemtype="https://schema.org/ImageObject" >
+          <img itemprop="contentUrl" src="https://i.ytimg.com/vi/iLLq31KuS88/hqdefault.jpg" class="hidden">
+          <meta itemprop="width" content="480">
+          <meta itemprop="height" content="360">
+     </span>
+</div>
+<!-- ===== -->
+<!-- ===== -->
+<div itemscope itemtype="https://schema.org/VideoObject" class="fr" style="width: 340px;">
+     <a itemprop="url" href="https://youtube.googleapis.com/v/O77X13g7B7g"></a>
+     <div class="video"><iframe width="340" height="240" src="https://www.youtube.com/embed/O77X13g7B7g" frameborder="0" allowfullscreen></iframe></div>
+     <h3 itemprop="name" class="tac">Москва 24 Городские игры</h3>
+     <p itemprop="description" class="tac">Что общего у фильмов и квесторий?  Об этом телеканалу Москва-24 рассказывает Маргарита Орленко, главная по квесториям в столице.</p>
+     <img itemprop="thumbnailUrl" src="https://i.ytimg.com/vi/O77X13g7B7g/hqdefault.jpg" class="hidden">
+     <meta itemprop="duration" content="PT0M54S">
+     <meta itemprop="isFamilyFriendly" content="true">
+     <p class="hidden">Дата загрузки: <span itemprop="uploadDate">2015-02-25</span></p>
+     <span itemprop="thumbnail" itemscope itemtype="https://schema.org/ImageObject">
+          <img itemprop="contentUrl" src="https://i.ytimg.com/vi/O77X13g7B7g/hqdefault.jpg" class="hidden">
+          <meta itemprop="width" content="480">
+          <meta itemprop="height" content="360">
+     </span>
+</div>
+<!-- ===== -->
+<div class="clear"> </div>
+<!-- ===== -->
+<div itemscope itemtype="https://schema.org/VideoObject" class="fl" style="width: 340px;">
+     <a itemprop="url" href="https://player.vimeo.com/video/122245924"></a>
+     <div class="video"><iframe src="https://player.vimeo.com/video/122245924?title=0&byline=0&portrait=0" width="340" height="240" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+     <h3 itemprop="name" class="tac">Квестория «Школа Магии» для детей</h3>
+     <p itemprop="description" class="tac">Обалденное видео с нашей волшебной детской игры. Да, именно так все и происходит!</p>
+     <img itemprop="thumbnailUrl" src="https://i.vimeocdn.com/video/527733211.jpg" class="hidden">
+     <meta itemprop="duration" content="PT3M07S">
+     <meta itemprop="isFamilyFriendly" content="true">
+     <p class="hidden">Дата загрузки: <span itemprop="uploadDate">2015-03-15</span></p>
+     <span itemprop="thumbnail" itemscope itemtype="https://schema.org/ImageObject">
+          <img itemprop="contentUrl" src="https://i.vimeocdn.com/video/527733211.jpg" class="hidden">
+          <meta itemprop="width" content="640">
+          <meta itemprop="height" content="360">
+     </span>
+</div>
+<!-- ===== -->
+<!-- ===== -->
+<div itemscope itemtype="https://schema.org/VideoObject" class="fr" style="width: 340px;">
+     <a itemprop="url" href="https://youtube.googleapis.com/v/XXcOnGIABzI"></a>
+     <div class="video"><iframe width="340" height="240" src="https://www.youtube.com/embed/XXcOnGIABzI" frameborder="0" allowfullscreen></iframe></div>
+     <h3 itemprop="name" class="tac">Азбука потребителя «Новый вид досуга в Самаре»</h3>
+     <p itemprop="description" class="tac">Самарцы отправились в 18-й век: о-очень подробный репортаж программы “Азбука потребителя” о том, как проходят квестории на примере «Завещания Флинта».</p>
+     <img itemprop="thumbnailUrl" src="https://i.ytimg.com/vi/XXcOnGIABzI/hqdefault.jpg" class="hidden">
+     <meta itemprop="duration" content="PT5M20S">
+     <meta itemprop="isFamilyFriendly" content="true">
+     <p class="hidden">Дата загрузки: <span itemprop="uploadDate">2014-10-20</span></p>
+     <span itemprop="thumbnail" itemscope itemtype="https://schema.org/ImageObject">
+          <img itemprop="contentUrl" src="https://i.ytimg.com/vi/XXcOnGIABzI/hqdefault.jpg" class="hidden">
+          <meta itemprop="width" content="480">
+          <meta itemprop="height" content="360">
+     </span>
+</div>
+<!-- ===== -->
+<div class="clear"> </div>
+<!-- ===== -->
+<div itemscope itemtype="https://schema.org/VideoObject" class="fl" style="width: 340px;">
+     <a itemprop="url" href="https://youtube.googleapis.com/v/fdAZuPobpGI"></a>
+     <div class="video"><iframe width="340" height="240" src="https://www.youtube.com/embed/fdAZuPobpGI" frameborder="0" allowfullscreen></iframe></div>
+     <h3 itemprop="name" class="tac">Репортаж канала «Россия» о квесториях</h3>
+     <p itemprop="description" class="tac">Телеканал «Россия» рассказывает о том, как Ижевск превращается в Бонанзу: квестории дошли и до Удмуртии!</p>
+     <img itemprop="thumbnailUrl" src="https://i.ytimg.com/vi/fdAZuPobpGI/hqdefault.jpg" class="hidden">
+     <meta itemprop="duration" content="PT1M34S">
+     <meta itemprop="isFamilyFriendly" content="true">
+     <p class="hidden">Дата загрузки: <span itemprop="uploadDate">2013-11-24</span></p>
+     <span itemprop="thumbnail" itemscope itemtype="https://schema.org/ImageObject">
+          <img itemprop="contentUrl" src="https://i.ytimg.com/vi/fdAZuPobpGI/hqdefault.jpg" class="hidden">
+          <meta itemprop="width" content="480">
+          <meta itemprop="height" content="360">
+     </span>
+</div>
+<!-- ===== -->
+<!-- ===== -->
+<div itemscope itemtype="https://schema.org/VideoObject" class="fr" style="width: 340px;">
+     <a itemprop="url" href="https://youtube.googleapis.com/v/jQGgjp5UI6E"></a>
+     <div class="video"><iframe width="340" height="240" src="https://www.youtube.com/embed/jQGgjp5UI6E" frameborder="0" allowfullscreen></iframe></div>
+     <h3 itemprop="name" class="tac">Квестория «Ставки Сделаны»</h3>
+     <p itemprop="description" class="tac">Роскошное видео о самой популярной корпоративной квестории «Ставки Сделаны!» Гангстерский шик во всей красе. Кстати, видео не постановочное, а документальное на 100%!</p>
+     <img itemprop="thumbnailUrl" src="https://i.ytimg.com/vi/jQGgjp5UI6E/hqdefault.jpg" class="hidden">
+     <meta itemprop="duration" content="PT5M28S">
+     <meta itemprop="isFamilyFriendly" content="true">
+     <p class="hidden">Дата загрузки: <span itemprop="uploadDate">2013-11-06</span></p>
+     <span itemprop="thumbnail" itemscope itemtype="https://schema.org/ImageObject">
+          <img itemprop="contentUrl" src="https://i.ytimg.com/vi/jQGgjp5UI6E/hqdefault.jpg" class="hidden">
+          <meta itemprop="width" content="480">
+          <meta itemprop="height" content="360">
+     </span>
+</div>
+<!-- ===== -->
+<div class="clear"> </div>
+<!-- ===== -->
+<div itemscope itemtype="https://schema.org/VideoObject" class="fl" style="width: 340px;">
+     <a itemprop="url" href="https://youtube.googleapis.com/v/_BOO3zLrD4g"></a>
+     <div class="video"><iframe width="340" height="240" src="https://www.youtube.com/embed/_BOO3zLrD4g" frameborder="0" allowfullscreen></iframe></div>
+     <h3 itemprop="name" class="tac">Сюжет о квесториях на канале «Celebrity»</h3>
+     <p itemprop="description" class="tac">Две журналистки по темной улице приближаются к месту убийства… Что их ждет?  Репортаж для всех любителей детективов!</p>
+     <img itemprop="thumbnailUrl" src="https://i.ytimg.com/vi/_BOO3zLrD4g/hqdefault.jpg" class="hidden">
+     <meta itemprop="duration" content="PT3M04S">
+     <meta itemprop="isFamilyFriendly" content="true">
+     <p class="hidden">Дата загрузки: <span itemprop="uploadDate">2013-10-29</span></p>
+     <span itemprop="thumbnail" itemscope itemtype="https://schema.org/ImageObject">
+          <img itemprop="contentUrl" src="https://i.ytimg.com/vi/_BOO3zLrD4g/hqdefault.jpg" class="hidden">
+          <meta itemprop="width" content="480">
+          <meta itemprop="height" content="360">
+     </span>
+</div>
+<!-- ===== -->
+<div itemscope itemtype="https://schema.org/VideoObject" class="fr" style="width: 340px;">
+     <a itemprop="url" href="https://youtube.googleapis.com/v/fdy0Qq_0BjI"></a>
+     <div class="video"><iframe width="340" height="240" src="https://www.youtube.com/embed/fdy0Qq_0BjI" frameborder="0" allowfullscreen></iframe></div>
+     <h3 itemprop="name" class="tac">«Тайны Венеции» в Липецке</h3>
+     <p itemprop="description" class="tac">Чтобы посетить изысканный венецианский бал необязательно отправляться в Италию! Вот как проходят «Тайны Венеции» в Липецке.</p>
+     <img itemprop="thumbnailUrl" src="https://i.ytimg.com/vi/fdy0Qq_0BjI/hqdefault.jpg" class="hidden">
+     <meta itemprop="duration" content="PT2M36S">
+     <meta itemprop="isFamilyFriendly" content="true">
+     <p class="hidden">Дата загрузки: <span itemprop="uploadDate">2013-10-03</span></p>
+     <span itemprop="thumbnail" itemscope itemtype="https://schema.org/ImageObject">
+          <img itemprop="contentUrl" src="https://i.ytimg.com/vi/fdy0Qq_0BjI/hqdefault.jpg" class="hidden">
+          <meta itemprop="width" content="480">
+          <meta itemprop="height" content="360">
+     </span>
+</div>
+<!-- ===== -->
+<div class="clear"> </div>
+<!-- ===== -->
+<div itemscope itemtype="https://schema.org/VideoObject" class="fl" style="width: 340px;">
+     <a itemprop="url" href="https://youtube.googleapis.com/v/QAnzZ4zR17U"></a>
+     <div class="video"><iframe width="340" height="240" src="https://www.youtube.com/embed/QAnzZ4zR17U" frameborder="0" allowfullscreen></iframe></div>
+     <h3 itemprop="name" class="tac">Сюжет о «Городе сталкеров» в Днепропетровске (на украинском)</h3>
+     <p itemprop="description" class="tac">В Днепропетровке появилась аномальная зона: репортаж о том, как проходит самая необычная – “уличная” – квестория «Городе сталкеров» (на украинском языке).</p>
+     <img itemprop="thumbnailUrl" src="https://i.ytimg.com/vi/QAnzZ4zR17U/hqdefault.jpg" class="hidden">
+     <meta itemprop="duration" content="PT2M05S">
+     <meta itemprop="isFamilyFriendly" content="true">
+     <p class="hidden">Дата загрузки: <span itemprop="uploadDate">2013-09-13</span></p>
+     <span itemprop="thumbnail" itemscope itemtype="https://schema.org/ImageObject">
+          <img itemprop="contentUrl" src="https://i.ytimg.com/vi/QAnzZ4zR17U/hqdefault.jpg" class="hidden">
+          <meta itemprop="width" content="480">
+          <meta itemprop="height" content="360">
+     </span>
+</div>
+<!-- ===== -->
+<!-- ===== -->
+<div itemscope itemtype="https://schema.org/VideoObject" class="fr" style="width: 340px;">
+     <a itemprop="url" href="https://youtube.googleapis.com/v/_62jFjcYSlw"></a>
+     <div class="video"><iframe width="340" height="240" src="https://www.youtube.com/embed/_62jFjcYSlw" frameborder="0" allowfullscreen></iframe></div>
+     <h3 itemprop="name" class="tac">Костюмированная квестория для шоу-бизнесменов Липецка</h3>
+     <p itemprop="description" class="tac">Шоу-бизнесмены Липецка превратились в пиратов! Отличный пример костюмированной квестории.</p>
+     <img itemprop="thumbnailUrl" src="https://i.ytimg.com/vi/_62jFjcYSlw/hqdefault.jpg" class="hidden">
+     <meta itemprop="duration" content="PT2M28S">
+     <meta itemprop="isFamilyFriendly" content="true">
+     <p class="hidden">Дата загрузки: <span itemprop="uploadDate">2013-06-18</span></p>
+     <span itemprop="thumbnail" itemscope itemtype="https://schema.org/ImageObject">
+          <img itemprop="contentUrl" src="https://i.ytimg.com/vi/_62jFjcYSlw/hqdefault.jpg" class="hidden">
+          <meta itemprop="width" content="480">
+          <meta itemprop="height" content="360">
+     </span>
+</div>
+<!-- ===== -->
+<div class="clear"> </div>
+<!-- ===== -->
+<div itemscope itemtype="https://schema.org/VideoObject" class="fl" style="width: 340px;">
+     <a itemprop="url" href="https://youtube.googleapis.com/v/ju-GpsQuBTM"></a>
+     <div class="video"><iframe width="340" height="240" src="https://www.youtube.com/embed/ju-GpsQuBTM" frameborder="0" allowfullscreen></iframe></div>
+     <h3 itemprop="name" class="tac">Репортаж Первого городского канала о квесториях</h3>
+     <p itemprop="description" class="tac">Самая ценная вещь в любой квестории – это… Первый городской канал Кирова ищет ответ на этот вопрос!</p>
+     <img itemprop="thumbnailUrl" src="https://i.ytimg.com/vi/ju-GpsQuBTM/hqdefault.jpg" class="hidden">
+     <meta itemprop="duration" content="PT2M41S">
+     <meta itemprop="isFamilyFriendly" content="true">
+     <p class="hidden">Дата загрузки: <span itemprop="uploadDate">2013-04-02</span></p>
+     <span itemprop="thumbnail" itemscope itemtype="https://schema.org/ImageObject">
+          <img itemprop="contentUrl" src="https://i.ytimg.com/vi/ju-GpsQuBTM/hqdefault.jpg" class="hidden">
+          <meta itemprop="width" content="480">
+          <meta itemprop="height" content="360">
+     </span>
+</div>
+<!-- ===== -->
+<!-- ===== -->
+<div itemscope itemtype="https://schema.org/VideoObject" class="fr" style="width: 340px;">
+     <a itemprop="url" href="https://youtube.googleapis.com/v/5NQnHvhUTVE"></a>
+     <div class="video"><iframe width="340" height="240" src="https://www.youtube.com/embed/5NQnHvhUTVE" frameborder="0" allowfullscreen></iframe></div>
+     <h3 itemprop="name" class="tac">Репортаж Первого канала о квесториях</h3>
+     <p itemprop="description" class="tac">Наша гордость – репортаж Первого канала о квесториях. Михаил Ширвиндт и Ксения Стриж рассказывают о наших играх!</p>
+     <img itemprop="thumbnailUrl" src="https://i.ytimg.com/vi/5NQnHvhUTVE/hqdefault.jpg" class="hidden">
+     <meta itemprop="duration" content="PT5M23S">
+     <meta itemprop="isFamilyFriendly" content="true">
+     <p class="hidden">Дата загрузки: <span itemprop="uploadDate">2011-09-11</span></p>
+     <span itemprop="thumbnail" itemscope itemtype="https://schema.org/ImageObject">
+          <img itemprop="contentUrl" src="https://i.ytimg.com/vi/5NQnHvhUTVE/hqdefault.jpg" class="hidden">
+          <meta itemprop="width" content="480">
+          <meta itemprop="height" content="360">
+     </span>
+</div>
+<!-- ===== -->
+<div class="clear"> </div>
+<!-- ===== -->
+<div itemscope itemtype="https://schema.org/VideoObject" class="fl" style="width: 340px;">
+     <a itemprop="url" href="https://youtube.googleapis.com/v/l35Ni1PfnTY"></a>
+     <div class="video"><iframe width="340" height="240" src="https://www.youtube.com/embed/l35Ni1PfnTY" frameborder="0" allowfullscreen></iframe></div>
+     <h3 itemprop="name" class="tac">Репортаж Infox.ru об игре «Где-то на Диком Западе»</h3>
+     <p itemprop="description" class="tac">Как выжить, если вы случано оказались в салуне, а вокруг подозрительные люди с оружием? Жители Дикого Запада делятся своим опытом.</p>
+     <img itemprop="thumbnailUrl" src="https://i.ytimg.com/vi/l35Ni1PfnTY/hqdefault.jpg" class="hidden">
+     <meta itemprop="duration" content="PT4M05S">
+     <meta itemprop="isFamilyFriendly" content="true">
+     <p class="hidden">Дата загрузки: <span itemprop="uploadDate">2011-05-17</span></p>
+     <span itemprop="thumbnail" itemscope itemtype="https://schema.org/ImageObject">
+          <img itemprop="contentUrl" src="https://i.ytimg.com/vi/l35Ni1PfnTY/hqdefault.jpg" class="hidden">
+          <meta itemprop="width" content="480">
+          <meta itemprop="height" content="360">
+     </span>
+</div>
+<!-- ===== -->
+<!-- ===== -->
+<div itemscope itemtype="https://schema.org/VideoObject" class="fr" style="width: 340px;">
+     <a itemprop="url" href="https://youtube.googleapis.com/v/a_4gNZ_IG0g"></a>
+     <div class="video"><iframe width="340" height="240" src="https://www.youtube.com/embed/a_4gNZ_IG0g" frameborder="0" allowfullscreen></iframe></div>
+     <h3 itemprop="name" class="tac">«Новости» Хабаровск. Квестория «Завещание Флинта»</h3>
+     <p itemprop="description" class="tac">Как выиграть в квестории? Хабаровские игроки делятся в этом видео парочкой хитростей.</p>
+     <img itemprop="thumbnailUrl" src="https://i.ytimg.com/vi/a_4gNZ_IG0g/hqdefault.jpg" class="hidden">
+     <meta itemprop="duration" content="PT2M10S">
+     <meta itemprop="isFamilyFriendly" content="true">
+     <p class="hidden">Дата загрузки: <span itemprop="uploadDate">2011-04-03</span></p>
+     <span itemprop="thumbnail" itemscope itemtype="https://schema.org/ImageObject">
+          <img itemprop="contentUrl" src="https://i.ytimg.com/vi/a_4gNZ_IG0g/hqdefault.jpg" class="hidden">
+          <meta itemprop="width" content="480">
+          <meta itemprop="height" content="360">
+     </span>
+</div>
+<!-- ===== -->
+<div class="clear"> </div>
+<!-- ===== -->
+<div itemscope itemtype="https://schema.org/VideoObject" class="fl" style="width: 340px;">
+     <a itemprop="url" href="https://youtube.googleapis.com/v/35cEKTKBeKg"></a>
+     <div class="video"><iframe width="340" height="240" src="https://www.youtube.com/embed/35cEKTKBeKg" frameborder="0" allowfullscreen></iframe></div>
+     <h3 itemprop="name" class="tac">«Вести», Новосибирск</h3>
+     <p itemprop="description" class="tac">Мы в программе «Вести»: репортаж о том, как проходила самая первая квестория Сибири.</p>
+     <img itemprop="thumbnailUrl" src="https://i.ytimg.com/vi/35cEKTKBeKg/hqdefault.jpg" class="hidden">
+     <meta itemprop="duration" content="PT1M59S">
+     <meta itemprop="isFamilyFriendly" content="true">
+     <p class="hidden">Дата загрузки: <span itemprop="uploadDate">2011-03-25</span></p>
+     <span itemprop="thumbnail" itemscope itemtype="https://schema.org/ImageObject">
+          <img itemprop="contentUrl" src="https://i.ytimg.com/vi/35cEKTKBeKg/hqdefault.jpg" class="hidden">
+          <meta itemprop="width" content="480">
+          <meta itemprop="height" content="360">
+     </span>
+</div>
+<!-- ===== -->
+<!-- ===== -->
+<div itemscope itemtype="https://schema.org/VideoObject" class="fr" style="width: 340px;">
+     <a itemprop="url" href="https://youtube.googleapis.com/v/1k3kTWRs1js"></a>
+     <div class="video"><iframe width="340" height="240" src="https://www.youtube.com/embed/1k3kTWRs1js" frameborder="0" allowfullscreen></iframe></div>
+     <h3 itemprop="name" class="tac">Сюжет о «Квестории» НТВ+</h3>
+     <p itemprop="description" class="tac">«Место встречи – единственное, что известно участникам!». НТВ+ нагоняет загадочности в своем сюжете о московских квесториях.</p>
+     <img itemprop="thumbnailUrl" src="https://i.ytimg.com/vi/1k3kTWRs1js/hqdefault.jpg" class="hidden">
+     <meta itemprop="duration" content="PT3M48S">
+     <meta itemprop="isFamilyFriendly" content="true">
+     <p class="hidden">Дата загрузки: <span itemprop="uploadDate">2010-12-12</span></p>
+     <span itemprop="thumbnail" itemscope itemtype="https://schema.org/ImageObject">
+          <img itemprop="contentUrl" src="https://i.ytimg.com/vi/1k3kTWRs1js/hqdefault.jpg" class="hidden">
+          <meta itemprop="width" content="480">
+          <meta itemprop="height" content="360">
+     </span>
+</div>
+<!-- ===== -->
+<div class="clear"> </div>
+<!-- ===== -->
+<div itemscope itemtype="https://schema.org/VideoObject" class="fl" style="width: 340px;">
+     <a itemprop="url" href="https://youtube.googleapis.com/v/Wm7QLC1dxYE"></a>
+     <div class="video"><iframe width="340" height="240" src="https://www.youtube.com/embed/Wm7QLC1dxYE" frameborder="0" allowfullscreen></iframe></div>
+     <h3 itemprop="name" class="tac">Сюжет о «Квестории» для телеканала «РБК-Петербург»</h3>
+     <p itemprop="description" class="tac">Как почувствовать себя миллионером? Инструкция телеканала «РБК-Петербург». Конечно, без квесторий тут тоже не обошлось!</p>
+     <img itemprop="thumbnailUrl" src="https://i.ytimg.com/vi/Wm7QLC1dxYE/hqdefault.jpg" class="hidden">
+     <meta itemprop="duration" content="PT0M49S">
+     <meta itemprop="isFamilyFriendly" content="true">
+     <p class="hidden">Дата загрузки: <span itemprop="uploadDate">2010-10-31</span></p>
+     <span itemprop="thumbnail" itemscope itemtype="https://schema.org/ImageObject">
+          <img itemprop="contentUrl" src="https://i.ytimg.com/vi/Wm7QLC1dxYE/hqdefault.jpg" class="hidden">
+          <meta itemprop="width" content="480">
+          <meta itemprop="height" content="360">
+     </span>
+</div>
+<!-- ===== -->
+<!-- ===== -->
+<div itemscope itemtype="https://schema.org/VideoObject" class="fr" style="width: 340px;">
+     <a itemprop="url" href="https://youtube.googleapis.com/v/nQp7swTMUJE"></a>
+     <div class="video"><iframe width="340" height="240" src="https://www.youtube.com/embed/nQp7swTMUJE" frameborder="0" allowfullscreen></iframe></div>
+     <h3 itemprop="name" class="tac">Квестории на кабельном телеканале «Дом»</h3>
+     <p itemprop="description" class="tac">Как начиналась «Квестория» – репортаж с одной из самых первых игр. В роли ведущего – основатель «Квестории» Алексей Корсун.</p>
+     <img itemprop="thumbnailUrl" src="https://i.ytimg.com/vi/nQp7swTMUJE/hqdefault.jpg" class="hidden">
+     <meta itemprop="duration" content="PT2M18S">
+     <meta itemprop="isFamilyFriendly" content="true">
+     <p class="hidden">Дата загрузки: <span itemprop="uploadDate">2010-02-03</span></p>
+     <span itemprop="thumbnail" itemscope itemtype="https://schema.org/ImageObject">
+          <img itemprop="contentUrl" src="https://i.ytimg.com/vi/nQp7swTMUJE/hqdefault.jpg" class="hidden">
+          <meta itemprop="width" content="480">
+          <meta itemprop="height" content="360">
+     </span>
+</div>
+<!-- ===== -->
+<div class="clear"> </div>
+<p><a rel="nofollow" href="http://www.moskva.fm/share/2108/20120613/fromtime:09:13:46" target="_blank">Сюжет о <span>«</span>Квестории<span>»</span> на радио <span>«</span>Комосмольская правда<span>»</span></a>.</p>
+<p><a rel="nofollow" href="http://rpgrad.ru/project/zhivaya-igra-31-kvestoriya-i-kommercheskie-rolevye-igry" target="_blank">Ролевое радио о коммерческих ролевых играх: Живая Игра № 31.</a></p>
+</div>
+</div>
+</div>
+<p> </p>

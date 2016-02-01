@@ -1,0 +1,55 @@
+<?php
+/**
+return [
+'id' => '268',
+'type' => 'document',
+'contentType' => 'text/html',
+'pagetitle' => 'Заказать день рождения (мобильная)',
+'longtitle' => 'Заказать день рождения',
+'description' => '',
+'alias' => 'заказать-день-рождения',
+'link_attributes' => '',
+'published' => '1',
+'parent' => '267',
+'isfolder' => '0',
+'template' => '26',
+'menuindex' => '0',
+'searchable' => '1',
+'cacheable' => '0',
+'deleted' => '0',
+'menutitle' => '',
+'donthit' => '0',
+'haskeywords' => '0',
+'hasmetatags' => '0',
+'privateweb' => '0',
+'privatemgr' => '0',
+'content_dispo' => '0',
+'hidemenu' => '1',
+];
+*/
+?>
+<div style="display:none;" id="rlp_scenario_fran">[!franchaiziId!]</div>
+<div style="display:none;" id="rlp_scenario_page">[!thisDocId!]</div>
+<div id="content">
+  <div class="block_text_content">
+    <h1>Игра на день рождения в [[CityName? &declinatio=6]]</h1>
+    <p class="ta_c"><img src="/themes/questoria/mobile-version/upload/1.png" alt="" title=""></p>
+    <p>Задумались, как отметить день рождения? Закажите проведение квестории на праздник!</p>
+    <p>Игра может проходить дома или в кафе. Каждый участник получит роль в истории, собственные цели и секреты.</p>
+    <p>Развязка истории целиком зависит от действий игроков. Оставьте заявку на квесторию прямо сейчас!</p>
+  </div>
+  {{Video-LP-Mobile}}
+</div>
+<div id="reasons">
+  <div class="block_text_content">
+    <h2>Шесть причин заказать квесторию</h2>
+    <ul class="check-list">
+      <li>Удивите гостей новым, необычным праздником — ваш день рождения точно запомнят!</li>
+      <li>Вы не просто весело и интересно проведете время — игра открывает друзей с новой неожиданной стороны</li>
+      <li>Квестория — это отличный способ познакомить людей из разных кругов общения, людей постарше и помладше</li>
+      <li>Благодаря индивидуальному подбору ролей вы сможете вовлечь в игру и тихих, и активных людей</li>
+      <li>Квестория — это полностью готовый праздник. Вам не придется придумывать все самим</li>
+      <li>Вы не ограничены местом организации праздника: игру можно устроить дома, в кафе или на природе</li>
+    </ul>
+  </div>
+</div>

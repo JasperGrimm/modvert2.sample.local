@@ -1,0 +1,33 @@
+<?php
+/**
+return [
+'id' => '244',
+'type' => 'document',
+'contentType' => 'text/html',
+'pagetitle' => 'Детские игры',
+'longtitle' => 'Игры на день рождения ребенка в [!CityName!]. Сюжетные игры для проведения детского праздника.',
+'description' => '',
+'alias' => 'games-for-kids',
+'link_attributes' => '',
+'published' => '1',
+'parent' => '20',
+'isfolder' => '0',
+'template' => '18',
+'menuindex' => '44',
+'searchable' => '1',
+'cacheable' => '0',
+'deleted' => '0',
+'menutitle' => '',
+'donthit' => '0',
+'haskeywords' => '0',
+'hasmetatags' => '0',
+'privateweb' => '0',
+'privatemgr' => '0',
+'content_dispo' => '0',
+'hidemenu' => '1',
+];
+*/
+?>
+{{LandingContent_ChildrenGame}}
+</div>
+{{QuaranteeLandingDialogChild}}

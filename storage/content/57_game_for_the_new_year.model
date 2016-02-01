@@ -1,0 +1,60 @@
+<?php
+/**
+return [
+'id' => '57',
+'type' => 'document',
+'contentType' => 'text/html',
+'pagetitle' => 'Новый год',
+'longtitle' => 'Веселые интересные игры на Новый год в [!CityName!]. Сценарии новогоднего корпоративного праздника в [[CityName? &declinatio=1]].',
+'description' => '',
+'alias' => 'game-for-the-new-year',
+'link_attributes' => '',
+'published' => '1',
+'parent' => '20',
+'isfolder' => '0',
+'template' => '10',
+'menuindex' => '8',
+'searchable' => '1',
+'cacheable' => '1',
+'deleted' => '0',
+'menutitle' => '',
+'donthit' => '0',
+'haskeywords' => '0',
+'hasmetatags' => '0',
+'privateweb' => '0',
+'privatemgr' => '0',
+'content_dispo' => '0',
+'hidemenu' => '0',
+];
+*/
+?>
+<h1>Игра на Новый год в [!CityName? &amp;declinatio=6!]</h1>
+<div class="ifr"><img class="ifr" style="float: right;" title="необычный корпоратив на новый год" src="/assets/images/Pics_for_site/x_d05d509a.jpg" alt="новогодний корпоратив" width="220" height="330" /></div>
+<p class="justifyfull">Новогодний корпоратив должен быть заряжающим весельем и энергией если не на год вперед, то хотя бы на долгие зимние дни. А ещё он должен быть новогодним приключением для всех участников. Именно такой праздник с сюжетными костюмированными играми – живыми квестами – предлагает «Квестория»!</p>
+<p class="justifyfull"><span>[!GoOrder2!]</span></p>
+<p class="justifyfull">Живой квест – это трехчасовое приключение, активным участником которого становится каждый игрок. Сюжет игры может разворачиваться в атмосфере средневековой Венеции, на пиратском корабле, на съемочной площадке Голливуда… </p>
+<p class="justifyfull">Выбор сюжета зависит исключительно от вашего вкуса. Но мы гарантируем, что авантюры, интриги, дуэли, а также эмоции и яркие впечатления не обойдут стороной ни одного участника игры. </p>
+<ul>
+<li class="justifyfull" style="margin-top: 0.5em;">Никакой предварительной подготовки участников не требуется. Каждый наш сюжет – полностью готовая игра, организацией и проведением которой занимается наш ведущий. </li>
+<li class="justifyfull" style="margin-top: 0.5em;">По желанию участников можно устроить костюмированную игру. Это сделает атмосферу праздника более запоминающейся, а красочными фотографиями с новогодней вечеринки можно будет похвастаться перед друзьями. </li>
+<li class="justifyfull" style="margin-top: 0.5em;">Мы создаём квестории таким образом, чтобы подобрать подходящую и интересную роль даже для самого скромного игрока. Каждый обязательно получит свою долю волшебства. Наш опыт показывает, что любой коллектив после совместного приключения становится более сплоченным и дружным. </li>
+</ul>
+<p style="margin-top: 0.8em;">Закажите волшебную вечеринку вместе с «Квесторией» на новогодние праздники!</p>
+<h2 class="justifyfull">С нами играют:</h2>
+<p class="justifyfull"><img src="http://questoria.ru/assets/images/Pics_for_site/Logo corp/pg.jpg" width="95" height="45" /><img src="http://questoria.ru/assets/images/Pics_for_site/Logo corp/toyota.jpg" width="175" height="48" /><img src="http://questoria.ru/assets/images/Pics_for_site/Logo corp/rosneft.jpg" width="86" height="58" /><img src="http://questoria.ru/assets/images/Pics_for_site/Logo corp/unilever.jpg" width="54" height="60" /><img src="http://questoria.ru/assets/images/Pics_for_site/Logo corp/ernst.jpg" width="195" height="49" /><img src="http://questoria.ru/assets/images/Pics_for_site/Logo corp/i-free.jpg" width="118" height="48" /></p>
+<p class="justifyfull"><img src="http://questoria.ru/assets/images/Pics_for_site/Logo corp/vtb.jpg" width="140" height="47" /><img src="http://questoria.ru/assets/images/Pics_for_site/Logo corp/globallogic.jpg" width="148" height="49" /><img src="http://questoria.ru/assets/images/Pics_for_site/Logo corp/luxoft.jpg" width="164" height="48" /><img src="http://questoria.ru/assets/images/Pics_for_site/Logo corp/mail.jpg" width="134" height="48" /><img src="http://questoria.ru/assets/images/Pics_for_site/Logo corp/omsk1.jpg" width="126" height="48" /></p>
+<div class="dark round block-2">
+<div class="citate"><img class="fl" src="/themes/questoria/images/ico_cite-white.gif" />
+<p class="justifyfull"><span>Благодаря игре новогодний корпоратив получился живым, интересным, все получили много позитивных эмоций. Раньше мы с коллегами играли в мафию, но интерактивная игра с сюжетом – это гораздо интереснее. Спасибо Questoria, самостоятельно сделать что-либо подобное практически невозможно. Решили на следующее мероприятие обязательно заказать игру.
+</span></p>
+<div class="author"><strong>Александр Мартюшев, компания «АСКОН»</strong></div>
+</div>
+</div>
+<p> </p>
+<p>{{ScenariosWeOffer}}</p>
+<p> </p>
+<p>[!PLANS_MAIN? &amp;game_alias=corporate &amp;factor=1.25 &amp; use_order_type= !]</p>
+<p>
+<a name="order"></a></p>
+<p>
+[!ifFranchaizi_newyear? &amp;declinatio=6 &amp;type=corporative &amp;type=private_additional_user &amp;OrderType=[*OrderType*] &amp;ThankPage=[*ThankPage*] !]</p>

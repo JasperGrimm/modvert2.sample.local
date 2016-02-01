@@ -1,0 +1,64 @@
+<?php
+/**
+return [
+'id' => '164',
+'type' => 'document',
+'contentType' => 'text/html',
+'pagetitle' => 'Корпоратив',
+'longtitle' => 'Корпоратив',
+'description' => '',
+'alias' => 'заказать-корпоратив',
+'link_attributes' => '',
+'published' => '1',
+'parent' => '162',
+'isfolder' => '0',
+'template' => '10',
+'menuindex' => '1',
+'searchable' => '1',
+'cacheable' => '1',
+'deleted' => '0',
+'menutitle' => '',
+'donthit' => '0',
+'haskeywords' => '0',
+'hasmetatags' => '0',
+'privateweb' => '0',
+'privatemgr' => '0',
+'content_dispo' => '0',
+'hidemenu' => '0',
+];
+*/
+?>
+<h1 class="justifyfull">Проведение корпоратива в [!CityName? &amp;declinatio=6!]</h1>
+<p class="justifyfull"><img class="ifr" style="float: right; margin-left: 10px;" title="как организовать необычный корпоратив?" src="/assets/images/Pics_for_site/x_5e45e270.jpg" alt="проведение корпоратива" width="300" height="199" />Мы поможем организовать необычный корпоратив: <br />сюжетную игру на вашем празднике — <strong>живой квест</strong>.</p>
+<p class="justifyfull">[!GoOrder3!]</p>
+<p class="justifyfull">{{WhatsQuest}}</p>
+<p class="justifyfull">Живые квесты помогут быстро познакомить коллектив и взглянуть по-новому друг на друга. Игры сочетаются с лёгким фуршетом, могут проходить в офисе, в кафе или на свежем воздухе — в любом случае это будет море эмоций и захватывающее приключение!</p>
+<h2 class="justifyfull">С нами играют:</h2>
+<p class="justifyfull"><img title="роснефть играет в живые квесты" src="/assets/images/Pics_for_site/rosneft.gif" alt="роснефть корпоратив" width="92" height="58" />       <img title="Ernst&amp;Young играют в живые квесты" src="/assets/images/Pics_for_site/ernst_and_young.gif" alt="Ernst&amp;Young корпоратив" width="190" height="48" />       <img title="P&amp;G играет в живые квесты" src="/assets/images/Pics_for_site/pg_logo.gif" alt="P&amp;G корпоратив" width="78" height="52" />       <img title="Bi to be играет в живые квесты" src="assets/images/Pics_for_site/logo_bitobe.gif" alt="Bi to be корпоратив" width="133" height="37" />    <img title="i-free играет в живые квесты" src="/assets/images/Pics_for_site/logo-ifree.png" alt="i-free корпоратив" /></p>
+<div class="dark round block-2">
+<div class="citate"><img class="fl" src="/themes/questoria/images/ico_cite-white.gif" alt="" />
+<p class="justifyfull"><span style="color: #222222; font-family: arial, sans-serif; font-variant: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; font-size: 14px; font-style: italic; line-height: 17px; text-align: justify; background-color: #f6f4ed;">Для разных команд </span><strong style="color: #222222; font-family: arial, sans-serif; font-variant: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; margin: 0px; padding: 0px; outline: none; font-size: 14px; font-style: italic; line-height: 17px; text-align: justify; background-color: #f6f4ed;">«Procter&amp;Gamble»</strong><span style="color: #222222; font-family: arial, sans-serif; font-variant: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; font-size: 14px; font-style: italic; line-height: 17px; text-align: justify; background-color: #f6f4ed;"> мы заказывали живые квесты. Мероприятия прошли успешно! Удобно то, что квест можно организовать прямо в ресторане и перемежать с ужином, закусками и другими элементами вечерней программы. Еще один немаловажный элемент - это атрибуты костюмов, которые можно выдать заранее, и подготовка, нагнетающая обстановку квеста - все это уже заранее создает интерес и интригу у участников, а значит влияет на финальный успех. Интересный и необычный вариант тимбилдинга. С удовольствием рекомендую.</span></p>
+<div class="author">Варвара Лялягина,
+HR менеджер компании «Procter&amp;Gamble»</div>
+</div>
+</div>
+<p>
+<object width="425" height="350" data="http://www.youtube.com/v/l35Ni1PfnTY&amp;feature" type="application/x-shockwave-flash">
+<param name="data" value="http://www.youtube.com/v/l35Ni1PfnTY&amp;feature" />
+<param name="src" value="http://www.youtube.com/v/l35Ni1PfnTY&amp;feature" />
+</object>
+</p>
+<p>{{ScenariosWeOffer}}</p>
+<p class="justifyfull"><img class="ifr" style="float: right;" title="ковбойская игра на корпоратив" src="/assets/images/Pics_for_site/sweeeet_two.jpg" alt="игра на корпоратив" width="300" height="199" />{{HowGoesLiveQuest}}</p>
+<p>
+<a name="order"> </a>
+[!ifFranchaizi_korp? &amp;declinatio=6 &amp;type=corporative &amp;type=private_additional_user &amp;OrderType=[*OrderType*] &amp;ThankPage=[*ThankPage*] !]</p>
+<div class="dark round block-2">
+<div class="citate">
+<img class="fl" src="/themes/questoria/images/ico_cite-white.gif" alt="" />
+<p class="justifyfull"><span>Эмоции нас захлестнули и не отпускают уже 6-ой день. Почти все спорные вопросы мы теперь решаем посредством КНБ)
+Прекрасный способ укрепить команду и провести время с пользой. Погружение в альтернативную реальность прошло на ура! Спасибо! Будем играть еще! <br />
+PS: Совсем забыла, мы теперь еще друг друга именами персонажей называем — приросли))</span></p>
+<div class="author"><strong>Наталья Попельнюх, координатор проектов «Global Logic - Харьков»</strong></div>
+</div>
+</div>
