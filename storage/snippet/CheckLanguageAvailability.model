@@ -1,7 +1,7 @@
 <?php
 /**
 return [
-'id' => '184',
+'id' => '182',
 'name' => 'CheckLanguageAvailability',
 'description' => 'проверка- Может ли существовать страница для данного языка. Если нет - отдаем 404',
 'editor_type' => '0',

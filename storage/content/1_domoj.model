@@ -5,7 +5,7 @@ return [
 'type' => 'document',
 'contentType' => 'text/html',
 'pagetitle' => 'Квестория: живые квесты в [[CityName? &declinatio=1]]',
-'longtitle' => 'Живые квесты в [[CityName? &declinatio=1]] — организация праздников, салонных игр, сюжетных детективных ролевых игр - Questoria',
+'longtitle' => 'Живые квесты в [!CityName!] — организация праздников, салонных игр, сюжетных детективных ролевых игр - Questoria',
 'description' => '',
 'alias' => 'домой',
 'link_attributes' => '',
@@ -15,7 +15,7 @@ return [
 'template' => '5',
 'menuindex' => '0',
 'searchable' => '1',
-'cacheable' => '1',
+'cacheable' => '0',
 'deleted' => '0',
 'menutitle' => '',
 'donthit' => '0',
@@ -34,9 +34,9 @@ return [
 <div class="columns-2">{{MainPageTest4}}
 <div class="clear"> </div>
 <div class="banner-main">
-    <div class="banner-main-img"></div>
-    <div class="banner-main-text">Играете впервые? Хотите получить скидку на участие в квестории?</div>
-    <div class="banner-main-button">
+<div class="banner-main-img"></div>
+<div class="banner-main-text">Играете впервые? Хотите получить скидку на участие в квестории?</div>
+<div class="banner-main-button">
         <a class="green-button-alt dialog-control" href="/" data-target="#dialog_banner">Получить скидку</a>
     </div>
 </div>
@@ -92,4 +92,5 @@ return [
 <div class="clear"> </div>
 </div>
 <!--/ Home Bottom /-->
-[!SendsayLeadMagnet!]
+<p>
+[!SendsayLeadMagnet!]</p>

@@ -1,0 +1,37 @@
+<?php
+/**
+return [
+'id' => '75',
+'type' => 'document',
+'contentType' => 'text/html',
+'pagetitle' => 'Рекламодателям',
+'longtitle' => '',
+'description' => '',
+'alias' => 'рекламодателям',
+'link_attributes' => '',
+'published' => '1',
+'parent' => '95',
+'isfolder' => '0',
+'template' => '8',
+'menuindex' => '6',
+'searchable' => '1',
+'cacheable' => '0',
+'deleted' => '0',
+'menutitle' => '',
+'donthit' => '0',
+'haskeywords' => '0',
+'hasmetatags' => '0',
+'privateweb' => '0',
+'privatemgr' => '0',
+'content_dispo' => '0',
+'hidemenu' => '0',
+];
+*/
+?>
+<h1 class="justifyfull">Рекламодателям</h1>
+<p class="justifyfull"><span style="color: #af0b31; font-family: verdana; font-size: 22px; line-height: 22px;">Реклама на играх</span></p>
+<p class="justifyfull"><span>Квестории посещают много людей с активным, творческим образом жизни — игроки в «Мафию», «Дозоры», танцоры. Если вы хотите, чтобы в комплект, раздаваемый участникам живого квеста до игры или после игры в определенном городе были включены ваши материалы (флаеры, подарочные сертификаты) свяжитесь с нами:</span></p>
+<p class="justifyfull">{{ContactBlockMarketing}}</p>
+<p class="justifyfull"><span>Материалы могут раздаваться как на открытых играх, так и по договоренности, на днях рождения и корпоративах — это надёжный способ донести вашу информацию прямо до непосредственного заказчика.</span></p>
+<p> </p>
+<p class="justifyfull"> </p>

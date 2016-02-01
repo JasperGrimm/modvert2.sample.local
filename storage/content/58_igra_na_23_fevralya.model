@@ -1,0 +1,108 @@
+<?php
+/**
+return [
+'id' => '58',
+'type' => 'document',
+'contentType' => 'text/html',
+'pagetitle' => '23 февраля',
+'longtitle' => 'Как провести 23 февраля в [!CityName!]. Организация празднования 23 февраля. ',
+'description' => '',
+'alias' => 'игра-на-23-февраля',
+'link_attributes' => '',
+'published' => '1',
+'parent' => '20',
+'isfolder' => '0',
+'template' => '10',
+'menuindex' => '11',
+'searchable' => '1',
+'cacheable' => '0',
+'deleted' => '0',
+'menutitle' => '',
+'donthit' => '0',
+'haskeywords' => '0',
+'hasmetatags' => '0',
+'privateweb' => '0',
+'privatemgr' => '0',
+'content_dispo' => '0',
+'hidemenu' => '0',
+];
+*/
+?>
+<h1>Как провести 23 февраля в [!CityName? &amp;declinatio=6!]</h1>
+<div class="section description s-page">
+<div class="wrap">
+<div class="description_wrp">
+<div class="descr-left february23">
+            </div>
+<div class="descr-right">
+<div class="title red">
+Задумались, как отметить<br /> 23 февраля?</div>
+<ul class="bullets">
+<li>Близится 23 февраля, и уже встал вопрос: <br />
+«Как провести корпоратив»? </li>
+<li>Надо устроить для мужчин на работе <br />
+оригинальный праздник? </li>
+<li>Хочется необычного, умного <br />и запоминающегося события?</li>
+</ul>
+<p>Закажите квесторию на 23 февраля!</p>
+<div class="button" style="margin-top: 10px!important;"><a class="order big-button" href="#order"><span>Оставить заявку</span></a></div>
+</div>
+</div>
+<div class="clear"> </div>
+</div>
+</div>
+<h2>Что такое квестории?</h2>
+<p class="justifyfull">Квестория на 23 февраля — это возможность каждому игроку стать героем настоящего приключения.
+Коллеги любят хорошие боевики, шпионские истории или авантюрные комедии? Теперь они сами станут их главными героями!
+Квестории — это игры, которые проходят в реальном мире, а не на экране.
+</p>
+<p class="justifyfull">
+Каждый игрок получает роль со своими секретами и целями и на несколько часов погружается в атмосферу приключения!
+У игроков есть всего три часа на то, чтобы найти чертежи секретного оружия, победить на дуэли давнего соперника, завоевать сердце
+прекрасной венецианки, раскрыть всемирный заговор и стать лихим пиратским капитаном!
+</p>
+<p class="justifyfull">
+<a href="/о-живых-квестах/сценарии-игр/для-мужчин" target="blank">Какой сценарий выберете для них вы?</a>
+</p>
+<div class="video">
+</div>
+<div class="clear"> </div>
+<p> </p>
+<p class="justifyfull">
+Хороший корпоратив на 23 февраля сближает людей и заряжает их энергией. Мы организуем для вас такой праздник. <a href="/отзыв-об-игре" target="blank">Отзывы наших игроков</a> это подтверждают.
+Закажите квесторию на 23 февраля — превратите ваш корпоратив в приключение!
+</p>
+<p> </p>
+<div class="dark round block-2">
+<div class="citate"><img class="fl" src="/themes/questoria/images/ico_cite-white.gif" alt="" />
+<p class="justifyfull"><span>
+<span>Взрыв мозга и вынос его по кусочкам! Сказать, что было азартно и адски весело – это не сказать ничего!</span></span></p>
+<div class="author">Константин Ермолаев</div>
+</div>
+</div>
+<div class="dark round block-2">
+<div class="citate"><img class="fl" src="/themes/questoria/images/ico_cite-white.gif" alt="" />
+<p class="justifyfull"><span>Я получил даже больше, чем ожидал... все очень завораживает, затягивает... порой людям в голову приходят безумные идеи и всё получается еще запутаннее и интереснее. Мне безумно понравилось! =) </span></p>
+<div class="author">Салам Алиев</div>
+</div>
+</div>
+<p> </p>
+<p>{{ScenariosWeOffer}}</p>
+<p>
+{{reasonsToOrderFeb23Page}}
+</p>
+<p> </p>
+<p><img class="ifl" style="float: left; margin-bottom: 10px;" title="пиратская игра на день рождения" src="/assets/images/Pics_for_site/23february.jpg" alt="игра на день рождения" width="308" height="200" />{{HowGoesLiveQuest}}</p>
+<p> </p>
+<h2>Фотографии с квесторий</h2>
+<p>
+[[PhotoSlider? &amp;alias=hb]]
+</p>
+<p> </p>
+<p>[!PLANS_MAIN? &amp;game_alias=corporate &amp;without_ny_alert=1 &amp;use_order_type= !]</p>
+<p> </p>
+<p>
+<a name="order"> </a>
+[!ifFranchaizi_feb23? &amp;declinatio=6 &amp;type=corporative &amp;type=private_additional_user &amp;OrderType=[*OrderType*] &amp;ThankPage=[*ThankPage*] !]</p>
+<p>
+{{QuaranteeDialog}}</p>

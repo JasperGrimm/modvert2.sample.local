@@ -1,7 +1,7 @@
 <?php
 /**
 return [
-'id' => '178',
+'id' => '186',
 'name' => 'franchaiziId',
 'description' => 'Покажет id текущей франшизы если определена',
 'editor_type' => '0',

@@ -19,5 +19,7 @@ return [
 'content_values' => [
 '244' => '<script type="text/javascript">(window.Image ? (new Image()) : document.createElement(\'img\')).src = location.protocol + \'//vk.com/rtrg?r=pnTMACm1bEFwhcFpnV33LouTiUelR1z8GJXZAmnfVa3ppfCsbLzP5HV9gFNejQYV2te2XCIVZnIOIOq4c8v0BrVbklxx*sbc6PuuOb5bC0dU/qBGkM5J2CS/MaCl/VUkeJ487zKt8Pl7jYsuBZsD228uBTvmohM6ku5/lxIeYOU-\';</script>',
 '192' => '<script type="text/javascript">(window.Image ? (new Image()) : document.createElement(\'img\')).src = location.protocol + \'//vk.com/rtrg?r=gHUnidAx1eUlH8GJvt9xlwjeJ5Wr0BUOj8o3Gf7DnYHH/83ixSZP0vj8YxoPp3sJWbjJdjjTAY9r9fKscIQw89T7SQbxxN800ii6y1gXSjZgOxXlEx8JVMqIuGRDE88wWaqtflc1vWt0hI/y5vv7eZu8lnIZQfDaX8wDqwma58A-\';</script>',
+'326' => '<meta name="robots" content="noindex, nofollow" />',
+'241' => '<meta name="robots" content="noindex, nofollow" />',
 ],
 ];

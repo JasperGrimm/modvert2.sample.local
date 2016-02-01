@@ -1,5 +1,0 @@
-<?php
-return [
-'id' => '8',
-'category' => 'Questoria Templates',
-];

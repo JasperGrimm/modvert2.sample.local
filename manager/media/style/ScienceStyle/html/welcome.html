@@ -1,0 +1,100 @@
+<!-- welcome -->
+<div style="margin: 20px 12px;">
+
+	<div class="tab-pane" id="welcomePane" style="border:0">  
+
+	[+OnManagerWelcomePrerender+]
+	
+	<script type="text/javascript">
+		//set var to be used to remove the config tab
+		if('[+config_display+]' == 'none'){
+			var config_display = false;
+		}
+	</script>
+	
+	<div id="tabs">
+		
+		<ul>
+			<li><a href="#tabHome">[+site_name+]</a></li>
+			<li><a href="#tabCheck" style="color:#EF1D1D;">[+settings_config+]</a></li>
+			<li><a href="#tabNews">[+modx_news+]</a></li>
+			<li><a href="#tabSecurityNotices">[+modx_security_notices+]</a></li>
+			<li><a href="#tabAct">[+recent_docs+]</a></li>
+			<li><a href="#tabYour">[+info+]</a></li>
+			<li><a href="#tabOnline">[+online+]</a></li>
+		</ul>
+		<!-- home tab -->
+		<div id="tabHome">
+			<div class="sectionHeader">[+welcome_title+]</div>
+			<div class="sectionBody">
+				<table border="0" cellpadding="5">
+				  <tr>
+					<td colspan="2">
+						<h1 style="margin:0">[+site_name+]</h1>
+						[+cms_version_info+]
+					</td>
+				  </tr>
+				  <tr>
+					<td width="100" align="right">
+						<img src='media/style/[+theme+]/images/clippercms/logo_welcome.png' alt='[+logo_slogan+]' />
+						<br /><br />
+					</td>
+					<td valign="top">
+						[+OnManagerWelcomeHome+]
+                        [+NewDoc+]
+                        [+Elements+]
+                        [+Settings+]
+                        [+Backup+]
+                        [+Help+]
+						<br style="clear:both" /><br />
+						[+MessageInfo+]
+					</td>
+				  </tr>
+				</table>
+			</div>
+		</div>
+		<!-- system check -->
+		<div id="tabCheck">
+			<div class="sectionHeader">[+configcheck_title+]</div>
+			<div class="sectionBody">
+				<img src="media/style/[+theme+]/images/icons/error.png" />
+				[+config_check_results+]
+			</div>
+		</div>
+		<!-- clipper news -->
+		<div id="tabNews">
+			<div class="sectionHeader">[+modx_news_title+]</div><div class="sectionBody">
+				[+modx_news_content+]
+			</div>
+		</div>
+		<!-- security notices -->
+		<div id="tabSecurityNotices">
+			<div class="sectionHeader">[+modx_security_notices_title+]</div><div class="sectionBody">
+				[+modx_security_notices_content+]
+			</div>
+		</div>
+		<!-- recent activities -->
+		<div id="tabAct">
+			<div class="sectionHeader">[+activity_title+]</div><div class="sectionBody">
+				[+RecentInfo+]
+			</div>
+		</div>
+		<!-- user info -->
+		<div id="tabYour">
+			<div class="sectionHeader">[+yourinfo_title+]</div><div class="sectionBody">
+				[+UserInfo+]
+			</div>
+		</div>
+		<!-- online info -->
+		<div id="tabOnline">
+			<div class="sectionHeader">[+onlineusers_title+]</div><div class="sectionBody">
+				[+OnlineInfo+]
+			</div>
+		</div>
+	
+	</div> <!-- close tabs -->
+	
+	[+OnManagerWelcomeRender+]
+
+	</div> <!-- tab-pane -->
+</div>

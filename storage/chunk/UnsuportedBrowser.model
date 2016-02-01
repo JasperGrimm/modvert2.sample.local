@@ -1,7 +1,7 @@
 <?php
 /**
 return [
-'id' => '216',
+'id' => '215',
 'name' => 'UnsuportedBrowser',
 'description' => 'Chunk',
 'editor_type' => '0',

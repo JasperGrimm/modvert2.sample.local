@@ -12,6 +12,7 @@ return [
 'moduleguid' => ' ',
 ];
 */
+
 $qst = Wave_Registry::get('Questoria');
 
 /*
